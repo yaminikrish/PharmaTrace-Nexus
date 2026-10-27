@@ -1,0 +1,10 @@
+recall_case_id,trigger_entity_type,trigger_entity_id,hazard_classification,root_cause,initiation_date,closure_target_date,status,affected_raw_lots_count,affected_finished_lots_count,total_affected_qty,total_recovered_qty,containment_rate_pct
+REC-2026-000001,RAW_LOT,RAWLOT-SUP-00047-2026-000254,CLASS_I,Packaging Seal Integrity Breach resulting in Sterility Loss,2026-06-06T22:00:00,2026-08-05,RECOVERY_ACTIVE,1,1,721.44,638.56,88.51
+REC-2026-000002,RAW_LOT,RAWLOT-SUP-00010-2026-000097,CLASS_I,Cross-Contamination with Trace Allergen Excipient,2026-06-08T22:00:00,2026-08-07,RECOVERY_ACTIVE,1,4,3452.8099999999995,3204.42,92.81
+REC-2026-000003,RAW_LOT,RAWLOT-SUP-00048-2026-000242,CLASS_II,Active Pharmaceutical Ingredient (API) Potency Out of Specification,2026-06-05T03:00:00,2026-08-04,RECOVERY_ACTIVE,1,4,4921.120000000001,4648.13,94.45
+REC-2026-000004,RAW_LOT,RAWLOT-SUP-00037-2026-000021,CLASS_II,Microbial Contamination (Burkholderia cepacia complex detected),2026-06-12T06:00:00,2026-08-11,RECOVERY_ACTIVE,1,9,6257.530000000001,4245.48,67.85
+REC-2026-000005,FINISHED_LOT,FINLOT-2026-000192,CLASS_III,Microbial Contamination (Burkholderia cepacia complex detected),2026-05-17T13:00:00,2026-07-16,RECONCILED,2,1,1927.38,1912.37,99.22
+REC-2026-000006,FINISHED_LOT,FINLOT-2026-000088,CLASS_I,Cross-Contamination with Trace Allergen Excipient,2026-06-12T20:00:00,2026-08-11,RECOVERY_ACTIVE,2,1,1908.3,1839.79,96.41
+REC-2026-000007,FINISHED_LOT,FINLOT-2026-000180,CLASS_I,Active Pharmaceutical Ingredient (API) Potency Out of Specification,2026-06-05T11:00:00,2026-08-04,RECONCILED,2,1,977.51,975.18,99.76
+REC-2026-000008,FINISHED_LOT,FINLOT-2026-000095,CLASS_I,Packaging Seal Integrity Breach resulting in Sterility Loss,2026-06-05T13:00:00,2026-08-04,RECOVERY_ACTIVE,3,1,1109.17,1016.21,91.62
+REC-2026-BREACH-01,FINISHED_LOT,FINLOT-2026-000003,CLASS_I,Critical Impurity Spike - Immediate Containment Required,2026-04-22T01:00:00,2026-06-21,INITIATED,2,1,238.38,0.0,0.0

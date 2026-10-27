@@ -1,0 +1,81 @@
+customer_id,name,type,region,contact_email,phone,compliance_tier
+CUST-00001,Alliance Care Pharmacy #1,CLINICAL_CENTER,NA_WEST,pharmacy@cust-00001.health.org,+1-800-743-6197,GOLD
+CUST-00002,OmniCare Medical Center #2,PHARMACY_CHAIN,EU_CENTRAL,pharmacy@cust-00002.health.org,+1-800-160-9898,STANDARD
+CUST-00003,Nordic Health Depot #3,CLINICAL_CENTER,NA_CENTRAL,pharmacy@cust-00003.health.org,+1-800-305-9658,SILVER
+CUST-00004,Apex Therapeutics Pharmacy #4,CLINICAL_CENTER,APAC,pharmacy@cust-00004.health.org,+1-800-229-8880,GOLD
+CUST-00005,Alliance Care Pharmacy #5,CLINICAL_CENTER,NA_EAST,pharmacy@cust-00005.health.org,+1-800-922-6303,SILVER
+CUST-00006,OmniCare Medical Center #6,CLINICAL_CENTER,NA_CENTRAL,pharmacy@cust-00006.health.org,+1-800-453-4801,STANDARD
+CUST-00007,Mercy Health System #7,PHARMACY_CHAIN,EU_CENTRAL,pharmacy@cust-00007.health.org,+1-800-663-4690,SILVER
+CUST-00008,Valley Childrens Hospital #8,CLINICAL_CENTER,NA_EAST,pharmacy@cust-00008.health.org,+1-800-144-2433,GOLD
+CUST-00009,Valley Childrens Hospital #9,REGIONAL_DISTRIBUTOR,EU_CENTRAL,pharmacy@cust-00009.health.org,+1-800-715-9523,GOLD
+CUST-00010,Mercy Health System #10,PHARMACY_CHAIN,NA_EAST,pharmacy@cust-00010.health.org,+1-800-977-3356,GOLD
+CUST-00011,Metropolitan General Hospital #11,REGIONAL_DISTRIBUTOR,NA_CENTRAL,pharmacy@cust-00011.health.org,+1-800-951-3813,GOLD
+CUST-00012,CareFirst Distribution #12,CLINICAL_CENTER,EU_CENTRAL,pharmacy@cust-00012.health.org,+1-800-598-3620,SILVER
+CUST-00013,National Health Trust #13,PHARMACY_CHAIN,NA_WEST,pharmacy@cust-00013.health.org,+1-800-910-5377,STANDARD
+CUST-00014,St. Jude Clinical Alliance #14,PHARMACY_CHAIN,APAC,pharmacy@cust-00014.health.org,+1-800-378-6812,SILVER
+CUST-00015,Metropolitan General Hospital #15,PHARMACY_CHAIN,EU_WEST,pharmacy@cust-00015.health.org,+1-800-602-5075,GOLD
+CUST-00016,Nordic Health Depot #16,REGIONAL_DISTRIBUTOR,EU_WEST,pharmacy@cust-00016.health.org,+1-800-543-2717,SILVER
+CUST-00017,Ascension Regional Clinic #17,CLINICAL_CENTER,EU_WEST,pharmacy@cust-00017.health.org,+1-800-631-8679,SILVER
+CUST-00018,Ascension Regional Clinic #18,HOSPITAL,EU_WEST,pharmacy@cust-00018.health.org,+1-800-145-4276,STANDARD
+CUST-00019,St. Jude Clinical Alliance #19,HOSPITAL,NA_CENTRAL,pharmacy@cust-00019.health.org,+1-800-172-9188,GOLD
+CUST-00020,CareFirst Distribution #20,CLINICAL_CENTER,NA_EAST,pharmacy@cust-00020.health.org,+1-800-888-9846,GOLD
+CUST-00021,CareFirst Distribution #21,REGIONAL_DISTRIBUTOR,EU_CENTRAL,pharmacy@cust-00021.health.org,+1-800-957-9594,STANDARD
+CUST-00022,CareFirst Distribution #22,CLINICAL_CENTER,EU_CENTRAL,pharmacy@cust-00022.health.org,+1-800-976-9057,GOLD
+CUST-00023,Alliance Care Pharmacy #23,CLINICAL_CENTER,NA_WEST,pharmacy@cust-00023.health.org,+1-800-395-4556,STANDARD
+CUST-00024,National Health Trust #24,PHARMACY_CHAIN,APAC,pharmacy@cust-00024.health.org,+1-800-910-6119,STANDARD
+CUST-00025,Alliance Care Pharmacy #25,HOSPITAL,NA_CENTRAL,pharmacy@cust-00025.health.org,+1-800-681-8714,STANDARD
+CUST-00026,OmniCare Medical Center #26,HOSPITAL,NA_EAST,pharmacy@cust-00026.health.org,+1-800-729-4396,GOLD
+CUST-00027,Mercy Health System #27,HOSPITAL,EU_WEST,pharmacy@cust-00027.health.org,+1-800-739-3405,SILVER
+CUST-00028,CareFirst Distribution #28,HOSPITAL,NA_EAST,pharmacy@cust-00028.health.org,+1-800-759-2086,GOLD
+CUST-00029,National Health Trust #29,REGIONAL_DISTRIBUTOR,NA_WEST,pharmacy@cust-00029.health.org,+1-800-322-1994,GOLD
+CUST-00030,OmniCare Medical Center #30,PHARMACY_CHAIN,NA_EAST,pharmacy@cust-00030.health.org,+1-800-822-2711,SILVER
+CUST-00031,CareFirst Distribution #31,REGIONAL_DISTRIBUTOR,NA_EAST,pharmacy@cust-00031.health.org,+1-800-687-4236,STANDARD
+CUST-00032,National Health Trust #32,HOSPITAL,EU_WEST,pharmacy@cust-00032.health.org,+1-800-209-5335,GOLD
+CUST-00033,National Health Trust #33,HOSPITAL,NA_WEST,pharmacy@cust-00033.health.org,+1-800-138-5190,SILVER
+CUST-00034,Metropolitan General Hospital #34,HOSPITAL,EU_WEST,pharmacy@cust-00034.health.org,+1-800-230-5446,SILVER
+CUST-00035,CareFirst Distribution #35,CLINICAL_CENTER,NA_EAST,pharmacy@cust-00035.health.org,+1-800-332-1351,SILVER
+CUST-00036,Apex Therapeutics Pharmacy #36,CLINICAL_CENTER,NA_EAST,pharmacy@cust-00036.health.org,+1-800-375-5287,SILVER
+CUST-00037,Alliance Care Pharmacy #37,PHARMACY_CHAIN,NA_CENTRAL,pharmacy@cust-00037.health.org,+1-800-909-8443,GOLD
+CUST-00038,Ascension Regional Clinic #38,PHARMACY_CHAIN,NA_CENTRAL,pharmacy@cust-00038.health.org,+1-800-355-3888,GOLD
+CUST-00039,National Health Trust #39,HOSPITAL,NA_CENTRAL,pharmacy@cust-00039.health.org,+1-800-398-7295,SILVER
+CUST-00040,Ascension Regional Clinic #40,PHARMACY_CHAIN,EU_CENTRAL,pharmacy@cust-00040.health.org,+1-800-837-1447,STANDARD
+CUST-00041,Metropolitan General Hospital #41,CLINICAL_CENTER,EU_WEST,pharmacy@cust-00041.health.org,+1-800-345-4959,SILVER
+CUST-00042,CareFirst Distribution #42,PHARMACY_CHAIN,NA_WEST,pharmacy@cust-00042.health.org,+1-800-285-4131,SILVER
+CUST-00043,National Health Trust #43,PHARMACY_CHAIN,NA_WEST,pharmacy@cust-00043.health.org,+1-800-275-9088,SILVER
+CUST-00044,Apex Therapeutics Pharmacy #44,PHARMACY_CHAIN,NA_EAST,pharmacy@cust-00044.health.org,+1-800-692-7659,STANDARD
+CUST-00045,Alliance Care Pharmacy #45,HOSPITAL,EU_CENTRAL,pharmacy@cust-00045.health.org,+1-800-502-1031,GOLD
+CUST-00046,Ascension Regional Clinic #46,CLINICAL_CENTER,NA_CENTRAL,pharmacy@cust-00046.health.org,+1-800-157-9723,SILVER
+CUST-00047,St. Jude Clinical Alliance #47,CLINICAL_CENTER,NA_WEST,pharmacy@cust-00047.health.org,+1-800-118-2437,SILVER
+CUST-00048,Metropolitan General Hospital #48,REGIONAL_DISTRIBUTOR,APAC,pharmacy@cust-00048.health.org,+1-800-136-2423,GOLD
+CUST-00049,Mercy Health System #49,REGIONAL_DISTRIBUTOR,NA_WEST,pharmacy@cust-00049.health.org,+1-800-511-1972,STANDARD
+CUST-00050,National Health Trust #50,HOSPITAL,NA_EAST,pharmacy@cust-00050.health.org,+1-800-893-6579,STANDARD
+CUST-00051,Metropolitan General Hospital #51,HOSPITAL,EU_WEST,pharmacy@cust-00051.health.org,+1-800-947-2027,SILVER
+CUST-00052,Alliance Care Pharmacy #52,CLINICAL_CENTER,NA_CENTRAL,pharmacy@cust-00052.health.org,+1-800-134-7684,GOLD
+CUST-00053,Alliance Care Pharmacy #53,REGIONAL_DISTRIBUTOR,APAC,pharmacy@cust-00053.health.org,+1-800-335-8421,GOLD
+CUST-00054,Ascension Regional Clinic #54,REGIONAL_DISTRIBUTOR,EU_WEST,pharmacy@cust-00054.health.org,+1-800-246-1402,GOLD
+CUST-00055,Ascension Regional Clinic #55,HOSPITAL,APAC,pharmacy@cust-00055.health.org,+1-800-839-3844,GOLD
+CUST-00056,Mercy Health System #56,HOSPITAL,NA_WEST,pharmacy@cust-00056.health.org,+1-800-351-7147,SILVER
+CUST-00057,Alliance Care Pharmacy #57,PHARMACY_CHAIN,EU_WEST,pharmacy@cust-00057.health.org,+1-800-104-1785,SILVER
+CUST-00058,National Health Trust #58,REGIONAL_DISTRIBUTOR,EU_WEST,pharmacy@cust-00058.health.org,+1-800-942-9334,SILVER
+CUST-00059,Mercy Health System #59,PHARMACY_CHAIN,NA_CENTRAL,pharmacy@cust-00059.health.org,+1-800-291-3206,SILVER
+CUST-00060,Apex Therapeutics Pharmacy #60,CLINICAL_CENTER,NA_CENTRAL,pharmacy@cust-00060.health.org,+1-800-821-1366,GOLD
+CUST-00061,Mercy Health System #61,PHARMACY_CHAIN,EU_CENTRAL,pharmacy@cust-00061.health.org,+1-800-142-2075,GOLD
+CUST-00062,Metropolitan General Hospital #62,PHARMACY_CHAIN,APAC,pharmacy@cust-00062.health.org,+1-800-823-3854,GOLD
+CUST-00063,St. Jude Clinical Alliance #63,CLINICAL_CENTER,NA_EAST,pharmacy@cust-00063.health.org,+1-800-540-4743,SILVER
+CUST-00064,Metropolitan General Hospital #64,CLINICAL_CENTER,APAC,pharmacy@cust-00064.health.org,+1-800-317-3446,SILVER
+CUST-00065,St. Jude Clinical Alliance #65,REGIONAL_DISTRIBUTOR,EU_CENTRAL,pharmacy@cust-00065.health.org,+1-800-591-3389,GOLD
+CUST-00066,Ascension Regional Clinic #66,PHARMACY_CHAIN,NA_WEST,pharmacy@cust-00066.health.org,+1-800-769-7540,SILVER
+CUST-00067,Apex Therapeutics Pharmacy #67,CLINICAL_CENTER,APAC,pharmacy@cust-00067.health.org,+1-800-179-1346,SILVER
+CUST-00068,Valley Childrens Hospital #68,REGIONAL_DISTRIBUTOR,NA_WEST,pharmacy@cust-00068.health.org,+1-800-554-6150,STANDARD
+CUST-00069,Alliance Care Pharmacy #69,PHARMACY_CHAIN,NA_EAST,pharmacy@cust-00069.health.org,+1-800-204-1044,GOLD
+CUST-00070,St. Jude Clinical Alliance #70,CLINICAL_CENTER,APAC,pharmacy@cust-00070.health.org,+1-800-608-2051,STANDARD
+CUST-00071,Nordic Health Depot #71,REGIONAL_DISTRIBUTOR,NA_EAST,pharmacy@cust-00071.health.org,+1-800-494-9311,GOLD
+CUST-00072,Nordic Health Depot #72,CLINICAL_CENTER,NA_WEST,pharmacy@cust-00072.health.org,+1-800-198-8843,GOLD
+CUST-00073,Metropolitan General Hospital #73,PHARMACY_CHAIN,EU_CENTRAL,pharmacy@cust-00073.health.org,+1-800-868-1892,GOLD
+CUST-00074,National Health Trust #74,CLINICAL_CENTER,NA_CENTRAL,pharmacy@cust-00074.health.org,+1-800-705-8126,STANDARD
+CUST-00075,St. Jude Clinical Alliance #75,CLINICAL_CENTER,EU_WEST,pharmacy@cust-00075.health.org,+1-800-463-7955,GOLD
+CUST-00076,National Health Trust #76,PHARMACY_CHAIN,NA_CENTRAL,pharmacy@cust-00076.health.org,+1-800-858-8876,SILVER
+CUST-00077,Mercy Health System #77,PHARMACY_CHAIN,EU_WEST,pharmacy@cust-00077.health.org,+1-800-463-5161,SILVER
+CUST-00078,Ascension Regional Clinic #78,CLINICAL_CENTER,EU_CENTRAL,pharmacy@cust-00078.health.org,+1-800-250-8835,GOLD
+CUST-00079,National Health Trust #79,PHARMACY_CHAIN,EU_CENTRAL,pharmacy@cust-00079.health.org,+1-800-600-8416,GOLD
+CUST-00080,CareFirst Distribution #80,CLINICAL_CENTER,NA_EAST,pharmacy@cust-00080.health.org,+1-800-810-8126,SILVER

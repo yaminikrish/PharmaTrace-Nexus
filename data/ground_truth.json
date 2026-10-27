@@ -1,0 +1,42 @@
+[
+  {
+    "issue_type": "MISSING_INPUT_LOT",
+    "entity_type": "ProductionOrderLotConsumption",
+    "entity_id": "CON-2026-999999",
+    "parent_id": "WO-2026-000001",
+    "violating_value": "RAWLOT-SUP-99999-2026-999999",
+    "expected_condition": "Referenced material_lot_id must exist in MaterialLot master table",
+    "severity": "CRITICAL",
+    "description": "Work order WO-2026-000001 references ghost input raw lot RAWLOT-SUP-99999-2026-999999 not present in MaterialLot table."
+  },
+  {
+    "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
+    "entity_type": "Delivery",
+    "entity_id": "DEL-2026-000015",
+    "parent_id": "FINLOT-2026-000002",
+    "violating_value": "1029.42",
+    "expected_condition": "Delivered quantity must be <= produced quantity (686.28)",
+    "severity": "HIGH",
+    "description": "Delivery DEL-2026-000015 delivered quantity (1029.42) exceeds total manufactured lot quantity (686.28)."
+  },
+  {
+    "issue_type": "RECALL_MISSED_CUSTOMER",
+    "entity_type": "RecallCase",
+    "entity_id": "REC-2026-000001",
+    "parent_id": "DEL-2026-000144",
+    "violating_value": "CUST-00015",
+    "expected_condition": "Customer CUST-00015 received delivery DEL-2026-000144 of recalled lot FINLOT-2026-000027 but received no notification dispatch action",
+    "severity": "CRITICAL",
+    "description": "Recall case REC-2026-000001 failed to notify customer CUST-00015 on delivery DEL-2026-000144."
+  },
+  {
+    "issue_type": "RECALLED_INVENTORY_AVAILABLE",
+    "entity_type": "FinishedLot",
+    "entity_id": "FINLOT-2026-000003",
+    "parent_id": "REC-2026-BREACH-01",
+    "violating_value": "status=AVAILABLE, warehouse_qty=500.0, quarantine_qty=0.0",
+    "expected_condition": "Recalled finished lot inventory must have status=RECALLED/QUARANTINED and warehouse_qty quarantined",
+    "severity": "CRITICAL",
+    "description": "Finished lot FINLOT-2026-000003 under active Class I recall REC-2026-BREACH-01 remains listed as AVAILABLE for sale with 500 units unquarantined."
+  }
+]

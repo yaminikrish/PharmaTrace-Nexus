@@ -1,0 +1,106 @@
+"""
+Core Domain Enumerations for Enterprise Supply Chain Lot Traceability.
+"""
+
+from enum import Enum
+
+class SupplierTier(str, Enum):
+    TIER_1 = "TIER_1"
+    TIER_2 = "TIER_2"
+    TIER_3 = "TIER_3"
+
+class SupplierStatus(str, Enum):
+    QUALIFIED = "QUALIFIED"
+    CONDITIONAL = "CONDITIONAL"
+    SUSPENDED = "SUSPENDED"
+
+class ProductCategory(str, Enum):
+    RAW_MATERIAL = "RAW_MATERIAL"
+    INTERMEDIATE = "INTERMEDIATE"
+    FINISHED_GOOD = "FINISHED_GOOD"
+
+class LotQCStatus(str, Enum):
+    RELEASED = "RELEASED"
+    QUARANTINED = "QUARANTINED"
+    REJECTED = "REJECTED"
+    RECALLED = "RECALLED"
+
+class ProductionOrderStatus(str, Enum):
+    PLANNED = "PLANNED"
+    IN_PROGRESS = "IN_PROGRESS"
+    COMPLETED = "COMPLETED"
+    CANCELLED = "CANCELLED"
+
+class FinishedLotStatus(str, Enum):
+    AVAILABLE = "AVAILABLE"
+    IN_TRANSIT = "IN_TRANSIT"
+    DELIVERED = "DELIVERED"
+    QUARANTINED = "QUARANTINED"
+    RECALLED = "RECALLED"
+    SCRAPPED = "SCRAPPED"
+
+class ShipmentStatus(str, Enum):
+    PREPARING = "PREPARING"
+    DISPATCHED = "DISPATCHED"
+    IN_TRANSIT = "IN_TRANSIT"
+    DELIVERED = "DELIVERED"
+    INTERCEPTED = "INTERCEPTED"
+
+class CustomerType(str, Enum):
+    HOSPITAL = "HOSPITAL"
+    PHARMACY_CHAIN = "PHARMACY_CHAIN"
+    REGIONAL_DISTRIBUTOR = "REGIONAL_DISTRIBUTOR"
+    CLINICAL_CENTER = "CLINICAL_CENTER"
+
+class DeliveryStatus(str, Enum):
+    IN_TRANSIT = "IN_TRANSIT"
+    RECEIVED = "RECEIVED"
+    ACCEPTED = "ACCEPTED"
+    REJECTED = "REJECTED"
+    RECALLED = "RECALLED"
+
+class RecallHazardClass(str, Enum):
+    CLASS_I = "CLASS_I"      # High risk: reasonable probability of severe adverse health consequences or death
+    CLASS_II = "CLASS_II"    # Medium risk: temporary or medically reversible adverse health consequences
+    CLASS_III = "CLASS_III"  # Low risk: not likely to cause adverse health consequences
+
+class RecallStatus(str, Enum):
+    INITIATED = "INITIATED"
+    SCOPE_DETERMINED = "SCOPE_DETERMINED"
+    NOTIFICATIONS_SENT = "NOTIFICATIONS_SENT"
+    QUARANTINE_IN_EFFECT = "QUARANTINE_IN_EFFECT"
+    RECOVERY_ACTIVE = "RECOVERY_ACTIVE"
+    RECONCILED = "RECONCILED"
+    CLOSED = "CLOSED"
+
+class RecallActionType(str, Enum):
+    NOTIFICATION_DISPATCH = "NOTIFICATION_DISPATCH"
+    WAREHOUSE_QUARANTINE = "WAREHOUSE_QUARANTINE"
+    CARRIER_HOLD = "CARRIER_HOLD"
+    CUSTOMER_RECALL_NOTICE = "CUSTOMER_RECALL_NOTICE"
+    PRODUCT_RETRIEVAL = "PRODUCT_RETRIEVAL"
+    DESTRUCTION_VERIFICATION = "DESTRUCTION_VERIFICATION"
+
+class ActionStatus(str, Enum):
+    PENDING = "PENDING"
+    IN_PROGRESS = "IN_PROGRESS"
+    COMPLETED = "COMPLETED"
+    FAILED = "FAILED"
+
+class EdgeCaseType(str, Enum):
+    MISSING_INPUT_LOT = "MISSING_INPUT_LOT"
+    DELIVERED_EXCEEDS_PRODUCED = "DELIVERED_EXCEEDS_PRODUCED"
+    RECALL_MISSED_CUSTOMER = "RECALL_MISSED_CUSTOMER"
+    RECALLED_INVENTORY_AVAILABLE = "RECALLED_INVENTORY_AVAILABLE"
+
+class WarehouseFacilityType(str, Enum):
+    DISTRIBUTION_CENTER = "DISTRIBUTION_CENTER"
+    MANUFACTURING_WAREHOUSE = "MANUFACTURING_WAREHOUSE"
+    CENTRAL_DEPOT = "CENTRAL_DEPOT"
+
+class InventoryMovementType(str, Enum):
+    PRODUCTION_RECEIPT = "PRODUCTION_RECEIPT"
+    SHIPMENT_DISPATCH = "SHIPMENT_DISPATCH"
+    QUARANTINE_HOLD = "QUARANTINE_HOLD"
+    RECALL_RECOVERY = "RECALL_RECOVERY"
+

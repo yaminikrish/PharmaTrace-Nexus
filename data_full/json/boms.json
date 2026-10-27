@@ -1,0 +1,402 @@
+[
+  {
+    "bom_id": "BOM-2026-0001",
+    "finished_product_id": "PRD-FIN-0001",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0002",
+    "finished_product_id": "PRD-FIN-0002",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0003",
+    "finished_product_id": "PRD-FIN-0003",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0004",
+    "finished_product_id": "PRD-FIN-0004",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0005",
+    "finished_product_id": "PRD-FIN-0005",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0006",
+    "finished_product_id": "PRD-FIN-0006",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0007",
+    "finished_product_id": "PRD-FIN-0007",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0008",
+    "finished_product_id": "PRD-FIN-0008",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0009",
+    "finished_product_id": "PRD-FIN-0009",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0010",
+    "finished_product_id": "PRD-FIN-0010",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0011",
+    "finished_product_id": "PRD-FIN-0011",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0012",
+    "finished_product_id": "PRD-FIN-0012",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0013",
+    "finished_product_id": "PRD-FIN-0013",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0014",
+    "finished_product_id": "PRD-FIN-0014",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0015",
+    "finished_product_id": "PRD-FIN-0015",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0016",
+    "finished_product_id": "PRD-FIN-0016",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0017",
+    "finished_product_id": "PRD-FIN-0017",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0018",
+    "finished_product_id": "PRD-FIN-0018",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0019",
+    "finished_product_id": "PRD-FIN-0019",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0020",
+    "finished_product_id": "PRD-FIN-0020",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0021",
+    "finished_product_id": "PRD-FIN-0021",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0022",
+    "finished_product_id": "PRD-FIN-0022",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0023",
+    "finished_product_id": "PRD-FIN-0023",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0024",
+    "finished_product_id": "PRD-FIN-0024",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0025",
+    "finished_product_id": "PRD-FIN-0025",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0026",
+    "finished_product_id": "PRD-FIN-0026",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0027",
+    "finished_product_id": "PRD-FIN-0027",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0028",
+    "finished_product_id": "PRD-FIN-0028",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0029",
+    "finished_product_id": "PRD-FIN-0029",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0030",
+    "finished_product_id": "PRD-FIN-0030",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0031",
+    "finished_product_id": "PRD-FIN-0031",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0032",
+    "finished_product_id": "PRD-FIN-0032",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0033",
+    "finished_product_id": "PRD-FIN-0033",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0034",
+    "finished_product_id": "PRD-FIN-0034",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0035",
+    "finished_product_id": "PRD-FIN-0035",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0036",
+    "finished_product_id": "PRD-FIN-0036",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0037",
+    "finished_product_id": "PRD-FIN-0037",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0038",
+    "finished_product_id": "PRD-FIN-0038",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0039",
+    "finished_product_id": "PRD-FIN-0039",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0040",
+    "finished_product_id": "PRD-FIN-0040",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0041",
+    "finished_product_id": "PRD-FIN-0041",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0042",
+    "finished_product_id": "PRD-FIN-0042",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0043",
+    "finished_product_id": "PRD-FIN-0043",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0044",
+    "finished_product_id": "PRD-FIN-0044",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0045",
+    "finished_product_id": "PRD-FIN-0045",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0046",
+    "finished_product_id": "PRD-FIN-0046",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0047",
+    "finished_product_id": "PRD-FIN-0047",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0048",
+    "finished_product_id": "PRD-FIN-0048",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0049",
+    "finished_product_id": "PRD-FIN-0049",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  },
+  {
+    "bom_id": "BOM-2026-0050",
+    "finished_product_id": "PRD-FIN-0050",
+    "version": "v1.0",
+    "effective_from": "2026-01-01",
+    "effective_to": "2028-12-31",
+    "status": "ACTIVE"
+  }
+]

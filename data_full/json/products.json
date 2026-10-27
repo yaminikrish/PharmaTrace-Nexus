@@ -1,0 +1,1352 @@
+[
+  {
+    "product_id": "PRD-RAW-0001",
+    "sku": "SKU-RAW-0001",
+    "name": "Hydroxypropyl Methylcellulose Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 835,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0002",
+    "sku": "SKU-RAW-0002",
+    "name": "Colloidal Silicon Dioxide Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 975,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0003",
+    "sku": "SKU-RAW-0003",
+    "name": "Polyethylene Glycol 3350 Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 400,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0004",
+    "sku": "SKU-RAW-0004",
+    "name": "Mannitol Fine Granules Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 979,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0005",
+    "sku": "SKU-RAW-0005",
+    "name": "Hydroxypropyl Methylcellulose Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 372,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0006",
+    "sku": "SKU-RAW-0006",
+    "name": "Croscarmellose Sodium Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 1015,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0007",
+    "sku": "SKU-RAW-0007",
+    "name": "Lactose Monohydrate Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 499,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0008",
+    "sku": "SKU-RAW-0008",
+    "name": "Croscarmellose Sodium Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 1070,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0009",
+    "sku": "SKU-RAW-0009",
+    "name": "Lactose Monohydrate Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 672,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0010",
+    "sku": "SKU-RAW-0010",
+    "name": "Croscarmellose Sodium Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 586,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0011",
+    "sku": "SKU-RAW-0011",
+    "name": "Colloidal Silicon Dioxide Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 623,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0012",
+    "sku": "SKU-RAW-0012",
+    "name": "Mannitol Fine Granules Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 490,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0013",
+    "sku": "SKU-RAW-0013",
+    "name": "Citric Acid Anhydrous Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 682,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0014",
+    "sku": "SKU-RAW-0014",
+    "name": "Povidone K30 Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 415,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0015",
+    "sku": "SKU-RAW-0015",
+    "name": "Polyethylene Glycol 3350 Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 937,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0016",
+    "sku": "SKU-RAW-0016",
+    "name": "Magnesium Stearate Pharma Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 484,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0017",
+    "sku": "SKU-RAW-0017",
+    "name": "Povidone K30 Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 641,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0018",
+    "sku": "SKU-RAW-0018",
+    "name": "Povidone K30 Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 505,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0019",
+    "sku": "SKU-RAW-0019",
+    "name": "Microcrystalline Cellulose Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 1073,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0020",
+    "sku": "SKU-RAW-0020",
+    "name": "Sodium Stearyl Fumarate Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 709,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0021",
+    "sku": "SKU-RAW-0021",
+    "name": "Hydroxypropyl Methylcellulose Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 651,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0022",
+    "sku": "SKU-RAW-0022",
+    "name": "Croscarmellose Sodium Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 385,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0023",
+    "sku": "SKU-RAW-0023",
+    "name": "Hydroxypropyl Methylcellulose Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 387,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0024",
+    "sku": "SKU-RAW-0024",
+    "name": "Sodium Stearyl Fumarate Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 1091,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0025",
+    "sku": "SKU-RAW-0025",
+    "name": "Magnesium Stearate Pharma Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 786,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0026",
+    "sku": "SKU-RAW-0026",
+    "name": "Croscarmellose Sodium Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 894,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0027",
+    "sku": "SKU-RAW-0027",
+    "name": "Sodium Stearyl Fumarate Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 593,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0028",
+    "sku": "SKU-RAW-0028",
+    "name": "Titanium Dioxide USP Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 507,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0029",
+    "sku": "SKU-RAW-0029",
+    "name": "Colloidal Silicon Dioxide Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 412,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0030",
+    "sku": "SKU-RAW-0030",
+    "name": "Croscarmellose Sodium Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 597,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0031",
+    "sku": "SKU-RAW-0031",
+    "name": "Citric Acid Anhydrous Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 785,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0032",
+    "sku": "SKU-RAW-0032",
+    "name": "Hydroxypropyl Methylcellulose Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 608,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0033",
+    "sku": "SKU-RAW-0033",
+    "name": "Polyethylene Glycol 3350 Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 370,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0034",
+    "sku": "SKU-RAW-0034",
+    "name": "Magnesium Stearate Pharma Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 541,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0035",
+    "sku": "SKU-RAW-0035",
+    "name": "Croscarmellose Sodium Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 475,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0036",
+    "sku": "SKU-RAW-0036",
+    "name": "Colloidal Silicon Dioxide Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 920,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0037",
+    "sku": "SKU-RAW-0037",
+    "name": "Mannitol Fine Granules Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 791,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0038",
+    "sku": "SKU-RAW-0038",
+    "name": "Magnesium Stearate Pharma Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 815,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0039",
+    "sku": "SKU-RAW-0039",
+    "name": "Titanium Dioxide USP Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 625,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0040",
+    "sku": "SKU-RAW-0040",
+    "name": "Magnesium Stearate Pharma Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 443,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0041",
+    "sku": "SKU-RAW-0041",
+    "name": "Lactose Monohydrate Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 891,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0042",
+    "sku": "SKU-RAW-0042",
+    "name": "Colloidal Silicon Dioxide Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 732,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0043",
+    "sku": "SKU-RAW-0043",
+    "name": "Hydroxypropyl Methylcellulose Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 1058,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0044",
+    "sku": "SKU-RAW-0044",
+    "name": "Lactose Monohydrate Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 854,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0045",
+    "sku": "SKU-RAW-0045",
+    "name": "Titanium Dioxide USP Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 778,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0046",
+    "sku": "SKU-RAW-0046",
+    "name": "Polyethylene Glycol 3350 Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 600,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0047",
+    "sku": "SKU-RAW-0047",
+    "name": "Mannitol Fine Granules Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 812,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0048",
+    "sku": "SKU-RAW-0048",
+    "name": "Hydroxypropyl Methylcellulose Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 684,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0049",
+    "sku": "SKU-RAW-0049",
+    "name": "Mannitol Fine Granules Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 690,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0050",
+    "sku": "SKU-RAW-0050",
+    "name": "Lactose Monohydrate Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 959,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0051",
+    "sku": "SKU-RAW-0051",
+    "name": "Microcrystalline Cellulose Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 446,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0052",
+    "sku": "SKU-RAW-0052",
+    "name": "Magnesium Stearate Pharma Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 819,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0053",
+    "sku": "SKU-RAW-0053",
+    "name": "Hydroxypropyl Methylcellulose Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 693,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0054",
+    "sku": "SKU-RAW-0054",
+    "name": "Microcrystalline Cellulose Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 432,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0055",
+    "sku": "SKU-RAW-0055",
+    "name": "Povidone K30 Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 617,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0056",
+    "sku": "SKU-RAW-0056",
+    "name": "Sodium Stearyl Fumarate Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 811,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0057",
+    "sku": "SKU-RAW-0057",
+    "name": "Croscarmellose Sodium Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 805,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0058",
+    "sku": "SKU-RAW-0058",
+    "name": "Mannitol Fine Granules Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 902,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0059",
+    "sku": "SKU-RAW-0059",
+    "name": "Magnesium Stearate Pharma Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 1004,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0060",
+    "sku": "SKU-RAW-0060",
+    "name": "Hydroxypropyl Methylcellulose Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 1029,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0061",
+    "sku": "SKU-RAW-0061",
+    "name": "Microcrystalline Cellulose Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 396,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0062",
+    "sku": "SKU-RAW-0062",
+    "name": "Lactose Monohydrate Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 504,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0063",
+    "sku": "SKU-RAW-0063",
+    "name": "Microcrystalline Cellulose Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 945,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0064",
+    "sku": "SKU-RAW-0064",
+    "name": "Lactose Monohydrate Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 446,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0065",
+    "sku": "SKU-RAW-0065",
+    "name": "Polyethylene Glycol 3350 Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 558,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0066",
+    "sku": "SKU-RAW-0066",
+    "name": "Polyethylene Glycol 3350 Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 638,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0067",
+    "sku": "SKU-RAW-0067",
+    "name": "Magnesium Stearate Pharma Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 417,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0068",
+    "sku": "SKU-RAW-0068",
+    "name": "Magnesium Stearate Pharma Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 483,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0069",
+    "sku": "SKU-RAW-0069",
+    "name": "Citric Acid Anhydrous Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 945,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0070",
+    "sku": "SKU-RAW-0070",
+    "name": "Magnesium Stearate Pharma Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 432,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0071",
+    "sku": "SKU-RAW-0071",
+    "name": "Sodium Stearyl Fumarate Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 385,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0072",
+    "sku": "SKU-RAW-0072",
+    "name": "Povidone K30 Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 1051,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0073",
+    "sku": "SKU-RAW-0073",
+    "name": "Sodium Stearyl Fumarate Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 475,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0074",
+    "sku": "SKU-RAW-0074",
+    "name": "Magnesium Stearate Pharma Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 449,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0075",
+    "sku": "SKU-RAW-0075",
+    "name": "Titanium Dioxide USP Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 586,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0076",
+    "sku": "SKU-RAW-0076",
+    "name": "Hydroxypropyl Methylcellulose Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 1003,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0077",
+    "sku": "SKU-RAW-0077",
+    "name": "Citric Acid Anhydrous Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 837,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0078",
+    "sku": "SKU-RAW-0078",
+    "name": "Titanium Dioxide USP Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 654,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0079",
+    "sku": "SKU-RAW-0079",
+    "name": "Sodium Stearyl Fumarate Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 1033,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0080",
+    "sku": "SKU-RAW-0080",
+    "name": "Lactose Monohydrate Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 441,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0081",
+    "sku": "SKU-RAW-0081",
+    "name": "Sodium Stearyl Fumarate Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 502,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0082",
+    "sku": "SKU-RAW-0082",
+    "name": "Hydroxypropyl Methylcellulose Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 1060,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0083",
+    "sku": "SKU-RAW-0083",
+    "name": "Titanium Dioxide USP Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 916,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0084",
+    "sku": "SKU-RAW-0084",
+    "name": "Polyethylene Glycol 3350 Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 947,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0085",
+    "sku": "SKU-RAW-0085",
+    "name": "Microcrystalline Cellulose Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 701,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0086",
+    "sku": "SKU-RAW-0086",
+    "name": "Titanium Dioxide USP Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 623,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0087",
+    "sku": "SKU-RAW-0087",
+    "name": "Citric Acid Anhydrous Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 677,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0088",
+    "sku": "SKU-RAW-0088",
+    "name": "Microcrystalline Cellulose Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 787,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0089",
+    "sku": "SKU-RAW-0089",
+    "name": "Citric Acid Anhydrous Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 870,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0090",
+    "sku": "SKU-RAW-0090",
+    "name": "Mannitol Fine Granules Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 389,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0091",
+    "sku": "SKU-RAW-0091",
+    "name": "Polyethylene Glycol 3350 Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 581,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0092",
+    "sku": "SKU-RAW-0092",
+    "name": "Citric Acid Anhydrous Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 743,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0093",
+    "sku": "SKU-RAW-0093",
+    "name": "Magnesium Stearate Pharma Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 777,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0094",
+    "sku": "SKU-RAW-0094",
+    "name": "Citric Acid Anhydrous Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 733,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0095",
+    "sku": "SKU-RAW-0095",
+    "name": "Citric Acid Anhydrous Grade-F",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 644,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0096",
+    "sku": "SKU-RAW-0096",
+    "name": "Povidone K30 Grade-A",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 706,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0097",
+    "sku": "SKU-RAW-0097",
+    "name": "Sodium Stearyl Fumarate Grade-B",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "LITER",
+    "shelf_life_days": 1082,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0098",
+    "sku": "SKU-RAW-0098",
+    "name": "Colloidal Silicon Dioxide Grade-C",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 569,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0099",
+    "sku": "SKU-RAW-0099",
+    "name": "Polyethylene Glycol 3350 Grade-D",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "KG",
+    "shelf_life_days": 638,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-RAW-0100",
+    "sku": "SKU-RAW-0100",
+    "name": "Croscarmellose Sodium Grade-E",
+    "category": "RAW_MATERIAL",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 423,
+    "created_at": "2024-05-20T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0001",
+    "sku": "SKU-FIN-0001",
+    "name": "CardioVasc Infusion Solution 125mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 370,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0002",
+    "sku": "SKU-FIN-0002",
+    "name": "ImmunoGlo Max Syringes 150mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 490,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0003",
+    "sku": "SKU-FIN-0003",
+    "name": "RespiClear Oral Susp 175mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 422,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0004",
+    "sku": "SKU-FIN-0004",
+    "name": "RespiClear Oral Susp 200mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 623,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0005",
+    "sku": "SKU-FIN-0005",
+    "name": "Hemostatic Powder 50g 225mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 501,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0006",
+    "sku": "SKU-FIN-0006",
+    "name": "CardioVasc Infusion Solution 250mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 376,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0007",
+    "sku": "SKU-FIN-0007",
+    "name": "BioPeptide Insulin Extended 275mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 684,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0008",
+    "sku": "SKU-FIN-0008",
+    "name": "NeuroSedative Injectable 300mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 547,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0009",
+    "sku": "SKU-FIN-0009",
+    "name": "DermalRegen Hydrogel 325mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 728,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0010",
+    "sku": "SKU-FIN-0010",
+    "name": "CardioVasc Infusion Solution 350mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 549,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0011",
+    "sku": "SKU-FIN-0011",
+    "name": "BioPeptide Insulin Extended 375mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 725,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0012",
+    "sku": "SKU-FIN-0012",
+    "name": "OncoShield Monoclonal Vial 400mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 721,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0013",
+    "sku": "SKU-FIN-0013",
+    "name": "Hemostatic Powder 50g 425mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 374,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0014",
+    "sku": "SKU-FIN-0014",
+    "name": "ImmunoGlo Max Syringes 450mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 623,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0015",
+    "sku": "SKU-FIN-0015",
+    "name": "DermalRegen Hydrogel 475mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 689,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0016",
+    "sku": "SKU-FIN-0016",
+    "name": "DermalRegen Hydrogel 500mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 515,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0017",
+    "sku": "SKU-FIN-0017",
+    "name": "RespiClear Oral Susp 525mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 658,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0018",
+    "sku": "SKU-FIN-0018",
+    "name": "BioPeptide Insulin Extended 550mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 583,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0019",
+    "sku": "SKU-FIN-0019",
+    "name": "Antiviral Sterile Suspension 575mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 674,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0020",
+    "sku": "SKU-FIN-0020",
+    "name": "ImmunoGlo Max Syringes 600mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 557,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0021",
+    "sku": "SKU-FIN-0021",
+    "name": "OncoShield Monoclonal Vial 625mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 707,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0022",
+    "sku": "SKU-FIN-0022",
+    "name": "Antiviral Sterile Suspension 650mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 384,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0023",
+    "sku": "SKU-FIN-0023",
+    "name": "Hemostatic Powder 50g 675mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 482,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0024",
+    "sku": "SKU-FIN-0024",
+    "name": "NeuroSedative Injectable 700mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 443,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0025",
+    "sku": "SKU-FIN-0025",
+    "name": "RespiClear Oral Susp 725mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 593,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0026",
+    "sku": "SKU-FIN-0026",
+    "name": "DermalRegen Hydrogel 750mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 723,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0027",
+    "sku": "SKU-FIN-0027",
+    "name": "BioPeptide Insulin Extended 775mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 370,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0028",
+    "sku": "SKU-FIN-0028",
+    "name": "CardioVasc Infusion Solution 800mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 691,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0029",
+    "sku": "SKU-FIN-0029",
+    "name": "OncoShield Monoclonal Vial 825mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 405,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0030",
+    "sku": "SKU-FIN-0030",
+    "name": "Antiviral Sterile Suspension 850mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 534,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0031",
+    "sku": "SKU-FIN-0031",
+    "name": "ImmunoGlo Max Syringes 875mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 448,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0032",
+    "sku": "SKU-FIN-0032",
+    "name": "CardioVasc Infusion Solution 900mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 425,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0033",
+    "sku": "SKU-FIN-0033",
+    "name": "BioPeptide Insulin Extended 925mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 468,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0034",
+    "sku": "SKU-FIN-0034",
+    "name": "BioPeptide Insulin Extended 950mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 514,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0035",
+    "sku": "SKU-FIN-0035",
+    "name": "Hemostatic Powder 50g 975mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 391,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0036",
+    "sku": "SKU-FIN-0036",
+    "name": "NeuroSedative Injectable 1000mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 565,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0037",
+    "sku": "SKU-FIN-0037",
+    "name": "BioPeptide Insulin Extended 1025mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 611,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0038",
+    "sku": "SKU-FIN-0038",
+    "name": "Antiviral Sterile Suspension 1050mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 387,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0039",
+    "sku": "SKU-FIN-0039",
+    "name": "CardioVasc Infusion Solution 1075mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 687,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0040",
+    "sku": "SKU-FIN-0040",
+    "name": "NeuroSedative Injectable 1100mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 647,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0041",
+    "sku": "SKU-FIN-0041",
+    "name": "Hemostatic Powder 50g 1125mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 580,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0042",
+    "sku": "SKU-FIN-0042",
+    "name": "ImmunoGlo Max Syringes 1150mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 515,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0043",
+    "sku": "SKU-FIN-0043",
+    "name": "Antiviral Sterile Suspension 1175mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 428,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0044",
+    "sku": "SKU-FIN-0044",
+    "name": "OncoShield Monoclonal Vial 1200mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 409,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0045",
+    "sku": "SKU-FIN-0045",
+    "name": "Hemostatic Powder 50g 1225mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 680,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0046",
+    "sku": "SKU-FIN-0046",
+    "name": "Hemostatic Powder 50g 1250mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 570,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0047",
+    "sku": "SKU-FIN-0047",
+    "name": "BioPeptide Insulin Extended 1275mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 513,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0048",
+    "sku": "SKU-FIN-0048",
+    "name": "RespiClear Oral Susp 1300mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "BOX",
+    "shelf_life_days": 664,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0049",
+    "sku": "SKU-FIN-0049",
+    "name": "Hemostatic Powder 50g 1325mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "VIAL",
+    "shelf_life_days": 616,
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "product_id": "PRD-FIN-0050",
+    "sku": "SKU-FIN-0050",
+    "name": "RespiClear Oral Susp 1350mg",
+    "category": "FINISHED_GOOD",
+    "unit_of_measure": "UNIT",
+    "shelf_life_days": 501,
+    "created_at": "2024-08-28T08:00:00"
+  }
+]

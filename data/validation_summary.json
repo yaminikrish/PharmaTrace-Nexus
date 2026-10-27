@@ -1,0 +1,215 @@
+{
+  "validation_timestamp": "2026-10-27T15:05:29.809680Z",
+  "overall_system_status": "WARNINGS_FOUND (EXPECTED_ANOMALIES_ISOLATED)",
+  "data_integrity_status": "CLEAN (0 unexpected violations)",
+  "unexpected_violations_count": 0,
+  "expected_planted_anomalies_detected": 4,
+  "total_tables_checked": 15,
+  "checks": {
+    "primary_key_uniqueness": {
+      "passed": true,
+      "violations_count": 0,
+      "violations": []
+    },
+    "foreign_key_integrity": {
+      "passed": true,
+      "violations_count": 1,
+      "expected_planted_violations": 1,
+      "unexpected_violations": 0,
+      "violations": [
+        {
+          "source_table": "production_order_lot_consumptions",
+          "foreign_key_field": "material_lot_id",
+          "violating_value": "RAWLOT-SUP-99999-2026-999999",
+          "parent_table": "material_lots"
+        }
+      ]
+    },
+    "enum_compliance": {
+      "passed": true,
+      "violations_count": 0,
+      "violations": []
+    },
+    "date_chronology": {
+      "passed": true,
+      "violations_count": 0,
+      "violations": []
+    },
+    "arithmetic_reconciliation": {
+      "reconciled_cleanly": false,
+      "discrepancies_count": 1,
+      "discrepancies": [
+        {
+          "finished_lot_id": "FINLOT-2026-000002",
+          "produced_qty": 686.28,
+          "delivered_qty_sum": 1029.42,
+          "discrepancy": 343.14
+        }
+      ]
+    },
+    "inventory_movement_reconciliation": {
+      "passed": true,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    "lifecycle_state_consistency": {
+      "passed": false,
+      "anomalies_count": 2,
+      "anomalies": [
+        {
+          "finished_lot_id": "FINLOT-2026-000003",
+          "status": "AVAILABLE",
+          "warehouse_qty": 500.0,
+          "quarantine_qty": 0.0,
+          "issue": "Finished lot is under active recall but remains in AVAILABLE inventory without quarantine hold."
+        },
+        {
+          "recall_case_id": "REC-2026-000001",
+          "customer_id": "CUST-00015",
+          "delivery_id": "DEL-2026-000144",
+          "finished_lot_id": "FINLOT-2026-000027",
+          "issue": "Customer CUST-00015 on delivery DEL-2026-000144 received recalled lot FINLOT-2026-000027 but has NO recorded notification action for recall REC-2026-000001."
+        }
+      ]
+    },
+    "recall_scope_completion": {
+      "passed": true,
+      "discrepancies_count": 0,
+      "total_actions_completed": 88,
+      "total_actions_unresolved": 0,
+      "discrepancies": []
+    },
+    "anomaly_ground_truth_benchmark": {
+      "ground_truth_total": 4,
+      "detected_total": 4,
+      "true_positives": 4,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "matched_incidents": [
+        {
+          "detected": {
+            "issue_type": "MISSING_INPUT_LOT",
+            "entity_type": "ProductionOrderLotConsumption",
+            "entity_id": "CON-2026-999999",
+            "parent_id": "WO-2026-000001",
+            "violating_value": "RAWLOT-SUP-99999-2026-999999",
+            "details": "Work order WO-2026-000001 consumed missing raw lot RAWLOT-SUP-99999-2026-999999"
+          },
+          "ground_truth": {
+            "issue_type": "MISSING_INPUT_LOT",
+            "entity_type": "ProductionOrderLotConsumption",
+            "entity_id": "CON-2026-999999",
+            "parent_id": "WO-2026-000001",
+            "violating_value": "RAWLOT-SUP-99999-2026-999999",
+            "expected_condition": "Referenced material_lot_id must exist in MaterialLot master table",
+            "severity": "CRITICAL",
+            "description": "Work order WO-2026-000001 references ghost input raw lot RAWLOT-SUP-99999-2026-999999 not present in MaterialLot table."
+          }
+        },
+        {
+          "detected": {
+            "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
+            "entity_type": "Delivery",
+            "entity_id": "DEL-2026-000015",
+            "parent_id": "FINLOT-2026-000002",
+            "violating_value": "1029.42",
+            "details": "Delivery DEL-2026-000015 delivered quantity (1029.42) exceeds total manufactured lot quantity (686.28)"
+          },
+          "ground_truth": {
+            "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
+            "entity_type": "Delivery",
+            "entity_id": "DEL-2026-000015",
+            "parent_id": "FINLOT-2026-000002",
+            "violating_value": "1029.42",
+            "expected_condition": "Delivered quantity must be <= produced quantity (686.28)",
+            "severity": "HIGH",
+            "description": "Delivery DEL-2026-000015 delivered quantity (1029.42) exceeds total manufactured lot quantity (686.28)."
+          }
+        },
+        {
+          "detected": {
+            "issue_type": "RECALLED_INVENTORY_AVAILABLE",
+            "entity_type": "FinishedLot",
+            "entity_id": "FINLOT-2026-000003",
+            "parent_id": "REC-2026-BREACH-01",
+            "violating_value": "status=AVAILABLE, warehouse_qty=500.0, quarantine_qty=0.0",
+            "details": "Finished lot is under active recall but remains in AVAILABLE inventory without quarantine hold."
+          },
+          "ground_truth": {
+            "issue_type": "RECALLED_INVENTORY_AVAILABLE",
+            "entity_type": "FinishedLot",
+            "entity_id": "FINLOT-2026-000003",
+            "parent_id": "REC-2026-BREACH-01",
+            "violating_value": "status=AVAILABLE, warehouse_qty=500.0, quarantine_qty=0.0",
+            "expected_condition": "Recalled finished lot inventory must have status=RECALLED/QUARANTINED and warehouse_qty quarantined",
+            "severity": "CRITICAL",
+            "description": "Finished lot FINLOT-2026-000003 under active Class I recall REC-2026-BREACH-01 remains listed as AVAILABLE for sale with 500 units unquarantined."
+          }
+        },
+        {
+          "detected": {
+            "issue_type": "RECALL_MISSED_CUSTOMER",
+            "entity_type": "RecallCase",
+            "entity_id": "REC-2026-000001",
+            "parent_id": "DEL-2026-000144",
+            "violating_value": "CUST-00015",
+            "details": "Customer CUST-00015 on delivery DEL-2026-000144 received recalled lot FINLOT-2026-000027 but has NO recorded notification action for recall REC-2026-000001."
+          },
+          "ground_truth": {
+            "issue_type": "RECALL_MISSED_CUSTOMER",
+            "entity_type": "RecallCase",
+            "entity_id": "REC-2026-000001",
+            "parent_id": "DEL-2026-000144",
+            "violating_value": "CUST-00015",
+            "expected_condition": "Customer CUST-00015 received delivery DEL-2026-000144 of recalled lot FINLOT-2026-000027 but received no notification dispatch action",
+            "severity": "CRITICAL",
+            "description": "Recall case REC-2026-000001 failed to notify customer CUST-00015 on delivery DEL-2026-000144."
+          }
+        }
+      ],
+      "detected_anomalies": [
+        {
+          "issue_type": "MISSING_INPUT_LOT",
+          "entity_type": "ProductionOrderLotConsumption",
+          "entity_id": "CON-2026-999999",
+          "parent_id": "WO-2026-000001",
+          "violating_value": "RAWLOT-SUP-99999-2026-999999",
+          "details": "Work order WO-2026-000001 consumed missing raw lot RAWLOT-SUP-99999-2026-999999"
+        },
+        {
+          "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
+          "entity_type": "Delivery",
+          "entity_id": "DEL-2026-000015",
+          "parent_id": "FINLOT-2026-000002",
+          "violating_value": "1029.42",
+          "details": "Delivery DEL-2026-000015 delivered quantity (1029.42) exceeds total manufactured lot quantity (686.28)"
+        },
+        {
+          "issue_type": "RECALLED_INVENTORY_AVAILABLE",
+          "entity_type": "FinishedLot",
+          "entity_id": "FINLOT-2026-000003",
+          "parent_id": "REC-2026-BREACH-01",
+          "violating_value": "status=AVAILABLE, warehouse_qty=500.0, quarantine_qty=0.0",
+          "details": "Finished lot is under active recall but remains in AVAILABLE inventory without quarantine hold."
+        },
+        {
+          "issue_type": "RECALL_MISSED_CUSTOMER",
+          "entity_type": "RecallCase",
+          "entity_id": "REC-2026-000001",
+          "parent_id": "DEL-2026-000144",
+          "violating_value": "CUST-00015",
+          "details": "Customer CUST-00015 on delivery DEL-2026-000144 received recalled lot FINLOT-2026-000027 but has NO recorded notification action for recall REC-2026-000001."
+        }
+      ]
+    }
+  },
+  "summary_counts": {
+    "total_rows_inspected": 2817,
+    "planted_edge_cases_detected": 4,
+    "ground_truth_planted_count": 4,
+    "unexpected_violations_count": 0
+  }
+}

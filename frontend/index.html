@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PharmaTrace Nexus — Multi-Tier Lot Traceability & Recall Simulation Suite</title>
+  <meta name="description" content="Enterprise end-to-end pharmaceutical & medical device lot traceability system across suppliers, production orders, warehouses, and customers with automated recall blast radius simulation and anomaly auditing.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Global App Shell -->
+  <div id="app-container" class="app-shell">
+    
+    <!-- Top Navigation Header -->
+    <header class="app-header" id="main-header">
+      <div class="header-brand">
+        <div class="brand-logo-glow">
+          <svg class="brand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+          </svg>
+        </div>
+        <div>
+          <h1 class="brand-title">PharmaTrace <span class="gradient-text">Nexus</span></h1>
+          <p class="brand-subtitle">Multi-Tier Supply Chain Lot Traceability & Recall Engine</p>
+        </div>
+      </div>
+
+      <!-- Live System Badges -->
+      <div class="header-badges">
+        <div class="status-pill active-pill" id="pill-engine-status">
+          <span class="status-dot pulse"></span>
+          <span id="txt-engine-status">Engine Active: Seed 20261022</span>
+        </div>
+        <div class="status-pill badge-neutral" id="pill-sqlite-status">
+          <svg viewBox="0 0 24 24" width="14" height="14" stroke="currentColor" fill="none" stroke-width="2"><ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path></svg>
+          <span id="txt-db-status">SQLite 13 Tables Ready</span>
+        </div>
+        <div class="status-pill badge-precision" id="pill-f1-status">
+          <span class="badge-accent">F1-Score:</span> <strong id="header-f1-val">1.000</strong>
+        </div>
+      </div>
+    </header>
+
+    <!-- Global KPI Ribbon -->
+    <section class="kpi-ribbon" id="kpi-banner">
+      <div class="kpi-card" id="kpi-suppliers">
+        <div class="kpi-label">Qualified Suppliers</div>
+        <div class="kpi-value" id="kpi-val-suppliers">50</div>
+        <div class="kpi-meta"><span class="text-emerald">100%</span> Verified Master</div>
+      </div>
+      <div class="kpi-card" id="kpi-raw-lots">
+        <div class="kpi-label">Raw Material Lots</div>
+        <div class="kpi-value" id="kpi-val-raw-lots">300</div>
+        <div class="kpi-meta">Initial Qty: 842.5k kg</div>
+      </div>
+      <div class="kpi-card" id="kpi-orders">
+        <div class="kpi-label">Production Orders</div>
+        <div class="kpi-value" id="kpi-val-orders">150</div>
+        <div class="kpi-meta">Lines A, B, C, D</div>
+      </div>
+      <div class="kpi-card" id="kpi-fin-lots">
+        <div class="kpi-label">Finished Product Lots</div>
+        <div class="kpi-value" id="kpi-val-fin-lots">200</div>
+        <div class="kpi-meta">Released & Quarantined</div>
+      </div>
+      <div class="kpi-card" id="kpi-deliveries">
+        <div class="kpi-label">Customer Deliveries</div>
+        <div class="kpi-value" id="kpi-val-deliveries">500</div>
+        <div class="kpi-meta">Across 6 Global Regions</div>
+      </div>
+      <div class="kpi-card card-alert" id="kpi-quarantine">
+        <div class="kpi-label">Quarantine Inventory</div>
+        <div class="kpi-value" id="kpi-val-quarantine">5,840.5</div>
+        <div class="kpi-meta text-crimson">Controlled Lock</div>
+      </div>
+    </section>
+
+    <!-- Navigation Tabs -->
+    <nav class="view-nav" id="main-navigation" aria-label="Main Navigation">
+      <button class="nav-tab active" id="tab-genealogy" data-view="view-genealogy">
+        <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" fill="none" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+        Multi-Tier Genealogy DAG
+      </button>
+      <button class="nav-tab" id="tab-recall" data-view="view-recall">
+        <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" fill="none" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        Recall Scope & Simulation
+      </button>
+      <button class="nav-tab" id="tab-actors" data-view="view-actors">
+        <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" fill="none" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        5 Primary Actor Portals
+      </button>
+      <button class="nav-tab" id="tab-audit" data-view="view-audit">
+        <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" fill="none" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+        Anomaly & Ground Truth Auditor
+      </button>
+      <button class="nav-tab" id="tab-studio" data-view="view-studio">
+        <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" fill="none" stroke-width="2"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></svg>
+        Data Dictionary & Reproducibility
+      </button>
+    </nav>
+
+    <!-- Main Content Views -->
+    <main class="main-content" id="view-container">
+
+      <!-- ============================================== -->
+      <!-- VIEW 1: Multi-Tier Genealogy DAG Explorer      -->
+      <!-- ============================================== -->
+      <section class="view-panel active" id="view-genealogy">
+        <div class="panel-header">
+          <div>
+            <h2 class="panel-title">End-to-End Multi-Tier Genealogy Canvas</h2>
+            <p class="panel-desc">Bidirectional tracing across Suppliers, Material Lots, Production Orders, Finished Lots, Shipments, and Customer Deliveries.</p>
+          </div>
+          <div class="panel-controls">
+            <div class="control-group">
+              <label for="select-trace-direction" class="control-label">Direction:</label>
+              <select id="select-trace-direction" class="form-select">
+                <option value="downstream" selected>Downstream (Forward Trace: Raw Lot &rarr; Customers)</option>
+                <option value="upstream">Upstream (Root-Cause Trace: Customer &rarr; Raw Lot &rarr; Supplier)</option>
+              </select>
+            </div>
+            <div class="control-group">
+              <label for="select-preset-lot" class="control-label">Select Entity Lot:</label>
+              <select id="select-preset-lot" class="form-select" style="min-width: 330px;">
+                <optgroup label="Raw Material Lots (Contaminant Tracing)">
+                  <option value="RAWLOT-SUP-00015-2026-000003" selected>RAWLOT-SUP-00015-2026-000003 (PRD-RAW-0016 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00035-2026-000001">RAWLOT-SUP-00035-2026-000001 (PRD-RAW-0018 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00035-2026-000002">RAWLOT-SUP-00035-2026-000002 (PRD-RAW-0004 - QUARANTINED)</option>
+                  <option value="RAWLOT-SUP-00034-2026-000004">RAWLOT-SUP-00034-2026-000004 (PRD-RAW-0005 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00047-2026-000005">RAWLOT-SUP-00047-2026-000005 (PRD-RAW-0017 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00042-2026-000006">RAWLOT-SUP-00042-2026-000006 (PRD-RAW-0010 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00042-2026-000007">RAWLOT-SUP-00042-2026-000007 (PRD-RAW-0018 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00039-2026-000008">RAWLOT-SUP-00039-2026-000008 (PRD-RAW-0013 - RECALLED)</option>
+                  <option value="RAWLOT-SUP-00016-2026-000009">RAWLOT-SUP-00016-2026-000009 (PRD-RAW-0017 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00046-2026-000010">RAWLOT-SUP-00046-2026-000010 (PRD-RAW-0014 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00028-2026-000011">RAWLOT-SUP-00028-2026-000011 (PRD-RAW-0005 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00018-2026-000012">RAWLOT-SUP-00018-2026-000012 (PRD-RAW-0007 - RELEASED)</option>
+                  <option value="RAWLOT-SUP-00010-2026-000014">RAWLOT-SUP-00010-2026-000014 (PRD-RAW-0016 - RECALLED)</option>
+                  <option value="RAWLOT-SUP-00037-2026-000021">RAWLOT-SUP-00037-2026-000021 (PRD-RAW-0001 - RECALLED)</option>
+                </optgroup>
+                <optgroup label="Finished Product Lots (Distribution Tracing)">
+                  <option value="FINLOT-2026-000087">FINLOT-2026-000087 (AVAILABLE - 100.23 units)</option>
+                  <option value="FINLOT-2026-000001">FINLOT-2026-000001 (AVAILABLE - 1,782.49 units)</option>
+                  <option value="FINLOT-2026-000002">FINLOT-2026-000002 (AVAILABLE - 686.28 units)</option>
+                  <option value="FINLOT-2026-000003">FINLOT-2026-000003 (RECALLED BREACH LOT)</option>
+                  <option value="FINLOT-2026-000010">FINLOT-2026-000010 (RECALLED - 827.52 units)</option>
+                  <option value="FINLOT-2026-000018">FINLOT-2026-000018 (AVAILABLE - 506.26 units)</option>
+                  <option value="FINLOT-2026-000027">FINLOT-2026-000027 (RECALLED - 721.44 units)</option>
+                  <option value="FINLOT-2026-000176">FINLOT-2026-000176 (AVAILABLE - 214.52 units)</option>
+                </optgroup>
+              </select>
+            </div>
+            <button class="btn btn-primary" id="btn-run-trace">
+              <svg viewBox="0 0 24 24" width="15" height="15" stroke="currentColor" fill="none" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+              Trace Genealogy
+            </button>
+          </div>
+        </div>
+
+        <!-- Genealogy Breadcrumbs & Stage Badges -->
+        <div class="tier-stage-tracker" id="genealogy-tier-tracker">
+          <div class="tier-step tier-active" data-tier="1"><span class="step-num">Tier 1</span> Supplier Ingestion</div>
+          <div class="tier-arrow">&rarr;</div>
+          <div class="tier-step tier-active" data-tier="2"><span class="step-num">Tier 2</span> Material Lots & QC</div>
+          <div class="tier-arrow">&rarr;</div>
+          <div class="tier-step tier-active" data-tier="3"><span class="step-num">Tier 3</span> Work Order BOM Consumption</div>
+          <div class="tier-arrow">&rarr;</div>
+          <div class="tier-step tier-active" data-tier="4"><span class="step-num">Tier 4</span> Finished Good Lot</div>
+          <div class="tier-arrow">&rarr;</div>
+          <div class="tier-step tier-active" data-tier="5"><span class="step-num">Tier 5</span> Warehouse & Shipments</div>
+          <div class="tier-arrow">&rarr;</div>
+          <div class="tier-step tier-active" data-tier="6"><span class="step-num">Tier 6</span> Customer Deliveries</div>
+        </div>
+
+        <!-- Visual Genealogy Canvas -->
+        <div class="canvas-wrapper glass-panel" id="genealogy-canvas-container">
+          <div class="canvas-toolbar">
+            <span class="toolbar-title" id="canvas-title">Trace Topology: <strong id="canvas-active-id">Loading...</strong></span>
+          </div>
+          <div id="genealogy-interactive-area" class="genealogy-grid-view">
+            <!-- Dynamic DAG Columns injected via JS -->
+          </div>
+        </div>
+
+        <!-- Selected Node Inspector Modal / Drawer -->
+        <div class="node-inspector-card glass-panel" id="node-inspector">
+          <div class="inspector-header">
+            <h3 class="inspector-title" id="inspector-node-title">Entity Specification</h3>
+            <span class="status-pill badge-neutral" id="inspector-node-type">Node Details</span>
+          </div>
+          <div class="inspector-body" id="inspector-node-details">
+            <p class="placeholder-text">Click on any node in the genealogy canvas above to inspect full parent-child relational attributes, batch records, QC status, and audit timestamps.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============================================== -->
+      <!-- VIEW 2: Recall Scope & Simulation Engine       -->
+      <!-- ============================================== -->
+      <section class="view-panel" id="view-recall">
+        <div class="panel-header">
+          <div>
+            <h2 class="panel-title">End-to-End Recall Blast Radius & Completion Simulator</h2>
+            <p class="panel-desc">Expose containment scope, execute multi-channel quarantine hold actions, and evaluate real-time recovery velocity.</p>
+          </div>
+        </div>
+
+        <!-- Recall Simulation Trigger Form -->
+        <div class="recall-setup-grid">
+          <div class="glass-panel setup-card">
+            <h3 class="card-title">1. Trigger Incident Parameters</h3>
+            <div class="form-grid">
+              <div class="form-group">
+                <label for="select-recall-lot" class="form-label">Target Lot for Recall:</label>
+                <select id="select-recall-lot" class="form-select">
+                  <optgroup label="Raw Material Lots (Contaminant Tracing)">
+                    <option value="RAWLOT-SUP-00035-2026-000001" selected>RAWLOT-SUP-00035-2026-000001 (PRD-RAW-0018 - RELEASED)</option>
+                    <option value="RAWLOT-SUP-00015-2026-000003">RAWLOT-SUP-00015-2026-000003 (PRD-RAW-0016 - RELEASED)</option>
+                    <option value="RAWLOT-SUP-00034-2026-000004">RAWLOT-SUP-00034-2026-000004 (PRD-RAW-0005 - RELEASED)</option>
+                  </optgroup>
+                  <optgroup label="Finished Lots (Distribution Tracing)">
+                    <option value="FINLOT-2026-000087">FINLOT-2026-000087 (AVAILABLE - 100.23 units)</option>
+                    <option value="FINLOT-2026-000003">FINLOT-2026-000003 (RECALLED BREACH LOT)</option>
+                  </optgroup>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="select-hazard-class" class="form-label">Hazard Classification:</label>
+                <select id="select-hazard-class" class="form-select">
+                  <option value="CLASS_I" selected>Class I (High Risk: Severe Adverse / Life Threatening)</option>
+                  <option value="CLASS_II">Class II (Medium Risk: Temporary / Reversible)</option>
+                  <option value="CLASS_III">Class III (Low Risk: Technical / Label / Non-Hazardous)</option>
+                </select>
+              </div>
+              <div class="form-group span-full">
+                <label for="input-root-cause" class="form-label">Investigated Root Cause:</label>
+                <input type="text" id="input-root-cause" class="form-input" value="Burkholderia cepacia complex microbial contamination in sterile fill line">
+              </div>
+            </div>
+            <button class="btn btn-crimson" id="btn-run-simulation">
+              <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" fill="none" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+              Execute Recall Blast Radius Simulation
+            </button>
+          </div>
+
+          <!-- Live Blast Radius Metric Board -->
+          <div class="glass-panel blast-radius-card" id="blast-radius-board">
+            <h3 class="card-title">2. Calculated Blast Radius & Containment</h3>
+            <div class="blast-metric-grid">
+              <div class="blast-box">
+                <span class="blast-label">Total Affected Lots</span>
+                <span class="blast-num" id="blast-val-lots">-</span>
+              </div>
+              <div class="blast-box">
+                <span class="blast-label">Customer Deliveries</span>
+                <span class="blast-num" id="blast-val-deliveries">-</span>
+              </div>
+              <div class="blast-box">
+                <span class="blast-label">Total Units At Risk</span>
+                <span class="blast-num" id="blast-val-units">-</span>
+              </div>
+              <div class="blast-box">
+                <span class="blast-label">Financial Exposure</span>
+                <span class="blast-num text-amber" id="blast-val-exposure">-</span>
+              </div>
+            </div>
+            
+            <!-- Containment Progress Gauge -->
+            <div class="containment-gauge-section">
+              <div class="gauge-header">
+                <span>Containment Completion Rate</span>
+                <strong id="gauge-containment-pct">0.0%</strong>
+              </div>
+              <div class="progress-bar-track">
+                <div class="progress-bar-fill" id="gauge-progress-bar" style="width: 0%"></div>
+              </div>
+              <div class="gauge-subtext" id="gauge-breakdown-text">Warehouse Quarantine: 0 | Recovered: 0 | In-Transit / Field: 0</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 14-Day Simulation Timeline Stepper -->
+        <div class="timeline-container glass-panel" id="timeline-stepper-panel">
+          <div class="timeline-header">
+            <h3 class="card-title">3. Lifecycle Simulation Timeline (Day 0 to Day 14)</h3>
+            <div class="timeline-controls">
+              <button class="btn-sm" id="btn-play-timeline">Auto-Play Simulation</button>
+              <button class="btn-sm" id="btn-reset-timeline">Reset</button>
+            </div>
+          </div>
+          <div class="timeline-steps" id="timeline-track">
+            <!-- Injected by JS -->
+          </div>
+        </div>
+
+        <!-- Immutable Recall Actions Log Table -->
+        <div class="glass-panel" id="recall-actions-panel">
+          <div class="panel-header-sm">
+            <h3 class="card-title">4. Immutable Recall Actions Dispatch Stream (Event Sourcing)</h3>
+            <span class="badge-accent" id="actions-count-badge">0 Actions Logged</span>
+          </div>
+          <div class="table-responsive">
+            <table class="data-table" id="table-recall-actions">
+              <thead>
+                <tr>
+                  <th>Action ID</th>
+                  <th>Action Type</th>
+                  <th>Actor Role</th>
+                  <th>Target Entity</th>
+                  <th>Target Qty</th>
+                  <th>Recovered Qty</th>
+                  <th>Status</th>
+                  <th>Audit Timestamp</th>
+                  <th>Disposition Notes</th>
+                </tr>
+              </thead>
+              <tbody id="tbody-recall-actions">
+                <tr><td colspan="9" class="text-center">Run a simulation above to generate containment actions.</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============================================== -->
+      <!-- VIEW 3: 5 Primary Actor Portals                -->
+      <!-- ============================================== -->
+      <section class="view-panel" id="view-actors">
+        <div class="panel-header">
+          <div>
+            <h2 class="panel-title">Dedicated Actor Operational Command Centers</h2>
+            <p class="panel-desc">Role-specific workflows for Supplier, Planner, Carrier/Warehouse Operator, Logistics Analyst, and Operations Manager.</p>
+          </div>
+          <div class="actor-tabs" id="actor-role-tabs">
+            <button class="actor-btn active" data-role="Supplier">Supplier Portal</button>
+            <button class="actor-btn" data-role="Planner">Production Planner</button>
+            <button class="actor-btn" data-role="Carrier/Warehouse Operator">Carrier / Warehouse Operator</button>
+            <button class="actor-btn" data-role="Logistics Analyst">Logistics Analyst</button>
+            <button class="actor-btn" data-role="Operations Manager">Operations Manager</button>
+          </div>
+        </div>
+
+        <div class="glass-panel actor-content-panel" id="actor-dynamic-view">
+          <!-- Dynamic Content based on chosen actor -->
+          <div id="actor-loading-state" class="text-center py-4">Loading operational dataset for selected actor...</div>
+          <div id="actor-data-container"></div>
+        </div>
+      </section>
+
+      <!-- ============================================== -->
+      <!-- VIEW 4: Anomaly Detection & Ground Truth       -->
+      <!-- ============================================== -->
+      <section class="view-panel" id="view-audit">
+        <div class="panel-header">
+          <div>
+            <h2 class="panel-title">Automated Anomaly Auditor & Ground Truth Benchmark</h2>
+            <p class="panel-desc">Algorithmic auditor scanning for the 4 planted negative edge cases, reconciled against isolated ground_truth.json.</p>
+          </div>
+          <button class="btn btn-primary" id="btn-re-audit">
+            <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" fill="none" stroke-width="2"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+            Re-Run Full Validation Suite
+          </button>
+        </div>
+
+        <!-- Benchmark KPI Metrics (Precision, Recall, F1) -->
+        <div class="benchmark-grid">
+          <div class="benchmark-card glass-panel">
+            <div class="benchmark-score text-emerald" id="audit-f1-val">1.000</div>
+            <div class="benchmark-title">F1-Score</div>
+            <div class="benchmark-desc">Harmonic mean of precision and recall against known anomalies</div>
+          </div>
+          <div class="benchmark-card glass-panel">
+            <div class="benchmark-score text-emerald" id="audit-precision-val">100.0%</div>
+            <div class="benchmark-title">Audit Precision</div>
+            <div class="benchmark-desc">Zero false positives among all detected integrity violations</div>
+          </div>
+          <div class="benchmark-card glass-panel">
+            <div class="benchmark-score text-emerald" id="audit-recall-val">100.0%</div>
+            <div class="benchmark-title">Audit Recall</div>
+            <div class="benchmark-desc">100% of planted ground-truth edge cases successfully detected</div>
+          </div>
+          <div class="benchmark-card glass-panel">
+            <div class="benchmark-score text-cyan" id="audit-rows-inspected">-</div>
+            <div class="benchmark-title">Total Records Scanned</div>
+            <div class="benchmark-desc">Across all 13 relational tables & bridge genealogy rows</div>
+          </div>
+        </div>
+
+        <!-- 4 Planted Edge Cases Deep Dive -->
+        <h3 class="section-heading mt-4">Detected Negative Edge Cases & Business Exception Paths</h3>
+        <div class="edge-cases-grid" id="edge-cases-card-container">
+          <!-- Injected via JS -->
+        </div>
+
+        <!-- Ground Truth File Verification -->
+        <div class="glass-panel mt-4">
+          <div class="panel-header-sm">
+            <h3 class="card-title">Isolated Ground Truth Artifact (ground_truth.json)</h3>
+            <span class="status-pill badge-neutral">Never Leaked Into Feature Space</span>
+          </div>
+          <pre class="code-preview" id="ground-truth-json-preview">Loading ground_truth.json...</pre>
+        </div>
+      </section>
+
+      <!-- ============================================== -->
+      <!-- VIEW 5: Data Dictionary & Reproducibility     -->
+      <!-- ============================================== -->
+      <section class="view-panel" id="view-studio">
+        <div class="panel-header">
+          <div>
+            <h2 class="panel-title">Synthetic Data Dictionary, Manifest & Reproducibility Studio</h2>
+            <p class="panel-desc">Granular field-level specifications, cryptographic checksums, and bitwise reproducibility verification.</p>
+          </div>
+          <button class="btn btn-primary" id="btn-run-reproducibility">
+            <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" fill="none" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+            Execute Step 10 Dual-Run Checksum Test
+          </button>
+        </div>
+
+        <!-- Dual Run Verification Result Banner -->
+        <div class="reproducibility-banner glass-panel" id="reproducibility-result-banner">
+          <div class="repro-badge" id="repro-badge-status">Status: Verified</div>
+          <div class="repro-text" id="repro-banner-text">
+            <strong>Seed 20261022 Determinism:</strong> Both starter and full scale datasets generate bit-for-bit identical row counts and SHA-256 hashes when executed twice consecutively.
+          </div>
+        </div>
+
+        <!-- Manifest Checksum Table -->
+        <div class="glass-panel mt-3">
+          <div class="panel-header-sm">
+            <h3 class="card-title">Cryptographic Source Manifest (source_manifest.json)</h3>
+            <span class="badge-neutral" id="manifest-meta-badge">Seed: 20261022 | Scale: starter</span>
+          </div>
+          <div class="table-responsive">
+            <table class="data-table" id="table-manifest">
+              <thead>
+                <tr>
+                  <th>Table / Dataset</th>
+                  <th>Primary Key</th>
+                  <th>Row Count</th>
+                  <th>SHA-256 Cryptographic Checksum</th>
+                </tr>
+              </thead>
+              <tbody id="tbody-manifest">
+                <!-- Injected via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Interactive Data Dictionary Table -->
+        <div class="glass-panel mt-4">
+          <div class="panel-header-sm">
+            <h3 class="card-title">Interactive Data Dictionary Specification</h3>
+            <div class="control-group">
+              <label for="select-dictionary-entity" class="control-label">Select Entity:</label>
+              <select id="select-dictionary-entity" class="form-select"></select>
+            </div>
+          </div>
+          <div id="dictionary-entity-description" class="p-3 text-secondary"></div>
+          <div class="table-responsive">
+            <table class="data-table" id="table-dictionary">
+              <thead>
+                <tr>
+                  <th>Field Name</th>
+                  <th>Data Type</th>
+                  <th>Required</th>
+                  <th>Unique</th>
+                  <th>Allowed / Sample Values</th>
+                  <th>Validation Business Rule</th>
+                </tr>
+              </thead>
+              <tbody id="tbody-dictionary">
+                <!-- Injected via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <div class="footer-content">
+        <div><strong>PharmaTrace Nexus</strong> &copy; 2026. Automated End-to-End Lot Traceability & Recall Simulation Suite.</div>
+        <div class="footer-links">
+          <span>Fixed Seed: <code>20261022</code></span>
+          <span>Baseline Volume: <code>500 Supp / 10k Lots / 5k Orders / 8k Finished / 20k Deliveries</code></span>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+
+  <script src="app.js?v=20261027c"></script>
+</body>
+</html>

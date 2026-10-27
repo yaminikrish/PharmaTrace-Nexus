@@ -1,0 +1,5002 @@
+[
+  {
+    "delivery_id": "DEL-2026-000001",
+    "shipment_id": "SHP-2026-000001",
+    "customer_id": "CUST-00003",
+    "finished_lot_id": "FINLOT-2026-000052",
+    "delivered_qty": 37.73,
+    "delivery_date": "2026-05-21T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000002",
+    "shipment_id": "SHP-2026-000001",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000167",
+    "delivered_qty": 34.03,
+    "delivery_date": "2026-05-21T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000003",
+    "shipment_id": "SHP-2026-000001",
+    "customer_id": "CUST-00034",
+    "finished_lot_id": "FINLOT-2026-000038",
+    "delivered_qty": 198.26,
+    "delivery_date": "2026-05-21T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000004",
+    "shipment_id": "SHP-2026-000001",
+    "customer_id": "CUST-00055",
+    "finished_lot_id": "FINLOT-2026-000142",
+    "delivered_qty": 69.52,
+    "delivery_date": "2026-05-21T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000005",
+    "shipment_id": "SHP-2026-000001",
+    "customer_id": "CUST-00021",
+    "finished_lot_id": "FINLOT-2026-000016",
+    "delivered_qty": 164.82,
+    "delivery_date": "2026-05-21T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000006",
+    "shipment_id": "SHP-2026-000002",
+    "customer_id": "CUST-00036",
+    "finished_lot_id": "FINLOT-2026-000094",
+    "delivered_qty": 147.63,
+    "delivery_date": "2026-05-27T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000007",
+    "shipment_id": "SHP-2026-000002",
+    "customer_id": "CUST-00045",
+    "finished_lot_id": "FINLOT-2026-000061",
+    "delivered_qty": 112.85,
+    "delivery_date": "2026-05-26T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000008",
+    "shipment_id": "SHP-2026-000002",
+    "customer_id": "CUST-00021",
+    "finished_lot_id": "FINLOT-2026-000046",
+    "delivered_qty": 130.97,
+    "delivery_date": "2026-05-26T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000009",
+    "shipment_id": "SHP-2026-000002",
+    "customer_id": "CUST-00007",
+    "finished_lot_id": "FINLOT-2026-000182",
+    "delivered_qty": 116.98,
+    "delivery_date": "2026-05-26T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000010",
+    "shipment_id": "SHP-2026-000002",
+    "customer_id": "CUST-00042",
+    "finished_lot_id": "FINLOT-2026-000024",
+    "delivered_qty": 219.79,
+    "delivery_date": "2026-05-24T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000011",
+    "shipment_id": "SHP-2026-000003",
+    "customer_id": "CUST-00042",
+    "finished_lot_id": "FINLOT-2026-000084",
+    "delivered_qty": 229.91,
+    "delivery_date": "2026-05-27T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000012",
+    "shipment_id": "SHP-2026-000003",
+    "customer_id": "CUST-00003",
+    "finished_lot_id": "FINLOT-2026-000079",
+    "delivered_qty": 158.01,
+    "delivery_date": "2026-05-27T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000013",
+    "shipment_id": "SHP-2026-000003",
+    "customer_id": "CUST-00028",
+    "finished_lot_id": "FINLOT-2026-000024",
+    "delivered_qty": 89.33,
+    "delivery_date": "2026-05-27T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000014",
+    "shipment_id": "SHP-2026-000003",
+    "customer_id": "CUST-00057",
+    "finished_lot_id": "FINLOT-2026-000176",
+    "delivered_qty": 230.84,
+    "delivery_date": "2026-05-27T04:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000015",
+    "shipment_id": "SHP-2026-000003",
+    "customer_id": "CUST-00076",
+    "finished_lot_id": "FINLOT-2026-000002",
+    "delivered_qty": 1029.42,
+    "delivery_date": "2026-05-27T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000016",
+    "shipment_id": "SHP-2026-000004",
+    "customer_id": "CUST-00078",
+    "finished_lot_id": "FINLOT-2026-000052",
+    "delivered_qty": 157.27,
+    "delivery_date": "2026-05-31T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000017",
+    "shipment_id": "SHP-2026-000004",
+    "customer_id": "CUST-00049",
+    "finished_lot_id": "FINLOT-2026-000130",
+    "delivered_qty": 228.84,
+    "delivery_date": "2026-05-31T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000018",
+    "shipment_id": "SHP-2026-000004",
+    "customer_id": "CUST-00063",
+    "finished_lot_id": "FINLOT-2026-000195",
+    "delivered_qty": 18.34,
+    "delivery_date": "2026-05-31T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000019",
+    "shipment_id": "SHP-2026-000004",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000199",
+    "delivered_qty": 65.86,
+    "delivery_date": "2026-05-31T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000020",
+    "shipment_id": "SHP-2026-000004",
+    "customer_id": "CUST-00065",
+    "finished_lot_id": "FINLOT-2026-000138",
+    "delivered_qty": 144.88,
+    "delivery_date": "2026-05-31T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000021",
+    "shipment_id": "SHP-2026-000005",
+    "customer_id": "CUST-00068",
+    "finished_lot_id": "FINLOT-2026-000159",
+    "delivered_qty": 247.35,
+    "delivery_date": "2026-05-30T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000022",
+    "shipment_id": "SHP-2026-000005",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000199",
+    "delivered_qty": 216.8,
+    "delivery_date": "2026-05-29T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000023",
+    "shipment_id": "SHP-2026-000005",
+    "customer_id": "CUST-00031",
+    "finished_lot_id": "FINLOT-2026-000097",
+    "delivered_qty": 28.92,
+    "delivery_date": "2026-05-31T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000024",
+    "shipment_id": "SHP-2026-000005",
+    "customer_id": "CUST-00016",
+    "finished_lot_id": "FINLOT-2026-000041",
+    "delivered_qty": 47.69,
+    "delivery_date": "2026-05-30T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000025",
+    "shipment_id": "SHP-2026-000005",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000177",
+    "delivered_qty": 215.02,
+    "delivery_date": "2026-05-29T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000026",
+    "shipment_id": "SHP-2026-000006",
+    "customer_id": "CUST-00045",
+    "finished_lot_id": "FINLOT-2026-000167",
+    "delivered_qty": 248.22,
+    "delivery_date": "2026-05-17T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000027",
+    "shipment_id": "SHP-2026-000006",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000108",
+    "delivered_qty": 249.19,
+    "delivery_date": "2026-05-17T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000028",
+    "shipment_id": "SHP-2026-000006",
+    "customer_id": "CUST-00067",
+    "finished_lot_id": "FINLOT-2026-000012",
+    "delivered_qty": 130.1,
+    "delivery_date": "2026-05-17T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000029",
+    "shipment_id": "SHP-2026-000006",
+    "customer_id": "CUST-00069",
+    "finished_lot_id": "FINLOT-2026-000064",
+    "delivered_qty": 246.48,
+    "delivery_date": "2026-05-17T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000030",
+    "shipment_id": "SHP-2026-000006",
+    "customer_id": "CUST-00030",
+    "finished_lot_id": "FINLOT-2026-000145",
+    "delivered_qty": 48.55,
+    "delivery_date": "2026-05-17T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000031",
+    "shipment_id": "SHP-2026-000007",
+    "customer_id": "CUST-00021",
+    "finished_lot_id": "FINLOT-2026-000060",
+    "delivered_qty": 37.74,
+    "delivery_date": "2026-06-02T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000032",
+    "shipment_id": "SHP-2026-000007",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000115",
+    "delivered_qty": 231.87,
+    "delivery_date": "2026-06-03T03:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000033",
+    "shipment_id": "SHP-2026-000007",
+    "customer_id": "CUST-00043",
+    "finished_lot_id": "FINLOT-2026-000019",
+    "delivered_qty": 83.67,
+    "delivery_date": "2026-06-01T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000034",
+    "shipment_id": "SHP-2026-000007",
+    "customer_id": "CUST-00020",
+    "finished_lot_id": "FINLOT-2026-000161",
+    "delivered_qty": 118.86,
+    "delivery_date": "2026-06-03T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000035",
+    "shipment_id": "SHP-2026-000007",
+    "customer_id": "CUST-00048",
+    "finished_lot_id": "FINLOT-2026-000119",
+    "delivered_qty": 177.5,
+    "delivery_date": "2026-06-03T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000036",
+    "shipment_id": "SHP-2026-000008",
+    "customer_id": "CUST-00017",
+    "finished_lot_id": "FINLOT-2026-000077",
+    "delivered_qty": 49.72,
+    "delivery_date": "2026-05-17T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000037",
+    "shipment_id": "SHP-2026-000008",
+    "customer_id": "CUST-00063",
+    "finished_lot_id": "FINLOT-2026-000026",
+    "delivered_qty": 150.43,
+    "delivery_date": "2026-05-17T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000038",
+    "shipment_id": "SHP-2026-000008",
+    "customer_id": "CUST-00029",
+    "finished_lot_id": "FINLOT-2026-000096",
+    "delivered_qty": 191.25,
+    "delivery_date": "2026-05-17T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000039",
+    "shipment_id": "SHP-2026-000008",
+    "customer_id": "CUST-00031",
+    "finished_lot_id": "FINLOT-2026-000016",
+    "delivered_qty": 129.5,
+    "delivery_date": "2026-05-17T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000040",
+    "shipment_id": "SHP-2026-000008",
+    "customer_id": "CUST-00056",
+    "finished_lot_id": "FINLOT-2026-000149",
+    "delivered_qty": 205.08,
+    "delivery_date": "2026-05-17T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000041",
+    "shipment_id": "SHP-2026-000009",
+    "customer_id": "CUST-00067",
+    "finished_lot_id": "FINLOT-2026-000118",
+    "delivered_qty": 43.6,
+    "delivery_date": "2026-05-26T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000042",
+    "shipment_id": "SHP-2026-000009",
+    "customer_id": "CUST-00029",
+    "finished_lot_id": "FINLOT-2026-000138",
+    "delivered_qty": 105.64,
+    "delivery_date": "2026-05-26T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000043",
+    "shipment_id": "SHP-2026-000009",
+    "customer_id": "CUST-00010",
+    "finished_lot_id": "FINLOT-2026-000141",
+    "delivered_qty": 241.83,
+    "delivery_date": "2026-05-26T09:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000044",
+    "shipment_id": "SHP-2026-000009",
+    "customer_id": "CUST-00074",
+    "finished_lot_id": "FINLOT-2026-000118",
+    "delivered_qty": 232.82,
+    "delivery_date": "2026-05-26T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000045",
+    "shipment_id": "SHP-2026-000009",
+    "customer_id": "CUST-00076",
+    "finished_lot_id": "FINLOT-2026-000007",
+    "delivered_qty": 153.95,
+    "delivery_date": "2026-05-26T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000046",
+    "shipment_id": "SHP-2026-000010",
+    "customer_id": "CUST-00013",
+    "finished_lot_id": "FINLOT-2026-000179",
+    "delivered_qty": 161.03,
+    "delivery_date": "2026-06-08T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000047",
+    "shipment_id": "SHP-2026-000010",
+    "customer_id": "CUST-00052",
+    "finished_lot_id": "FINLOT-2026-000025",
+    "delivered_qty": 82.39,
+    "delivery_date": "2026-06-07T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000048",
+    "shipment_id": "SHP-2026-000010",
+    "customer_id": "CUST-00041",
+    "finished_lot_id": "FINLOT-2026-000127",
+    "delivered_qty": 136.93,
+    "delivery_date": "2026-06-07T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000049",
+    "shipment_id": "SHP-2026-000010",
+    "customer_id": "CUST-00018",
+    "finished_lot_id": "FINLOT-2026-000156",
+    "delivered_qty": 154.44,
+    "delivery_date": "2026-06-08T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000050",
+    "shipment_id": "SHP-2026-000010",
+    "customer_id": "CUST-00035",
+    "finished_lot_id": "FINLOT-2026-000044",
+    "delivered_qty": 179.09,
+    "delivery_date": "2026-06-08T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000051",
+    "shipment_id": "SHP-2026-000011",
+    "customer_id": "CUST-00052",
+    "finished_lot_id": "FINLOT-2026-000127",
+    "delivered_qty": 7.7,
+    "delivery_date": "2026-05-26T23:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000052",
+    "shipment_id": "SHP-2026-000011",
+    "customer_id": "CUST-00027",
+    "finished_lot_id": "FINLOT-2026-000197",
+    "delivered_qty": 67.69,
+    "delivery_date": "2026-05-27T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000053",
+    "shipment_id": "SHP-2026-000011",
+    "customer_id": "CUST-00049",
+    "finished_lot_id": "FINLOT-2026-000119",
+    "delivered_qty": 160.82,
+    "delivery_date": "2026-05-26T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000054",
+    "shipment_id": "SHP-2026-000011",
+    "customer_id": "CUST-00026",
+    "finished_lot_id": "FINLOT-2026-000200",
+    "delivered_qty": 50.83,
+    "delivery_date": "2026-05-27T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000055",
+    "shipment_id": "SHP-2026-000011",
+    "customer_id": "CUST-00072",
+    "finished_lot_id": "FINLOT-2026-000091",
+    "delivered_qty": 236.84,
+    "delivery_date": "2026-05-27T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000056",
+    "shipment_id": "SHP-2026-000012",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000098",
+    "delivered_qty": 224.77,
+    "delivery_date": "2026-05-23T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000057",
+    "shipment_id": "SHP-2026-000012",
+    "customer_id": "CUST-00035",
+    "finished_lot_id": "FINLOT-2026-000138",
+    "delivered_qty": 105.98,
+    "delivery_date": "2026-05-25T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000058",
+    "shipment_id": "SHP-2026-000012",
+    "customer_id": "CUST-00019",
+    "finished_lot_id": "FINLOT-2026-000112",
+    "delivered_qty": 41.08,
+    "delivery_date": "2026-05-24T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000059",
+    "shipment_id": "SHP-2026-000012",
+    "customer_id": "CUST-00001",
+    "finished_lot_id": "FINLOT-2026-000080",
+    "delivered_qty": 64.79,
+    "delivery_date": "2026-05-23T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000060",
+    "shipment_id": "SHP-2026-000012",
+    "customer_id": "CUST-00013",
+    "finished_lot_id": "FINLOT-2026-000014",
+    "delivered_qty": 126.84,
+    "delivery_date": "2026-05-23T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000061",
+    "shipment_id": "SHP-2026-000013",
+    "customer_id": "CUST-00015",
+    "finished_lot_id": "FINLOT-2026-000161",
+    "delivered_qty": 240.92,
+    "delivery_date": "2026-05-20T22:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000062",
+    "shipment_id": "SHP-2026-000013",
+    "customer_id": "CUST-00016",
+    "finished_lot_id": "FINLOT-2026-000069",
+    "delivered_qty": 212.84,
+    "delivery_date": "2026-05-20T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000063",
+    "shipment_id": "SHP-2026-000013",
+    "customer_id": "CUST-00002",
+    "finished_lot_id": "FINLOT-2026-000053",
+    "delivered_qty": 234.61,
+    "delivery_date": "2026-05-20T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000064",
+    "shipment_id": "SHP-2026-000013",
+    "customer_id": "CUST-00054",
+    "finished_lot_id": "FINLOT-2026-000078",
+    "delivered_qty": 52.33,
+    "delivery_date": "2026-05-20T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000065",
+    "shipment_id": "SHP-2026-000013",
+    "customer_id": "CUST-00003",
+    "finished_lot_id": "FINLOT-2026-000040",
+    "delivered_qty": 79.5,
+    "delivery_date": "2026-05-20T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000066",
+    "shipment_id": "SHP-2026-000014",
+    "customer_id": "CUST-00077",
+    "finished_lot_id": "FINLOT-2026-000057",
+    "delivered_qty": 156.21,
+    "delivery_date": "2026-05-28T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000067",
+    "shipment_id": "SHP-2026-000014",
+    "customer_id": "CUST-00014",
+    "finished_lot_id": "FINLOT-2026-000089",
+    "delivered_qty": 84.52,
+    "delivery_date": "2026-05-28T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000068",
+    "shipment_id": "SHP-2026-000014",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000157",
+    "delivered_qty": 157.04,
+    "delivery_date": "2026-05-28T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000069",
+    "shipment_id": "SHP-2026-000014",
+    "customer_id": "CUST-00065",
+    "finished_lot_id": "FINLOT-2026-000052",
+    "delivered_qty": 15.5,
+    "delivery_date": "2026-05-28T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000070",
+    "shipment_id": "SHP-2026-000014",
+    "customer_id": "CUST-00025",
+    "finished_lot_id": "FINLOT-2026-000049",
+    "delivered_qty": 197.48,
+    "delivery_date": "2026-05-28T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000071",
+    "shipment_id": "SHP-2026-000015",
+    "customer_id": "CUST-00074",
+    "finished_lot_id": "FINLOT-2026-000169",
+    "delivered_qty": 15.28,
+    "delivery_date": "2026-05-24T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000072",
+    "shipment_id": "SHP-2026-000015",
+    "customer_id": "CUST-00025",
+    "finished_lot_id": "FINLOT-2026-000014",
+    "delivered_qty": 39.47,
+    "delivery_date": "2026-05-23T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000073",
+    "shipment_id": "SHP-2026-000015",
+    "customer_id": "CUST-00016",
+    "finished_lot_id": "FINLOT-2026-000064",
+    "delivered_qty": 5.24,
+    "delivery_date": "2026-05-24T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000074",
+    "shipment_id": "SHP-2026-000015",
+    "customer_id": "CUST-00072",
+    "finished_lot_id": "FINLOT-2026-000169",
+    "delivered_qty": 231.78,
+    "delivery_date": "2026-05-24T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000075",
+    "shipment_id": "SHP-2026-000015",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000200",
+    "delivered_qty": 75.57,
+    "delivery_date": "2026-05-24T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000076",
+    "shipment_id": "SHP-2026-000016",
+    "customer_id": "CUST-00062",
+    "finished_lot_id": "FINLOT-2026-000098",
+    "delivered_qty": 249.45,
+    "delivery_date": "2026-05-25T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000077",
+    "shipment_id": "SHP-2026-000016",
+    "customer_id": "CUST-00044",
+    "finished_lot_id": "FINLOT-2026-000127",
+    "delivered_qty": 127.51,
+    "delivery_date": "2026-05-24T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000078",
+    "shipment_id": "SHP-2026-000016",
+    "customer_id": "CUST-00061",
+    "finished_lot_id": "FINLOT-2026-000135",
+    "delivered_qty": 6.31,
+    "delivery_date": "2026-05-25T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000079",
+    "shipment_id": "SHP-2026-000016",
+    "customer_id": "CUST-00030",
+    "finished_lot_id": "FINLOT-2026-000109",
+    "delivered_qty": 241.48,
+    "delivery_date": "2026-05-25T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000080",
+    "shipment_id": "SHP-2026-000016",
+    "customer_id": "CUST-00064",
+    "finished_lot_id": "FINLOT-2026-000149",
+    "delivered_qty": 212.6,
+    "delivery_date": "2026-05-25T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000081",
+    "shipment_id": "SHP-2026-000017",
+    "customer_id": "CUST-00010",
+    "finished_lot_id": "FINLOT-2026-000088",
+    "delivered_qty": 208.74,
+    "delivery_date": "2026-05-05T17:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000082",
+    "shipment_id": "SHP-2026-000017",
+    "customer_id": "CUST-00073",
+    "finished_lot_id": "FINLOT-2026-000039",
+    "delivered_qty": 55.16,
+    "delivery_date": "2026-05-06T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000083",
+    "shipment_id": "SHP-2026-000017",
+    "customer_id": "CUST-00031",
+    "finished_lot_id": "FINLOT-2026-000102",
+    "delivered_qty": 39.19,
+    "delivery_date": "2026-05-04T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000084",
+    "shipment_id": "SHP-2026-000017",
+    "customer_id": "CUST-00054",
+    "finished_lot_id": "FINLOT-2026-000003",
+    "delivered_qty": 229.37,
+    "delivery_date": "2026-05-04T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000085",
+    "shipment_id": "SHP-2026-000017",
+    "customer_id": "CUST-00017",
+    "finished_lot_id": "FINLOT-2026-000064",
+    "delivered_qty": 6.75,
+    "delivery_date": "2026-05-07T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000086",
+    "shipment_id": "SHP-2026-000018",
+    "customer_id": "CUST-00033",
+    "finished_lot_id": "FINLOT-2026-000199",
+    "delivered_qty": 30.75,
+    "delivery_date": "2026-06-02T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000087",
+    "shipment_id": "SHP-2026-000018",
+    "customer_id": "CUST-00029",
+    "finished_lot_id": "FINLOT-2026-000047",
+    "delivered_qty": 165.33,
+    "delivery_date": "2026-06-02T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000088",
+    "shipment_id": "SHP-2026-000018",
+    "customer_id": "CUST-00037",
+    "finished_lot_id": "FINLOT-2026-000191",
+    "delivered_qty": 236.91,
+    "delivery_date": "2026-06-02T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000089",
+    "shipment_id": "SHP-2026-000018",
+    "customer_id": "CUST-00002",
+    "finished_lot_id": "FINLOT-2026-000120",
+    "delivered_qty": 63.67,
+    "delivery_date": "2026-06-02T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000090",
+    "shipment_id": "SHP-2026-000018",
+    "customer_id": "CUST-00067",
+    "finished_lot_id": "FINLOT-2026-000017",
+    "delivered_qty": 26.52,
+    "delivery_date": "2026-06-01T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000091",
+    "shipment_id": "SHP-2026-000019",
+    "customer_id": "CUST-00002",
+    "finished_lot_id": "FINLOT-2026-000058",
+    "delivered_qty": 152.04,
+    "delivery_date": "2026-05-21T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000092",
+    "shipment_id": "SHP-2026-000019",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000113",
+    "delivered_qty": 140.26,
+    "delivery_date": "2026-05-21T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000093",
+    "shipment_id": "SHP-2026-000019",
+    "customer_id": "CUST-00046",
+    "finished_lot_id": "FINLOT-2026-000161",
+    "delivered_qty": 143.6,
+    "delivery_date": "2026-05-20T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000094",
+    "shipment_id": "SHP-2026-000019",
+    "customer_id": "CUST-00003",
+    "finished_lot_id": "FINLOT-2026-000026",
+    "delivered_qty": 85.55,
+    "delivery_date": "2026-05-21T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000095",
+    "shipment_id": "SHP-2026-000019",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000095",
+    "delivered_qty": 68.6,
+    "delivery_date": "2026-05-21T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000096",
+    "shipment_id": "SHP-2026-000020",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000006",
+    "delivered_qty": 17.57,
+    "delivery_date": "2026-05-26T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000097",
+    "shipment_id": "SHP-2026-000020",
+    "customer_id": "CUST-00013",
+    "finished_lot_id": "FINLOT-2026-000140",
+    "delivered_qty": 211.95,
+    "delivery_date": "2026-05-26T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000098",
+    "shipment_id": "SHP-2026-000020",
+    "customer_id": "CUST-00080",
+    "finished_lot_id": "FINLOT-2026-000193",
+    "delivered_qty": 23.62,
+    "delivery_date": "2026-05-26T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000099",
+    "shipment_id": "SHP-2026-000020",
+    "customer_id": "CUST-00077",
+    "finished_lot_id": "FINLOT-2026-000143",
+    "delivered_qty": 215.48,
+    "delivery_date": "2026-05-26T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000100",
+    "shipment_id": "SHP-2026-000020",
+    "customer_id": "CUST-00018",
+    "finished_lot_id": "FINLOT-2026-000132",
+    "delivered_qty": 54.2,
+    "delivery_date": "2026-05-26T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000101",
+    "shipment_id": "SHP-2026-000021",
+    "customer_id": "CUST-00055",
+    "finished_lot_id": "FINLOT-2026-000113",
+    "delivered_qty": 142.1,
+    "delivery_date": "2026-05-31T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000102",
+    "shipment_id": "SHP-2026-000021",
+    "customer_id": "CUST-00009",
+    "finished_lot_id": "FINLOT-2026-000071",
+    "delivered_qty": 115.37,
+    "delivery_date": "2026-05-31T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000103",
+    "shipment_id": "SHP-2026-000021",
+    "customer_id": "CUST-00019",
+    "finished_lot_id": "FINLOT-2026-000162",
+    "delivered_qty": 33.23,
+    "delivery_date": "2026-05-31T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000104",
+    "shipment_id": "SHP-2026-000021",
+    "customer_id": "CUST-00057",
+    "finished_lot_id": "FINLOT-2026-000047",
+    "delivered_qty": 8.55,
+    "delivery_date": "2026-05-31T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000105",
+    "shipment_id": "SHP-2026-000022",
+    "customer_id": "CUST-00017",
+    "finished_lot_id": "FINLOT-2026-000125",
+    "delivered_qty": 214.65,
+    "delivery_date": "2026-05-06T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000106",
+    "shipment_id": "SHP-2026-000022",
+    "customer_id": "CUST-00065",
+    "finished_lot_id": "FINLOT-2026-000160",
+    "delivered_qty": 72.99,
+    "delivery_date": "2026-05-07T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000107",
+    "shipment_id": "SHP-2026-000022",
+    "customer_id": "CUST-00066",
+    "finished_lot_id": "FINLOT-2026-000081",
+    "delivered_qty": 175.5,
+    "delivery_date": "2026-05-06T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000108",
+    "shipment_id": "SHP-2026-000022",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000029",
+    "delivered_qty": 178.09,
+    "delivery_date": "2026-05-07T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000109",
+    "shipment_id": "SHP-2026-000023",
+    "customer_id": "CUST-00054",
+    "finished_lot_id": "FINLOT-2026-000195",
+    "delivered_qty": 229.81,
+    "delivery_date": "2026-06-07T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000110",
+    "shipment_id": "SHP-2026-000023",
+    "customer_id": "CUST-00052",
+    "finished_lot_id": "FINLOT-2026-000035",
+    "delivered_qty": 85.39,
+    "delivery_date": "2026-06-07T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000111",
+    "shipment_id": "SHP-2026-000023",
+    "customer_id": "CUST-00036",
+    "finished_lot_id": "FINLOT-2026-000083",
+    "delivered_qty": 213.68,
+    "delivery_date": "2026-06-08T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000112",
+    "shipment_id": "SHP-2026-000023",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000152",
+    "delivered_qty": 54.8,
+    "delivery_date": "2026-06-07T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000113",
+    "shipment_id": "SHP-2026-000024",
+    "customer_id": "CUST-00057",
+    "finished_lot_id": "FINLOT-2026-000147",
+    "delivered_qty": 179.3,
+    "delivery_date": "2026-05-28T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000114",
+    "shipment_id": "SHP-2026-000024",
+    "customer_id": "CUST-00053",
+    "finished_lot_id": "FINLOT-2026-000097",
+    "delivered_qty": 129.75,
+    "delivery_date": "2026-05-28T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000115",
+    "shipment_id": "SHP-2026-000024",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000001",
+    "delivered_qty": 97.12,
+    "delivery_date": "2026-05-28T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000116",
+    "shipment_id": "SHP-2026-000024",
+    "customer_id": "CUST-00047",
+    "finished_lot_id": "FINLOT-2026-000124",
+    "delivered_qty": 135.98,
+    "delivery_date": "2026-05-28T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000117",
+    "shipment_id": "SHP-2026-000025",
+    "customer_id": "CUST-00010",
+    "finished_lot_id": "FINLOT-2026-000029",
+    "delivered_qty": 215.13,
+    "delivery_date": "2026-05-24T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000118",
+    "shipment_id": "SHP-2026-000025",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000119",
+    "delivered_qty": 87.08,
+    "delivery_date": "2026-05-24T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000119",
+    "shipment_id": "SHP-2026-000025",
+    "customer_id": "CUST-00053",
+    "finished_lot_id": "FINLOT-2026-000061",
+    "delivered_qty": 116.65,
+    "delivery_date": "2026-05-24T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000120",
+    "shipment_id": "SHP-2026-000025",
+    "customer_id": "CUST-00074",
+    "finished_lot_id": "FINLOT-2026-000054",
+    "delivered_qty": 245.89,
+    "delivery_date": "2026-05-24T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000121",
+    "shipment_id": "SHP-2026-000026",
+    "customer_id": "CUST-00036",
+    "finished_lot_id": "FINLOT-2026-000148",
+    "delivered_qty": 33.29,
+    "delivery_date": "2026-05-18T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000122",
+    "shipment_id": "SHP-2026-000026",
+    "customer_id": "CUST-00018",
+    "finished_lot_id": "FINLOT-2026-000144",
+    "delivered_qty": 232.52,
+    "delivery_date": "2026-05-19T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000123",
+    "shipment_id": "SHP-2026-000026",
+    "customer_id": "CUST-00052",
+    "finished_lot_id": "FINLOT-2026-000063",
+    "delivered_qty": 28.36,
+    "delivery_date": "2026-05-19T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000124",
+    "shipment_id": "SHP-2026-000026",
+    "customer_id": "CUST-00009",
+    "finished_lot_id": "FINLOT-2026-000118",
+    "delivered_qty": 32.0,
+    "delivery_date": "2026-05-19T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000125",
+    "shipment_id": "SHP-2026-000027",
+    "customer_id": "CUST-00009",
+    "finished_lot_id": "FINLOT-2026-000151",
+    "delivered_qty": 194.63,
+    "delivery_date": "2026-05-26T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000126",
+    "shipment_id": "SHP-2026-000027",
+    "customer_id": "CUST-00012",
+    "finished_lot_id": "FINLOT-2026-000008",
+    "delivered_qty": 100.35,
+    "delivery_date": "2026-05-26T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000127",
+    "shipment_id": "SHP-2026-000027",
+    "customer_id": "CUST-00029",
+    "finished_lot_id": "FINLOT-2026-000089",
+    "delivered_qty": 123.72,
+    "delivery_date": "2026-05-26T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000128",
+    "shipment_id": "SHP-2026-000027",
+    "customer_id": "CUST-00070",
+    "finished_lot_id": "FINLOT-2026-000039",
+    "delivered_qty": 65.48,
+    "delivery_date": "2026-05-26T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000129",
+    "shipment_id": "SHP-2026-000028",
+    "customer_id": "CUST-00001",
+    "finished_lot_id": "FINLOT-2026-000134",
+    "delivered_qty": 33.21,
+    "delivery_date": "2026-05-28T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000130",
+    "shipment_id": "SHP-2026-000028",
+    "customer_id": "CUST-00022",
+    "finished_lot_id": "FINLOT-2026-000007",
+    "delivered_qty": 18.73,
+    "delivery_date": "2026-05-28T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000131",
+    "shipment_id": "SHP-2026-000028",
+    "customer_id": "CUST-00070",
+    "finished_lot_id": "FINLOT-2026-000113",
+    "delivered_qty": 183.57,
+    "delivery_date": "2026-05-29T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000132",
+    "shipment_id": "SHP-2026-000028",
+    "customer_id": "CUST-00078",
+    "finished_lot_id": "FINLOT-2026-000186",
+    "delivered_qty": 138.3,
+    "delivery_date": "2026-05-28T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000133",
+    "shipment_id": "SHP-2026-000029",
+    "customer_id": "CUST-00043",
+    "finished_lot_id": "FINLOT-2026-000151",
+    "delivered_qty": 36.31,
+    "delivery_date": "2026-05-16T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000134",
+    "shipment_id": "SHP-2026-000029",
+    "customer_id": "CUST-00019",
+    "finished_lot_id": "FINLOT-2026-000039",
+    "delivered_qty": 133.34,
+    "delivery_date": "2026-05-16T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000135",
+    "shipment_id": "SHP-2026-000029",
+    "customer_id": "CUST-00047",
+    "finished_lot_id": "FINLOT-2026-000188",
+    "delivered_qty": 21.44,
+    "delivery_date": "2026-05-16T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000136",
+    "shipment_id": "SHP-2026-000029",
+    "customer_id": "CUST-00013",
+    "finished_lot_id": "FINLOT-2026-000104",
+    "delivered_qty": 31.46,
+    "delivery_date": "2026-05-16T13:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000137",
+    "shipment_id": "SHP-2026-000030",
+    "customer_id": "CUST-00016",
+    "finished_lot_id": "FINLOT-2026-000091",
+    "delivered_qty": 72.99,
+    "delivery_date": "2026-05-18T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000138",
+    "shipment_id": "SHP-2026-000030",
+    "customer_id": "CUST-00058",
+    "finished_lot_id": "FINLOT-2026-000111",
+    "delivered_qty": 24.02,
+    "delivery_date": "2026-05-20T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000139",
+    "shipment_id": "SHP-2026-000030",
+    "customer_id": "CUST-00033",
+    "finished_lot_id": "FINLOT-2026-000198",
+    "delivered_qty": 78.13,
+    "delivery_date": "2026-05-18T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000140",
+    "shipment_id": "SHP-2026-000030",
+    "customer_id": "CUST-00013",
+    "finished_lot_id": "FINLOT-2026-000131",
+    "delivered_qty": 147.48,
+    "delivery_date": "2026-05-19T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000141",
+    "shipment_id": "SHP-2026-000031",
+    "customer_id": "CUST-00076",
+    "finished_lot_id": "FINLOT-2026-000131",
+    "delivered_qty": 124.83,
+    "delivery_date": "2026-05-31T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000142",
+    "shipment_id": "SHP-2026-000031",
+    "customer_id": "CUST-00008",
+    "finished_lot_id": "FINLOT-2026-000057",
+    "delivered_qty": 134.2,
+    "delivery_date": "2026-05-31T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000143",
+    "shipment_id": "SHP-2026-000031",
+    "customer_id": "CUST-00006",
+    "finished_lot_id": "FINLOT-2026-000105",
+    "delivered_qty": 61.75,
+    "delivery_date": "2026-05-31T11:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000144",
+    "shipment_id": "SHP-2026-000031",
+    "customer_id": "CUST-00015",
+    "finished_lot_id": "FINLOT-2026-000027",
+    "delivered_qty": 106.28,
+    "delivery_date": "2026-05-30T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000145",
+    "shipment_id": "SHP-2026-000032",
+    "customer_id": "CUST-00014",
+    "finished_lot_id": "FINLOT-2026-000047",
+    "delivered_qty": 36.93,
+    "delivery_date": "2026-05-20T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000146",
+    "shipment_id": "SHP-2026-000032",
+    "customer_id": "CUST-00006",
+    "finished_lot_id": "FINLOT-2026-000079",
+    "delivered_qty": 107.42,
+    "delivery_date": "2026-05-23T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000147",
+    "shipment_id": "SHP-2026-000032",
+    "customer_id": "CUST-00062",
+    "finished_lot_id": "FINLOT-2026-000152",
+    "delivered_qty": 209.02,
+    "delivery_date": "2026-05-22T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000148",
+    "shipment_id": "SHP-2026-000032",
+    "customer_id": "CUST-00003",
+    "finished_lot_id": "FINLOT-2026-000011",
+    "delivered_qty": 19.43,
+    "delivery_date": "2026-05-22T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000149",
+    "shipment_id": "SHP-2026-000033",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000032",
+    "delivered_qty": 179.79,
+    "delivery_date": "2026-05-28T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000150",
+    "shipment_id": "SHP-2026-000033",
+    "customer_id": "CUST-00016",
+    "finished_lot_id": "FINLOT-2026-000109",
+    "delivered_qty": 16.55,
+    "delivery_date": "2026-05-29T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000151",
+    "shipment_id": "SHP-2026-000033",
+    "customer_id": "CUST-00021",
+    "finished_lot_id": "FINLOT-2026-000095",
+    "delivered_qty": 54.94,
+    "delivery_date": "2026-05-29T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000152",
+    "shipment_id": "SHP-2026-000033",
+    "customer_id": "CUST-00066",
+    "finished_lot_id": "FINLOT-2026-000161",
+    "delivered_qty": 239.61,
+    "delivery_date": "2026-05-29T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000153",
+    "shipment_id": "SHP-2026-000034",
+    "customer_id": "CUST-00054",
+    "finished_lot_id": "FINLOT-2026-000184",
+    "delivered_qty": 64.25,
+    "delivery_date": "2026-05-22T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000154",
+    "shipment_id": "SHP-2026-000034",
+    "customer_id": "CUST-00032",
+    "finished_lot_id": "FINLOT-2026-000194",
+    "delivered_qty": 240.57,
+    "delivery_date": "2026-05-23T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000155",
+    "shipment_id": "SHP-2026-000034",
+    "customer_id": "CUST-00064",
+    "finished_lot_id": "FINLOT-2026-000079",
+    "delivered_qty": 112.95,
+    "delivery_date": "2026-05-22T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000156",
+    "shipment_id": "SHP-2026-000034",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000138",
+    "delivered_qty": 51.32,
+    "delivery_date": "2026-05-22T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000157",
+    "shipment_id": "SHP-2026-000035",
+    "customer_id": "CUST-00022",
+    "finished_lot_id": "FINLOT-2026-000173",
+    "delivered_qty": 233.44,
+    "delivery_date": "2026-04-26T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000158",
+    "shipment_id": "SHP-2026-000035",
+    "customer_id": "CUST-00055",
+    "finished_lot_id": "FINLOT-2026-000041",
+    "delivered_qty": 21.61,
+    "delivery_date": "2026-04-25T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000159",
+    "shipment_id": "SHP-2026-000035",
+    "customer_id": "CUST-00069",
+    "finished_lot_id": "FINLOT-2026-000033",
+    "delivered_qty": 69.52,
+    "delivery_date": "2026-04-24T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000160",
+    "shipment_id": "SHP-2026-000035",
+    "customer_id": "CUST-00021",
+    "finished_lot_id": "FINLOT-2026-000026",
+    "delivered_qty": 196.3,
+    "delivery_date": "2026-04-25T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000161",
+    "shipment_id": "SHP-2026-000036",
+    "customer_id": "CUST-00070",
+    "finished_lot_id": "FINLOT-2026-000014",
+    "delivered_qty": 183.35,
+    "delivery_date": "2026-05-25T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000162",
+    "shipment_id": "SHP-2026-000036",
+    "customer_id": "CUST-00065",
+    "finished_lot_id": "FINLOT-2026-000089",
+    "delivered_qty": 209.32,
+    "delivery_date": "2026-05-27T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000163",
+    "shipment_id": "SHP-2026-000036",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000095",
+    "delivered_qty": 181.72,
+    "delivery_date": "2026-05-24T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000164",
+    "shipment_id": "SHP-2026-000036",
+    "customer_id": "CUST-00061",
+    "finished_lot_id": "FINLOT-2026-000174",
+    "delivered_qty": 50.18,
+    "delivery_date": "2026-05-24T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000165",
+    "shipment_id": "SHP-2026-000037",
+    "customer_id": "CUST-00026",
+    "finished_lot_id": "FINLOT-2026-000198",
+    "delivered_qty": 24.12,
+    "delivery_date": "2026-05-30T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000166",
+    "shipment_id": "SHP-2026-000037",
+    "customer_id": "CUST-00052",
+    "finished_lot_id": "FINLOT-2026-000111",
+    "delivered_qty": 139.12,
+    "delivery_date": "2026-05-29T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000167",
+    "shipment_id": "SHP-2026-000037",
+    "customer_id": "CUST-00077",
+    "finished_lot_id": "FINLOT-2026-000161",
+    "delivered_qty": 62.28,
+    "delivery_date": "2026-05-29T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000168",
+    "shipment_id": "SHP-2026-000037",
+    "customer_id": "CUST-00022",
+    "finished_lot_id": "FINLOT-2026-000177",
+    "delivered_qty": 218.39,
+    "delivery_date": "2026-05-29T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000169",
+    "shipment_id": "SHP-2026-000038",
+    "customer_id": "CUST-00001",
+    "finished_lot_id": "FINLOT-2026-000011",
+    "delivered_qty": 140.4,
+    "delivery_date": "2026-05-21T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000170",
+    "shipment_id": "SHP-2026-000038",
+    "customer_id": "CUST-00014",
+    "finished_lot_id": "FINLOT-2026-000193",
+    "delivered_qty": 17.29,
+    "delivery_date": "2026-05-21T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000171",
+    "shipment_id": "SHP-2026-000038",
+    "customer_id": "CUST-00035",
+    "finished_lot_id": "FINLOT-2026-000027",
+    "delivered_qty": 132.74,
+    "delivery_date": "2026-05-21T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000172",
+    "shipment_id": "SHP-2026-000038",
+    "customer_id": "CUST-00062",
+    "finished_lot_id": "FINLOT-2026-000185",
+    "delivered_qty": 90.43,
+    "delivery_date": "2026-05-21T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000173",
+    "shipment_id": "SHP-2026-000039",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000172",
+    "delivered_qty": 62.94,
+    "delivery_date": "2026-06-05T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000174",
+    "shipment_id": "SHP-2026-000039",
+    "customer_id": "CUST-00072",
+    "finished_lot_id": "FINLOT-2026-000127",
+    "delivered_qty": 231.26,
+    "delivery_date": "2026-06-05T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000175",
+    "shipment_id": "SHP-2026-000039",
+    "customer_id": "CUST-00001",
+    "finished_lot_id": "FINLOT-2026-000116",
+    "delivered_qty": 155.42,
+    "delivery_date": "2026-06-04T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000176",
+    "shipment_id": "SHP-2026-000039",
+    "customer_id": "CUST-00037",
+    "finished_lot_id": "FINLOT-2026-000085",
+    "delivered_qty": 85.95,
+    "delivery_date": "2026-06-07T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000177",
+    "shipment_id": "SHP-2026-000040",
+    "customer_id": "CUST-00056",
+    "finished_lot_id": "FINLOT-2026-000153",
+    "delivered_qty": 5.96,
+    "delivery_date": "2026-05-20T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000178",
+    "shipment_id": "SHP-2026-000040",
+    "customer_id": "CUST-00042",
+    "finished_lot_id": "FINLOT-2026-000115",
+    "delivered_qty": 147.38,
+    "delivery_date": "2026-05-20T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000179",
+    "shipment_id": "SHP-2026-000040",
+    "customer_id": "CUST-00080",
+    "finished_lot_id": "FINLOT-2026-000155",
+    "delivered_qty": 6.84,
+    "delivery_date": "2026-05-21T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000180",
+    "shipment_id": "SHP-2026-000040",
+    "customer_id": "CUST-00020",
+    "finished_lot_id": "FINLOT-2026-000184",
+    "delivered_qty": 167.44,
+    "delivery_date": "2026-05-20T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000181",
+    "shipment_id": "SHP-2026-000041",
+    "customer_id": "CUST-00057",
+    "finished_lot_id": "FINLOT-2026-000029",
+    "delivered_qty": 67.96,
+    "delivery_date": "2026-05-29T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000182",
+    "shipment_id": "SHP-2026-000041",
+    "customer_id": "CUST-00033",
+    "finished_lot_id": "FINLOT-2026-000020",
+    "delivered_qty": 167.56,
+    "delivery_date": "2026-05-30T14:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000183",
+    "shipment_id": "SHP-2026-000041",
+    "customer_id": "CUST-00036",
+    "finished_lot_id": "FINLOT-2026-000060",
+    "delivered_qty": 132.87,
+    "delivery_date": "2026-05-29T14:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000184",
+    "shipment_id": "SHP-2026-000041",
+    "customer_id": "CUST-00077",
+    "finished_lot_id": "FINLOT-2026-000078",
+    "delivered_qty": 81.85,
+    "delivery_date": "2026-05-31T18:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000185",
+    "shipment_id": "SHP-2026-000042",
+    "customer_id": "CUST-00065",
+    "finished_lot_id": "FINLOT-2026-000078",
+    "delivered_qty": 172.89,
+    "delivery_date": "2026-05-29T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000186",
+    "shipment_id": "SHP-2026-000042",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000012",
+    "delivered_qty": 102.38,
+    "delivery_date": "2026-05-29T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000187",
+    "shipment_id": "SHP-2026-000042",
+    "customer_id": "CUST-00007",
+    "finished_lot_id": "FINLOT-2026-000009",
+    "delivered_qty": 249.72,
+    "delivery_date": "2026-05-29T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000188",
+    "shipment_id": "SHP-2026-000042",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000035",
+    "delivered_qty": 228.22,
+    "delivery_date": "2026-05-29T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000189",
+    "shipment_id": "SHP-2026-000043",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000027",
+    "delivered_qty": 180.19,
+    "delivery_date": "2026-05-21T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000190",
+    "shipment_id": "SHP-2026-000043",
+    "customer_id": "CUST-00017",
+    "finished_lot_id": "FINLOT-2026-000171",
+    "delivered_qty": 32.45,
+    "delivery_date": "2026-05-19T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000191",
+    "shipment_id": "SHP-2026-000043",
+    "customer_id": "CUST-00045",
+    "finished_lot_id": "FINLOT-2026-000080",
+    "delivered_qty": 227.38,
+    "delivery_date": "2026-05-19T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000192",
+    "shipment_id": "SHP-2026-000043",
+    "customer_id": "CUST-00013",
+    "finished_lot_id": "FINLOT-2026-000120",
+    "delivered_qty": 125.36,
+    "delivery_date": "2026-05-18T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000193",
+    "shipment_id": "SHP-2026-000044",
+    "customer_id": "CUST-00033",
+    "finished_lot_id": "FINLOT-2026-000176",
+    "delivered_qty": 17.91,
+    "delivery_date": "2026-05-25T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000194",
+    "shipment_id": "SHP-2026-000044",
+    "customer_id": "CUST-00064",
+    "finished_lot_id": "FINLOT-2026-000120",
+    "delivered_qty": 240.15,
+    "delivery_date": "2026-05-25T19:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000195",
+    "shipment_id": "SHP-2026-000044",
+    "customer_id": "CUST-00019",
+    "finished_lot_id": "FINLOT-2026-000089",
+    "delivered_qty": 235.63,
+    "delivery_date": "2026-05-25T18:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000196",
+    "shipment_id": "SHP-2026-000044",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000186",
+    "delivered_qty": 82.75,
+    "delivery_date": "2026-05-25T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000197",
+    "shipment_id": "SHP-2026-000045",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000067",
+    "delivered_qty": 120.99,
+    "delivery_date": "2026-05-13T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000198",
+    "shipment_id": "SHP-2026-000045",
+    "customer_id": "CUST-00036",
+    "finished_lot_id": "FINLOT-2026-000171",
+    "delivered_qty": 12.15,
+    "delivery_date": "2026-05-12T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000199",
+    "shipment_id": "SHP-2026-000045",
+    "customer_id": "CUST-00006",
+    "finished_lot_id": "FINLOT-2026-000139",
+    "delivered_qty": 25.68,
+    "delivery_date": "2026-05-13T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000200",
+    "shipment_id": "SHP-2026-000045",
+    "customer_id": "CUST-00028",
+    "finished_lot_id": "FINLOT-2026-000169",
+    "delivered_qty": 155.32,
+    "delivery_date": "2026-05-14T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000201",
+    "shipment_id": "SHP-2026-000046",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000175",
+    "delivered_qty": 120.16,
+    "delivery_date": "2026-05-21T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000202",
+    "shipment_id": "SHP-2026-000046",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000160",
+    "delivered_qty": 249.38,
+    "delivery_date": "2026-05-21T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000203",
+    "shipment_id": "SHP-2026-000046",
+    "customer_id": "CUST-00073",
+    "finished_lot_id": "FINLOT-2026-000021",
+    "delivered_qty": 166.85,
+    "delivery_date": "2026-05-21T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000204",
+    "shipment_id": "SHP-2026-000046",
+    "customer_id": "CUST-00068",
+    "finished_lot_id": "FINLOT-2026-000103",
+    "delivered_qty": 214.59,
+    "delivery_date": "2026-05-21T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000205",
+    "shipment_id": "SHP-2026-000047",
+    "customer_id": "CUST-00064",
+    "finished_lot_id": "FINLOT-2026-000078",
+    "delivered_qty": 51.92,
+    "delivery_date": "2026-05-17T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000206",
+    "shipment_id": "SHP-2026-000047",
+    "customer_id": "CUST-00054",
+    "finished_lot_id": "FINLOT-2026-000188",
+    "delivered_qty": 94.06,
+    "delivery_date": "2026-05-16T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000207",
+    "shipment_id": "SHP-2026-000047",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000157",
+    "delivered_qty": 108.15,
+    "delivery_date": "2026-05-19T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000208",
+    "shipment_id": "SHP-2026-000047",
+    "customer_id": "CUST-00020",
+    "finished_lot_id": "FINLOT-2026-000044",
+    "delivered_qty": 41.81,
+    "delivery_date": "2026-05-18T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000209",
+    "shipment_id": "SHP-2026-000048",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000116",
+    "delivered_qty": 214.6,
+    "delivery_date": "2026-06-02T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000210",
+    "shipment_id": "SHP-2026-000048",
+    "customer_id": "CUST-00050",
+    "finished_lot_id": "FINLOT-2026-000105",
+    "delivered_qty": 172.79,
+    "delivery_date": "2026-06-02T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000211",
+    "shipment_id": "SHP-2026-000048",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000086",
+    "delivered_qty": 122.96,
+    "delivery_date": "2026-06-02T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000212",
+    "shipment_id": "SHP-2026-000048",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000093",
+    "delivered_qty": 115.99,
+    "delivery_date": "2026-06-02T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000213",
+    "shipment_id": "SHP-2026-000049",
+    "customer_id": "CUST-00028",
+    "finished_lot_id": "FINLOT-2026-000012",
+    "delivered_qty": 213.37,
+    "delivery_date": "2026-05-20T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000214",
+    "shipment_id": "SHP-2026-000049",
+    "customer_id": "CUST-00003",
+    "finished_lot_id": "FINLOT-2026-000107",
+    "delivered_qty": 212.7,
+    "delivery_date": "2026-05-20T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000215",
+    "shipment_id": "SHP-2026-000049",
+    "customer_id": "CUST-00012",
+    "finished_lot_id": "FINLOT-2026-000186",
+    "delivered_qty": 15.39,
+    "delivery_date": "2026-05-20T00:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000216",
+    "shipment_id": "SHP-2026-000049",
+    "customer_id": "CUST-00047",
+    "finished_lot_id": "FINLOT-2026-000063",
+    "delivered_qty": 71.79,
+    "delivery_date": "2026-05-21T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000217",
+    "shipment_id": "SHP-2026-000050",
+    "customer_id": "CUST-00042",
+    "finished_lot_id": "FINLOT-2026-000091",
+    "delivered_qty": 30.06,
+    "delivery_date": "2026-05-10T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000218",
+    "shipment_id": "SHP-2026-000050",
+    "customer_id": "CUST-00039",
+    "finished_lot_id": "FINLOT-2026-000132",
+    "delivered_qty": 74.26,
+    "delivery_date": "2026-05-09T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000219",
+    "shipment_id": "SHP-2026-000050",
+    "customer_id": "CUST-00078",
+    "finished_lot_id": "FINLOT-2026-000138",
+    "delivered_qty": 199.15,
+    "delivery_date": "2026-05-12T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000220",
+    "shipment_id": "SHP-2026-000050",
+    "customer_id": "CUST-00056",
+    "finished_lot_id": "FINLOT-2026-000047",
+    "delivered_qty": 11.54,
+    "delivery_date": "2026-05-12T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000221",
+    "shipment_id": "SHP-2026-000051",
+    "customer_id": "CUST-00025",
+    "finished_lot_id": "FINLOT-2026-000078",
+    "delivered_qty": 10.29,
+    "delivery_date": "2026-06-02T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000222",
+    "shipment_id": "SHP-2026-000051",
+    "customer_id": "CUST-00076",
+    "finished_lot_id": "FINLOT-2026-000105",
+    "delivered_qty": 160.59,
+    "delivery_date": "2026-06-02T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000223",
+    "shipment_id": "SHP-2026-000051",
+    "customer_id": "CUST-00044",
+    "finished_lot_id": "FINLOT-2026-000031",
+    "delivered_qty": 11.72,
+    "delivery_date": "2026-06-02T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000224",
+    "shipment_id": "SHP-2026-000051",
+    "customer_id": "CUST-00006",
+    "finished_lot_id": "FINLOT-2026-000094",
+    "delivered_qty": 230.12,
+    "delivery_date": "2026-06-02T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000225",
+    "shipment_id": "SHP-2026-000052",
+    "customer_id": "CUST-00030",
+    "finished_lot_id": "FINLOT-2026-000018",
+    "delivered_qty": 111.22,
+    "delivery_date": "2026-05-31T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000226",
+    "shipment_id": "SHP-2026-000052",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000181",
+    "delivered_qty": 249.8,
+    "delivery_date": "2026-05-31T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000227",
+    "shipment_id": "SHP-2026-000052",
+    "customer_id": "CUST-00031",
+    "finished_lot_id": "FINLOT-2026-000187",
+    "delivered_qty": 88.94,
+    "delivery_date": "2026-05-31T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000228",
+    "shipment_id": "SHP-2026-000052",
+    "customer_id": "CUST-00042",
+    "finished_lot_id": "FINLOT-2026-000065",
+    "delivered_qty": 207.57,
+    "delivery_date": "2026-05-31T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000229",
+    "shipment_id": "SHP-2026-000053",
+    "customer_id": "CUST-00068",
+    "finished_lot_id": "FINLOT-2026-000153",
+    "delivered_qty": 27.18,
+    "delivery_date": "2026-06-03T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000230",
+    "shipment_id": "SHP-2026-000053",
+    "customer_id": "CUST-00067",
+    "finished_lot_id": "FINLOT-2026-000105",
+    "delivered_qty": 50.87,
+    "delivery_date": "2026-06-03T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000231",
+    "shipment_id": "SHP-2026-000053",
+    "customer_id": "CUST-00025",
+    "finished_lot_id": "FINLOT-2026-000055",
+    "delivered_qty": 231.63,
+    "delivery_date": "2026-06-02T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000232",
+    "shipment_id": "SHP-2026-000053",
+    "customer_id": "CUST-00007",
+    "finished_lot_id": "FINLOT-2026-000114",
+    "delivered_qty": 39.2,
+    "delivery_date": "2026-06-02T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000233",
+    "shipment_id": "SHP-2026-000054",
+    "customer_id": "CUST-00058",
+    "finished_lot_id": "FINLOT-2026-000035",
+    "delivered_qty": 138.4,
+    "delivery_date": "2026-06-03T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000234",
+    "shipment_id": "SHP-2026-000054",
+    "customer_id": "CUST-00058",
+    "finished_lot_id": "FINLOT-2026-000034",
+    "delivered_qty": 185.46,
+    "delivery_date": "2026-06-02T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000235",
+    "shipment_id": "SHP-2026-000054",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000008",
+    "delivered_qty": 234.16,
+    "delivery_date": "2026-06-02T04:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000236",
+    "shipment_id": "SHP-2026-000054",
+    "customer_id": "CUST-00046",
+    "finished_lot_id": "FINLOT-2026-000026",
+    "delivered_qty": 150.62,
+    "delivery_date": "2026-06-02T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000237",
+    "shipment_id": "SHP-2026-000055",
+    "customer_id": "CUST-00049",
+    "finished_lot_id": "FINLOT-2026-000073",
+    "delivered_qty": 34.07,
+    "delivery_date": "2026-04-26T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000238",
+    "shipment_id": "SHP-2026-000055",
+    "customer_id": "CUST-00002",
+    "finished_lot_id": "FINLOT-2026-000068",
+    "delivered_qty": 102.67,
+    "delivery_date": "2026-04-26T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000239",
+    "shipment_id": "SHP-2026-000055",
+    "customer_id": "CUST-00052",
+    "finished_lot_id": "FINLOT-2026-000018",
+    "delivered_qty": 214.52,
+    "delivery_date": "2026-04-27T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000240",
+    "shipment_id": "SHP-2026-000055",
+    "customer_id": "CUST-00064",
+    "finished_lot_id": "FINLOT-2026-000184",
+    "delivered_qty": 235.54,
+    "delivery_date": "2026-04-25T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000241",
+    "shipment_id": "SHP-2026-000056",
+    "customer_id": "CUST-00072",
+    "finished_lot_id": "FINLOT-2026-000176",
+    "delivered_qty": 186.63,
+    "delivery_date": "2026-05-08T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000242",
+    "shipment_id": "SHP-2026-000056",
+    "customer_id": "CUST-00014",
+    "finished_lot_id": "FINLOT-2026-000160",
+    "delivered_qty": 33.21,
+    "delivery_date": "2026-05-07T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000243",
+    "shipment_id": "SHP-2026-000056",
+    "customer_id": "CUST-00001",
+    "finished_lot_id": "FINLOT-2026-000099",
+    "delivered_qty": 132.26,
+    "delivery_date": "2026-05-07T21:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000244",
+    "shipment_id": "SHP-2026-000056",
+    "customer_id": "CUST-00034",
+    "finished_lot_id": "FINLOT-2026-000192",
+    "delivered_qty": 61.65,
+    "delivery_date": "2026-05-08T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000245",
+    "shipment_id": "SHP-2026-000057",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000111",
+    "delivered_qty": 34.36,
+    "delivery_date": "2026-05-27T11:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000246",
+    "shipment_id": "SHP-2026-000057",
+    "customer_id": "CUST-00033",
+    "finished_lot_id": "FINLOT-2026-000043",
+    "delivered_qty": 181.68,
+    "delivery_date": "2026-05-27T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000247",
+    "shipment_id": "SHP-2026-000057",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000085",
+    "delivered_qty": 73.19,
+    "delivery_date": "2026-05-27T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000248",
+    "shipment_id": "SHP-2026-000057",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000044",
+    "delivered_qty": 9.91,
+    "delivery_date": "2026-05-27T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000249",
+    "shipment_id": "SHP-2026-000058",
+    "customer_id": "CUST-00008",
+    "finished_lot_id": "FINLOT-2026-000005",
+    "delivered_qty": 32.93,
+    "delivery_date": "2026-05-19T11:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000250",
+    "shipment_id": "SHP-2026-000058",
+    "customer_id": "CUST-00070",
+    "finished_lot_id": "FINLOT-2026-000115",
+    "delivered_qty": 129.75,
+    "delivery_date": "2026-05-17T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000251",
+    "shipment_id": "SHP-2026-000058",
+    "customer_id": "CUST-00063",
+    "finished_lot_id": "FINLOT-2026-000190",
+    "delivered_qty": 189.54,
+    "delivery_date": "2026-05-20T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000252",
+    "shipment_id": "SHP-2026-000058",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000018",
+    "delivered_qty": 106.94,
+    "delivery_date": "2026-05-19T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000253",
+    "shipment_id": "SHP-2026-000059",
+    "customer_id": "CUST-00038",
+    "finished_lot_id": "FINLOT-2026-000067",
+    "delivered_qty": 84.42,
+    "delivery_date": "2026-05-26T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000254",
+    "shipment_id": "SHP-2026-000059",
+    "customer_id": "CUST-00026",
+    "finished_lot_id": "FINLOT-2026-000093",
+    "delivered_qty": 28.49,
+    "delivery_date": "2026-05-27T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000255",
+    "shipment_id": "SHP-2026-000059",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000106",
+    "delivered_qty": 162.35,
+    "delivery_date": "2026-05-26T22:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000256",
+    "shipment_id": "SHP-2026-000059",
+    "customer_id": "CUST-00046",
+    "finished_lot_id": "FINLOT-2026-000047",
+    "delivered_qty": 32.12,
+    "delivery_date": "2026-05-27T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000257",
+    "shipment_id": "SHP-2026-000060",
+    "customer_id": "CUST-00063",
+    "finished_lot_id": "FINLOT-2026-000136",
+    "delivered_qty": 130.96,
+    "delivery_date": "2026-05-14T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000258",
+    "shipment_id": "SHP-2026-000060",
+    "customer_id": "CUST-00064",
+    "finished_lot_id": "FINLOT-2026-000123",
+    "delivered_qty": 28.85,
+    "delivery_date": "2026-05-15T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000259",
+    "shipment_id": "SHP-2026-000060",
+    "customer_id": "CUST-00068",
+    "finished_lot_id": "FINLOT-2026-000121",
+    "delivered_qty": 180.46,
+    "delivery_date": "2026-05-14T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000260",
+    "shipment_id": "SHP-2026-000060",
+    "customer_id": "CUST-00008",
+    "finished_lot_id": "FINLOT-2026-000110",
+    "delivered_qty": 244.64,
+    "delivery_date": "2026-05-14T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000261",
+    "shipment_id": "SHP-2026-000061",
+    "customer_id": "CUST-00064",
+    "finished_lot_id": "FINLOT-2026-000133",
+    "delivered_qty": 217.07,
+    "delivery_date": "2026-04-14T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000262",
+    "shipment_id": "SHP-2026-000061",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000030",
+    "delivered_qty": 161.78,
+    "delivery_date": "2026-04-13T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000263",
+    "shipment_id": "SHP-2026-000061",
+    "customer_id": "CUST-00028",
+    "finished_lot_id": "FINLOT-2026-000029",
+    "delivered_qty": 10.8,
+    "delivery_date": "2026-04-14T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000264",
+    "shipment_id": "SHP-2026-000061",
+    "customer_id": "CUST-00015",
+    "finished_lot_id": "FINLOT-2026-000101",
+    "delivered_qty": 219.77,
+    "delivery_date": "2026-04-14T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000265",
+    "shipment_id": "SHP-2026-000062",
+    "customer_id": "CUST-00016",
+    "finished_lot_id": "FINLOT-2026-000175",
+    "delivered_qty": 228.82,
+    "delivery_date": "2026-06-06T18:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000266",
+    "shipment_id": "SHP-2026-000062",
+    "customer_id": "CUST-00038",
+    "finished_lot_id": "FINLOT-2026-000151",
+    "delivered_qty": 231.47,
+    "delivery_date": "2026-06-06T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000267",
+    "shipment_id": "SHP-2026-000062",
+    "customer_id": "CUST-00009",
+    "finished_lot_id": "FINLOT-2026-000104",
+    "delivered_qty": 207.14,
+    "delivery_date": "2026-06-05T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000268",
+    "shipment_id": "SHP-2026-000062",
+    "customer_id": "CUST-00058",
+    "finished_lot_id": "FINLOT-2026-000195",
+    "delivered_qty": 196.21,
+    "delivery_date": "2026-06-04T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000269",
+    "shipment_id": "SHP-2026-000063",
+    "customer_id": "CUST-00066",
+    "finished_lot_id": "FINLOT-2026-000194",
+    "delivered_qty": 184.47,
+    "delivery_date": "2026-05-22T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000270",
+    "shipment_id": "SHP-2026-000063",
+    "customer_id": "CUST-00074",
+    "finished_lot_id": "FINLOT-2026-000193",
+    "delivered_qty": 113.77,
+    "delivery_date": "2026-05-22T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000271",
+    "shipment_id": "SHP-2026-000063",
+    "customer_id": "CUST-00031",
+    "finished_lot_id": "FINLOT-2026-000080",
+    "delivered_qty": 27.79,
+    "delivery_date": "2026-05-22T11:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000272",
+    "shipment_id": "SHP-2026-000063",
+    "customer_id": "CUST-00041",
+    "finished_lot_id": "FINLOT-2026-000154",
+    "delivered_qty": 152.63,
+    "delivery_date": "2026-05-22T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000273",
+    "shipment_id": "SHP-2026-000064",
+    "customer_id": "CUST-00018",
+    "finished_lot_id": "FINLOT-2026-000190",
+    "delivered_qty": 8.32,
+    "delivery_date": "2026-05-26T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000274",
+    "shipment_id": "SHP-2026-000064",
+    "customer_id": "CUST-00012",
+    "finished_lot_id": "FINLOT-2026-000007",
+    "delivered_qty": 200.74,
+    "delivery_date": "2026-05-27T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000275",
+    "shipment_id": "SHP-2026-000064",
+    "customer_id": "CUST-00010",
+    "finished_lot_id": "FINLOT-2026-000051",
+    "delivered_qty": 113.04,
+    "delivery_date": "2026-05-27T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000276",
+    "shipment_id": "SHP-2026-000064",
+    "customer_id": "CUST-00072",
+    "finished_lot_id": "FINLOT-2026-000161",
+    "delivered_qty": 227.57,
+    "delivery_date": "2026-05-27T22:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000277",
+    "shipment_id": "SHP-2026-000065",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000115",
+    "delivered_qty": 151.51,
+    "delivery_date": "2026-05-19T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000278",
+    "shipment_id": "SHP-2026-000065",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000076",
+    "delivered_qty": 96.57,
+    "delivery_date": "2026-05-21T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000279",
+    "shipment_id": "SHP-2026-000065",
+    "customer_id": "CUST-00057",
+    "finished_lot_id": "FINLOT-2026-000087",
+    "delivered_qty": 100.23,
+    "delivery_date": "2026-05-22T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000280",
+    "shipment_id": "SHP-2026-000065",
+    "customer_id": "CUST-00062",
+    "finished_lot_id": "FINLOT-2026-000063",
+    "delivered_qty": 76.07,
+    "delivery_date": "2026-05-19T07:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000281",
+    "shipment_id": "SHP-2026-000066",
+    "customer_id": "CUST-00042",
+    "finished_lot_id": "FINLOT-2026-000183",
+    "delivered_qty": 211.09,
+    "delivery_date": "2026-05-18T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000282",
+    "shipment_id": "SHP-2026-000066",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000139",
+    "delivered_qty": 160.15,
+    "delivery_date": "2026-05-18T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000283",
+    "shipment_id": "SHP-2026-000066",
+    "customer_id": "CUST-00080",
+    "finished_lot_id": "FINLOT-2026-000070",
+    "delivered_qty": 130.23,
+    "delivery_date": "2026-05-19T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000284",
+    "shipment_id": "SHP-2026-000066",
+    "customer_id": "CUST-00012",
+    "finished_lot_id": "FINLOT-2026-000086",
+    "delivered_qty": 128.72,
+    "delivery_date": "2026-05-18T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000285",
+    "shipment_id": "SHP-2026-000067",
+    "customer_id": "CUST-00077",
+    "finished_lot_id": "FINLOT-2026-000034",
+    "delivered_qty": 87.15,
+    "delivery_date": "2026-05-18T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000286",
+    "shipment_id": "SHP-2026-000067",
+    "customer_id": "CUST-00036",
+    "finished_lot_id": "FINLOT-2026-000005",
+    "delivered_qty": 233.97,
+    "delivery_date": "2026-05-18T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000287",
+    "shipment_id": "SHP-2026-000067",
+    "customer_id": "CUST-00031",
+    "finished_lot_id": "FINLOT-2026-000061",
+    "delivered_qty": 37.42,
+    "delivery_date": "2026-05-20T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000288",
+    "shipment_id": "SHP-2026-000067",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000158",
+    "delivered_qty": 208.79,
+    "delivery_date": "2026-05-19T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000289",
+    "shipment_id": "SHP-2026-000068",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000092",
+    "delivered_qty": 197.49,
+    "delivery_date": "2026-05-04T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000290",
+    "shipment_id": "SHP-2026-000068",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000058",
+    "delivered_qty": 128.78,
+    "delivery_date": "2026-05-03T04:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000291",
+    "shipment_id": "SHP-2026-000068",
+    "customer_id": "CUST-00024",
+    "finished_lot_id": "FINLOT-2026-000138",
+    "delivered_qty": 65.47,
+    "delivery_date": "2026-05-05T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000292",
+    "shipment_id": "SHP-2026-000068",
+    "customer_id": "CUST-00044",
+    "finished_lot_id": "FINLOT-2026-000128",
+    "delivered_qty": 131.97,
+    "delivery_date": "2026-05-03T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000293",
+    "shipment_id": "SHP-2026-000069",
+    "customer_id": "CUST-00052",
+    "finished_lot_id": "FINLOT-2026-000138",
+    "delivered_qty": 208.98,
+    "delivery_date": "2026-06-03T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000294",
+    "shipment_id": "SHP-2026-000069",
+    "customer_id": "CUST-00045",
+    "finished_lot_id": "FINLOT-2026-000088",
+    "delivered_qty": 53.69,
+    "delivery_date": "2026-06-03T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000295",
+    "shipment_id": "SHP-2026-000069",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000133",
+    "delivered_qty": 6.32,
+    "delivery_date": "2026-06-03T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000296",
+    "shipment_id": "SHP-2026-000069",
+    "customer_id": "CUST-00051",
+    "finished_lot_id": "FINLOT-2026-000071",
+    "delivered_qty": 196.58,
+    "delivery_date": "2026-06-01T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000297",
+    "shipment_id": "SHP-2026-000070",
+    "customer_id": "CUST-00055",
+    "finished_lot_id": "FINLOT-2026-000188",
+    "delivered_qty": 39.2,
+    "delivery_date": "2026-05-08T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000298",
+    "shipment_id": "SHP-2026-000070",
+    "customer_id": "CUST-00021",
+    "finished_lot_id": "FINLOT-2026-000050",
+    "delivered_qty": 73.06,
+    "delivery_date": "2026-05-09T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000299",
+    "shipment_id": "SHP-2026-000070",
+    "customer_id": "CUST-00008",
+    "finished_lot_id": "FINLOT-2026-000146",
+    "delivered_qty": 170.02,
+    "delivery_date": "2026-05-08T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000300",
+    "shipment_id": "SHP-2026-000070",
+    "customer_id": "CUST-00068",
+    "finished_lot_id": "FINLOT-2026-000113",
+    "delivered_qty": 19.7,
+    "delivery_date": "2026-05-09T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000301",
+    "shipment_id": "SHP-2026-000071",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000132",
+    "delivered_qty": 95.62,
+    "delivery_date": "2026-05-21T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000302",
+    "shipment_id": "SHP-2026-000071",
+    "customer_id": "CUST-00023",
+    "finished_lot_id": "FINLOT-2026-000139",
+    "delivered_qty": 85.7,
+    "delivery_date": "2026-05-21T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000303",
+    "shipment_id": "SHP-2026-000071",
+    "customer_id": "CUST-00070",
+    "finished_lot_id": "FINLOT-2026-000027",
+    "delivered_qty": 142.74,
+    "delivery_date": "2026-05-24T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000304",
+    "shipment_id": "SHP-2026-000071",
+    "customer_id": "CUST-00050",
+    "finished_lot_id": "FINLOT-2026-000039",
+    "delivered_qty": 228.75,
+    "delivery_date": "2026-05-21T23:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000305",
+    "shipment_id": "SHP-2026-000072",
+    "customer_id": "CUST-00046",
+    "finished_lot_id": "FINLOT-2026-000125",
+    "delivered_qty": 213.56,
+    "delivery_date": "2026-04-24T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000306",
+    "shipment_id": "SHP-2026-000072",
+    "customer_id": "CUST-00049",
+    "finished_lot_id": "FINLOT-2026-000046",
+    "delivered_qty": 164.1,
+    "delivery_date": "2026-04-25T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000307",
+    "shipment_id": "SHP-2026-000072",
+    "customer_id": "CUST-00063",
+    "finished_lot_id": "FINLOT-2026-000098",
+    "delivered_qty": 227.88,
+    "delivery_date": "2026-04-24T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000308",
+    "shipment_id": "SHP-2026-000072",
+    "customer_id": "CUST-00048",
+    "finished_lot_id": "FINLOT-2026-000185",
+    "delivered_qty": 177.88,
+    "delivery_date": "2026-04-23T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000309",
+    "shipment_id": "SHP-2026-000073",
+    "customer_id": "CUST-00056",
+    "finished_lot_id": "FINLOT-2026-000071",
+    "delivered_qty": 92.57,
+    "delivery_date": "2026-05-25T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000310",
+    "shipment_id": "SHP-2026-000073",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000043",
+    "delivered_qty": 222.6,
+    "delivery_date": "2026-05-27T15:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000311",
+    "shipment_id": "SHP-2026-000073",
+    "customer_id": "CUST-00078",
+    "finished_lot_id": "FINLOT-2026-000003",
+    "delivered_qty": 9.01,
+    "delivery_date": "2026-05-26T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000312",
+    "shipment_id": "SHP-2026-000073",
+    "customer_id": "CUST-00019",
+    "finished_lot_id": "FINLOT-2026-000139",
+    "delivered_qty": 236.36,
+    "delivery_date": "2026-05-26T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000313",
+    "shipment_id": "SHP-2026-000074",
+    "customer_id": "CUST-00016",
+    "finished_lot_id": "FINLOT-2026-000085",
+    "delivered_qty": 229.67,
+    "delivery_date": "2026-06-06T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000314",
+    "shipment_id": "SHP-2026-000074",
+    "customer_id": "CUST-00006",
+    "finished_lot_id": "FINLOT-2026-000181",
+    "delivered_qty": 225.35,
+    "delivery_date": "2026-06-05T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000315",
+    "shipment_id": "SHP-2026-000074",
+    "customer_id": "CUST-00047",
+    "finished_lot_id": "FINLOT-2026-000046",
+    "delivered_qty": 108.2,
+    "delivery_date": "2026-06-05T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000316",
+    "shipment_id": "SHP-2026-000074",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000174",
+    "delivered_qty": 104.65,
+    "delivery_date": "2026-06-05T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000317",
+    "shipment_id": "SHP-2026-000075",
+    "customer_id": "CUST-00034",
+    "finished_lot_id": "FINLOT-2026-000185",
+    "delivered_qty": 248.16,
+    "delivery_date": "2026-06-03T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000318",
+    "shipment_id": "SHP-2026-000075",
+    "customer_id": "CUST-00025",
+    "finished_lot_id": "FINLOT-2026-000045",
+    "delivered_qty": 190.97,
+    "delivery_date": "2026-06-02T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000319",
+    "shipment_id": "SHP-2026-000075",
+    "customer_id": "CUST-00046",
+    "finished_lot_id": "FINLOT-2026-000149",
+    "delivered_qty": 124.0,
+    "delivery_date": "2026-06-04T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000320",
+    "shipment_id": "SHP-2026-000075",
+    "customer_id": "CUST-00055",
+    "finished_lot_id": "FINLOT-2026-000031",
+    "delivered_qty": 21.51,
+    "delivery_date": "2026-06-02T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000321",
+    "shipment_id": "SHP-2026-000076",
+    "customer_id": "CUST-00069",
+    "finished_lot_id": "FINLOT-2026-000132",
+    "delivered_qty": 107.85,
+    "delivery_date": "2026-05-21T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000322",
+    "shipment_id": "SHP-2026-000076",
+    "customer_id": "CUST-00048",
+    "finished_lot_id": "FINLOT-2026-000152",
+    "delivered_qty": 29.46,
+    "delivery_date": "2026-05-21T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000323",
+    "shipment_id": "SHP-2026-000076",
+    "customer_id": "CUST-00079",
+    "finished_lot_id": "FINLOT-2026-000108",
+    "delivered_qty": 32.7,
+    "delivery_date": "2026-05-20T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000324",
+    "shipment_id": "SHP-2026-000076",
+    "customer_id": "CUST-00037",
+    "finished_lot_id": "FINLOT-2026-000167",
+    "delivered_qty": 128.44,
+    "delivery_date": "2026-05-21T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000325",
+    "shipment_id": "SHP-2026-000077",
+    "customer_id": "CUST-00067",
+    "finished_lot_id": "FINLOT-2026-000104",
+    "delivered_qty": 39.19,
+    "delivery_date": "2026-05-24T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000326",
+    "shipment_id": "SHP-2026-000077",
+    "customer_id": "CUST-00055",
+    "finished_lot_id": "FINLOT-2026-000043",
+    "delivered_qty": 110.51,
+    "delivery_date": "2026-05-23T18:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000327",
+    "shipment_id": "SHP-2026-000077",
+    "customer_id": "CUST-00048",
+    "finished_lot_id": "FINLOT-2026-000123",
+    "delivered_qty": 74.83,
+    "delivery_date": "2026-05-23T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000328",
+    "shipment_id": "SHP-2026-000077",
+    "customer_id": "CUST-00024",
+    "finished_lot_id": "FINLOT-2026-000057",
+    "delivered_qty": 161.15,
+    "delivery_date": "2026-05-23T16:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000329",
+    "shipment_id": "SHP-2026-000078",
+    "customer_id": "CUST-00032",
+    "finished_lot_id": "FINLOT-2026-000199",
+    "delivered_qty": 104.32,
+    "delivery_date": "2026-06-06T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000330",
+    "shipment_id": "SHP-2026-000078",
+    "customer_id": "CUST-00079",
+    "finished_lot_id": "FINLOT-2026-000124",
+    "delivered_qty": 163.51,
+    "delivery_date": "2026-06-05T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000331",
+    "shipment_id": "SHP-2026-000078",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000031",
+    "delivered_qty": 236.05,
+    "delivery_date": "2026-06-05T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000332",
+    "shipment_id": "SHP-2026-000078",
+    "customer_id": "CUST-00055",
+    "finished_lot_id": "FINLOT-2026-000142",
+    "delivered_qty": 67.21,
+    "delivery_date": "2026-06-06T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000333",
+    "shipment_id": "SHP-2026-000079",
+    "customer_id": "CUST-00074",
+    "finished_lot_id": "FINLOT-2026-000068",
+    "delivered_qty": 145.28,
+    "delivery_date": "2026-05-21T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000334",
+    "shipment_id": "SHP-2026-000079",
+    "customer_id": "CUST-00042",
+    "finished_lot_id": "FINLOT-2026-000171",
+    "delivered_qty": 114.73,
+    "delivery_date": "2026-05-21T07:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000335",
+    "shipment_id": "SHP-2026-000079",
+    "customer_id": "CUST-00026",
+    "finished_lot_id": "FINLOT-2026-000118",
+    "delivered_qty": 12.34,
+    "delivery_date": "2026-05-21T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000336",
+    "shipment_id": "SHP-2026-000079",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000059",
+    "delivered_qty": 130.44,
+    "delivery_date": "2026-05-23T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000337",
+    "shipment_id": "SHP-2026-000080",
+    "customer_id": "CUST-00027",
+    "finished_lot_id": "FINLOT-2026-000170",
+    "delivered_qty": 106.83,
+    "delivery_date": "2026-05-17T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000338",
+    "shipment_id": "SHP-2026-000080",
+    "customer_id": "CUST-00068",
+    "finished_lot_id": "FINLOT-2026-000160",
+    "delivered_qty": 82.36,
+    "delivery_date": "2026-05-17T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000339",
+    "shipment_id": "SHP-2026-000080",
+    "customer_id": "CUST-00072",
+    "finished_lot_id": "FINLOT-2026-000093",
+    "delivered_qty": 147.76,
+    "delivery_date": "2026-05-17T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000340",
+    "shipment_id": "SHP-2026-000080",
+    "customer_id": "CUST-00014",
+    "finished_lot_id": "FINLOT-2026-000111",
+    "delivered_qty": 95.14,
+    "delivery_date": "2026-05-17T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000341",
+    "shipment_id": "SHP-2026-000081",
+    "customer_id": "CUST-00056",
+    "finished_lot_id": "FINLOT-2026-000140",
+    "delivered_qty": 40.8,
+    "delivery_date": "2026-05-29T19:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000342",
+    "shipment_id": "SHP-2026-000081",
+    "customer_id": "CUST-00046",
+    "finished_lot_id": "FINLOT-2026-000169",
+    "delivered_qty": 249.31,
+    "delivery_date": "2026-05-29T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000343",
+    "shipment_id": "SHP-2026-000081",
+    "customer_id": "CUST-00002",
+    "finished_lot_id": "FINLOT-2026-000134",
+    "delivered_qty": 217.35,
+    "delivery_date": "2026-05-29T19:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000344",
+    "shipment_id": "SHP-2026-000081",
+    "customer_id": "CUST-00078",
+    "finished_lot_id": "FINLOT-2026-000110",
+    "delivered_qty": 201.72,
+    "delivery_date": "2026-05-30T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000345",
+    "shipment_id": "SHP-2026-000082",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000033",
+    "delivered_qty": 76.0,
+    "delivery_date": "2026-04-24T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000346",
+    "shipment_id": "SHP-2026-000082",
+    "customer_id": "CUST-00063",
+    "finished_lot_id": "FINLOT-2026-000184",
+    "delivered_qty": 177.9,
+    "delivery_date": "2026-04-22T03:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000347",
+    "shipment_id": "SHP-2026-000082",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000149",
+    "delivered_qty": 55.93,
+    "delivery_date": "2026-04-21T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000348",
+    "shipment_id": "SHP-2026-000082",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000025",
+    "delivered_qty": 153.69,
+    "delivery_date": "2026-04-24T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000349",
+    "shipment_id": "SHP-2026-000083",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000058",
+    "delivered_qty": 14.35,
+    "delivery_date": "2026-05-01T11:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000350",
+    "shipment_id": "SHP-2026-000083",
+    "customer_id": "CUST-00006",
+    "finished_lot_id": "FINLOT-2026-000123",
+    "delivered_qty": 7.53,
+    "delivery_date": "2026-05-01T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000351",
+    "shipment_id": "SHP-2026-000083",
+    "customer_id": "CUST-00022",
+    "finished_lot_id": "FINLOT-2026-000095",
+    "delivered_qty": 105.0,
+    "delivery_date": "2026-05-02T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000352",
+    "shipment_id": "SHP-2026-000083",
+    "customer_id": "CUST-00046",
+    "finished_lot_id": "FINLOT-2026-000151",
+    "delivered_qty": 89.88,
+    "delivery_date": "2026-05-02T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000353",
+    "shipment_id": "SHP-2026-000084",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000101",
+    "delivered_qty": 131.09,
+    "delivery_date": "2026-05-24T11:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000354",
+    "shipment_id": "SHP-2026-000084",
+    "customer_id": "CUST-00073",
+    "finished_lot_id": "FINLOT-2026-000135",
+    "delivered_qty": 134.14,
+    "delivery_date": "2026-05-25T11:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000355",
+    "shipment_id": "SHP-2026-000084",
+    "customer_id": "CUST-00074",
+    "finished_lot_id": "FINLOT-2026-000096",
+    "delivered_qty": 57.39,
+    "delivery_date": "2026-05-25T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000356",
+    "shipment_id": "SHP-2026-000084",
+    "customer_id": "CUST-00020",
+    "finished_lot_id": "FINLOT-2026-000164",
+    "delivered_qty": 19.43,
+    "delivery_date": "2026-05-23T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000357",
+    "shipment_id": "SHP-2026-000085",
+    "customer_id": "CUST-00024",
+    "finished_lot_id": "FINLOT-2026-000175",
+    "delivered_qty": 34.74,
+    "delivery_date": "2026-05-15T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000358",
+    "shipment_id": "SHP-2026-000085",
+    "customer_id": "CUST-00038",
+    "finished_lot_id": "FINLOT-2026-000070",
+    "delivered_qty": 117.16,
+    "delivery_date": "2026-05-15T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000359",
+    "shipment_id": "SHP-2026-000085",
+    "customer_id": "CUST-00003",
+    "finished_lot_id": "FINLOT-2026-000007",
+    "delivered_qty": 241.0,
+    "delivery_date": "2026-05-16T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000360",
+    "shipment_id": "SHP-2026-000085",
+    "customer_id": "CUST-00079",
+    "finished_lot_id": "FINLOT-2026-000016",
+    "delivered_qty": 24.8,
+    "delivery_date": "2026-05-16T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000361",
+    "shipment_id": "SHP-2026-000086",
+    "customer_id": "CUST-00054",
+    "finished_lot_id": "FINLOT-2026-000028",
+    "delivered_qty": 72.93,
+    "delivery_date": "2026-05-08T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000362",
+    "shipment_id": "SHP-2026-000086",
+    "customer_id": "CUST-00051",
+    "finished_lot_id": "FINLOT-2026-000101",
+    "delivered_qty": 124.59,
+    "delivery_date": "2026-05-08T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000363",
+    "shipment_id": "SHP-2026-000086",
+    "customer_id": "CUST-00019",
+    "finished_lot_id": "FINLOT-2026-000159",
+    "delivered_qty": 57.9,
+    "delivery_date": "2026-05-08T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000364",
+    "shipment_id": "SHP-2026-000086",
+    "customer_id": "CUST-00020",
+    "finished_lot_id": "FINLOT-2026-000053",
+    "delivered_qty": 131.08,
+    "delivery_date": "2026-05-08T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000365",
+    "shipment_id": "SHP-2026-000087",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000032",
+    "delivered_qty": 7.42,
+    "delivery_date": "2026-06-02T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000366",
+    "shipment_id": "SHP-2026-000087",
+    "customer_id": "CUST-00032",
+    "finished_lot_id": "FINLOT-2026-000142",
+    "delivered_qty": 160.43,
+    "delivery_date": "2026-06-02T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000367",
+    "shipment_id": "SHP-2026-000087",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000178",
+    "delivered_qty": 147.77,
+    "delivery_date": "2026-06-02T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000368",
+    "shipment_id": "SHP-2026-000087",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000115",
+    "delivered_qty": 57.71,
+    "delivery_date": "2026-06-02T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000369",
+    "shipment_id": "SHP-2026-000088",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000161",
+    "delivered_qty": 67.41,
+    "delivery_date": "2026-05-21T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000370",
+    "shipment_id": "SHP-2026-000088",
+    "customer_id": "CUST-00037",
+    "finished_lot_id": "FINLOT-2026-000094",
+    "delivered_qty": 226.15,
+    "delivery_date": "2026-05-21T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000371",
+    "shipment_id": "SHP-2026-000088",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000168",
+    "delivered_qty": 118.21,
+    "delivery_date": "2026-05-21T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000372",
+    "shipment_id": "SHP-2026-000088",
+    "customer_id": "CUST-00045",
+    "finished_lot_id": "FINLOT-2026-000167",
+    "delivered_qty": 75.25,
+    "delivery_date": "2026-05-21T11:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000373",
+    "shipment_id": "SHP-2026-000089",
+    "customer_id": "CUST-00072",
+    "finished_lot_id": "FINLOT-2026-000090",
+    "delivered_qty": 57.08,
+    "delivery_date": "2026-05-30T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000374",
+    "shipment_id": "SHP-2026-000089",
+    "customer_id": "CUST-00033",
+    "finished_lot_id": "FINLOT-2026-000172",
+    "delivered_qty": 176.73,
+    "delivery_date": "2026-06-01T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000375",
+    "shipment_id": "SHP-2026-000089",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000182",
+    "delivered_qty": 183.06,
+    "delivery_date": "2026-06-02T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000376",
+    "shipment_id": "SHP-2026-000089",
+    "customer_id": "CUST-00036",
+    "finished_lot_id": "FINLOT-2026-000153",
+    "delivered_qty": 116.33,
+    "delivery_date": "2026-06-02T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000377",
+    "shipment_id": "SHP-2026-000090",
+    "customer_id": "CUST-00061",
+    "finished_lot_id": "FINLOT-2026-000109",
+    "delivered_qty": 100.66,
+    "delivery_date": "2026-05-27T21:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000378",
+    "shipment_id": "SHP-2026-000090",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000092",
+    "delivered_qty": 58.64,
+    "delivery_date": "2026-05-30T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000379",
+    "shipment_id": "SHP-2026-000090",
+    "customer_id": "CUST-00077",
+    "finished_lot_id": "FINLOT-2026-000177",
+    "delivered_qty": 215.32,
+    "delivery_date": "2026-05-30T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000380",
+    "shipment_id": "SHP-2026-000090",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000091",
+    "delivered_qty": 39.45,
+    "delivery_date": "2026-05-30T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000381",
+    "shipment_id": "SHP-2026-000091",
+    "customer_id": "CUST-00035",
+    "finished_lot_id": "FINLOT-2026-000177",
+    "delivered_qty": 186.98,
+    "delivery_date": "2026-05-25T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000382",
+    "shipment_id": "SHP-2026-000091",
+    "customer_id": "CUST-00037",
+    "finished_lot_id": "FINLOT-2026-000126",
+    "delivered_qty": 37.72,
+    "delivery_date": "2026-05-25T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000383",
+    "shipment_id": "SHP-2026-000091",
+    "customer_id": "CUST-00046",
+    "finished_lot_id": "FINLOT-2026-000080",
+    "delivered_qty": 40.73,
+    "delivery_date": "2026-05-25T01:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000384",
+    "shipment_id": "SHP-2026-000091",
+    "customer_id": "CUST-00017",
+    "finished_lot_id": "FINLOT-2026-000107",
+    "delivered_qty": 175.98,
+    "delivery_date": "2026-05-25T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000385",
+    "shipment_id": "SHP-2026-000092",
+    "customer_id": "CUST-00037",
+    "finished_lot_id": "FINLOT-2026-000066",
+    "delivered_qty": 61.98,
+    "delivery_date": "2026-05-26T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000386",
+    "shipment_id": "SHP-2026-000092",
+    "customer_id": "CUST-00062",
+    "finished_lot_id": "FINLOT-2026-000119",
+    "delivered_qty": 194.1,
+    "delivery_date": "2026-05-26T14:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000387",
+    "shipment_id": "SHP-2026-000092",
+    "customer_id": "CUST-00070",
+    "finished_lot_id": "FINLOT-2026-000119",
+    "delivered_qty": 223.76,
+    "delivery_date": "2026-05-26T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000388",
+    "shipment_id": "SHP-2026-000092",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000021",
+    "delivered_qty": 171.79,
+    "delivery_date": "2026-05-26T15:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000389",
+    "shipment_id": "SHP-2026-000093",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000198",
+    "delivered_qty": 229.57,
+    "delivery_date": "2026-06-05T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000390",
+    "shipment_id": "SHP-2026-000093",
+    "customer_id": "CUST-00026",
+    "finished_lot_id": "FINLOT-2026-000010",
+    "delivered_qty": 228.29,
+    "delivery_date": "2026-06-03T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000391",
+    "shipment_id": "SHP-2026-000093",
+    "customer_id": "CUST-00033",
+    "finished_lot_id": "FINLOT-2026-000156",
+    "delivered_qty": 205.98,
+    "delivery_date": "2026-06-04T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000392",
+    "shipment_id": "SHP-2026-000093",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000151",
+    "delivered_qty": 215.38,
+    "delivery_date": "2026-06-03T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000393",
+    "shipment_id": "SHP-2026-000094",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000103",
+    "delivered_qty": 123.8,
+    "delivery_date": "2026-06-06T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000394",
+    "shipment_id": "SHP-2026-000094",
+    "customer_id": "CUST-00037",
+    "finished_lot_id": "FINLOT-2026-000074",
+    "delivered_qty": 154.75,
+    "delivery_date": "2026-06-06T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000395",
+    "shipment_id": "SHP-2026-000094",
+    "customer_id": "CUST-00025",
+    "finished_lot_id": "FINLOT-2026-000031",
+    "delivered_qty": 137.95,
+    "delivery_date": "2026-06-06T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000396",
+    "shipment_id": "SHP-2026-000094",
+    "customer_id": "CUST-00006",
+    "finished_lot_id": "FINLOT-2026-000055",
+    "delivered_qty": 174.53,
+    "delivery_date": "2026-06-05T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000397",
+    "shipment_id": "SHP-2026-000095",
+    "customer_id": "CUST-00028",
+    "finished_lot_id": "FINLOT-2026-000179",
+    "delivered_qty": 35.54,
+    "delivery_date": "2026-05-19T03:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000398",
+    "shipment_id": "SHP-2026-000095",
+    "customer_id": "CUST-00046",
+    "finished_lot_id": "FINLOT-2026-000179",
+    "delivered_qty": 37.27,
+    "delivery_date": "2026-05-18T22:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000399",
+    "shipment_id": "SHP-2026-000095",
+    "customer_id": "CUST-00005",
+    "finished_lot_id": "FINLOT-2026-000048",
+    "delivered_qty": 185.38,
+    "delivery_date": "2026-05-18T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000400",
+    "shipment_id": "SHP-2026-000095",
+    "customer_id": "CUST-00073",
+    "finished_lot_id": "FINLOT-2026-000112",
+    "delivered_qty": 199.13,
+    "delivery_date": "2026-05-19T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000401",
+    "shipment_id": "SHP-2026-000096",
+    "customer_id": "CUST-00026",
+    "finished_lot_id": "FINLOT-2026-000039",
+    "delivered_qty": 216.09,
+    "delivery_date": "2026-05-29T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000402",
+    "shipment_id": "SHP-2026-000096",
+    "customer_id": "CUST-00001",
+    "finished_lot_id": "FINLOT-2026-000125",
+    "delivered_qty": 124.43,
+    "delivery_date": "2026-05-28T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000403",
+    "shipment_id": "SHP-2026-000096",
+    "customer_id": "CUST-00016",
+    "finished_lot_id": "FINLOT-2026-000083",
+    "delivered_qty": 186.2,
+    "delivery_date": "2026-05-28T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000404",
+    "shipment_id": "SHP-2026-000096",
+    "customer_id": "CUST-00065",
+    "finished_lot_id": "FINLOT-2026-000167",
+    "delivered_qty": 14.96,
+    "delivery_date": "2026-05-28T11:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000405",
+    "shipment_id": "SHP-2026-000097",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000182",
+    "delivered_qty": 114.83,
+    "delivery_date": "2026-05-29T21:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000406",
+    "shipment_id": "SHP-2026-000097",
+    "customer_id": "CUST-00055",
+    "finished_lot_id": "FINLOT-2026-000142",
+    "delivered_qty": 156.65,
+    "delivery_date": "2026-05-29T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000407",
+    "shipment_id": "SHP-2026-000097",
+    "customer_id": "CUST-00013",
+    "finished_lot_id": "FINLOT-2026-000105",
+    "delivered_qty": 19.07,
+    "delivery_date": "2026-05-29T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000408",
+    "shipment_id": "SHP-2026-000097",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000014",
+    "delivered_qty": 142.67,
+    "delivery_date": "2026-05-29T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000409",
+    "shipment_id": "SHP-2026-000098",
+    "customer_id": "CUST-00053",
+    "finished_lot_id": "FINLOT-2026-000001",
+    "delivered_qty": 230.17,
+    "delivery_date": "2026-05-25T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000410",
+    "shipment_id": "SHP-2026-000098",
+    "customer_id": "CUST-00049",
+    "finished_lot_id": "FINLOT-2026-000155",
+    "delivered_qty": 39.0,
+    "delivery_date": "2026-05-28T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000411",
+    "shipment_id": "SHP-2026-000098",
+    "customer_id": "CUST-00057",
+    "finished_lot_id": "FINLOT-2026-000166",
+    "delivered_qty": 204.92,
+    "delivery_date": "2026-05-26T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000412",
+    "shipment_id": "SHP-2026-000098",
+    "customer_id": "CUST-00069",
+    "finished_lot_id": "FINLOT-2026-000184",
+    "delivered_qty": 161.68,
+    "delivery_date": "2026-05-26T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000413",
+    "shipment_id": "SHP-2026-000099",
+    "customer_id": "CUST-00031",
+    "finished_lot_id": "FINLOT-2026-000026",
+    "delivered_qty": 8.19,
+    "delivery_date": "2026-05-28T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000414",
+    "shipment_id": "SHP-2026-000099",
+    "customer_id": "CUST-00022",
+    "finished_lot_id": "FINLOT-2026-000049",
+    "delivered_qty": 161.65,
+    "delivery_date": "2026-05-28T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000415",
+    "shipment_id": "SHP-2026-000099",
+    "customer_id": "CUST-00018",
+    "finished_lot_id": "FINLOT-2026-000132",
+    "delivered_qty": 17.5,
+    "delivery_date": "2026-05-28T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000416",
+    "shipment_id": "SHP-2026-000099",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000119",
+    "delivered_qty": 19.77,
+    "delivery_date": "2026-05-29T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000417",
+    "shipment_id": "SHP-2026-000100",
+    "customer_id": "CUST-00019",
+    "finished_lot_id": "FINLOT-2026-000012",
+    "delivered_qty": 69.14,
+    "delivery_date": "2026-05-06T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000418",
+    "shipment_id": "SHP-2026-000100",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000123",
+    "delivered_qty": 19.06,
+    "delivery_date": "2026-05-06T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000419",
+    "shipment_id": "SHP-2026-000100",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000015",
+    "delivered_qty": 16.17,
+    "delivery_date": "2026-05-06T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000420",
+    "shipment_id": "SHP-2026-000100",
+    "customer_id": "CUST-00052",
+    "finished_lot_id": "FINLOT-2026-000076",
+    "delivered_qty": 69.49,
+    "delivery_date": "2026-05-06T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000421",
+    "shipment_id": "SHP-2026-000101",
+    "customer_id": "CUST-00068",
+    "finished_lot_id": "FINLOT-2026-000175",
+    "delivered_qty": 182.39,
+    "delivery_date": "2026-05-12T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000422",
+    "shipment_id": "SHP-2026-000101",
+    "customer_id": "CUST-00067",
+    "finished_lot_id": "FINLOT-2026-000144",
+    "delivered_qty": 78.04,
+    "delivery_date": "2026-05-12T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000423",
+    "shipment_id": "SHP-2026-000101",
+    "customer_id": "CUST-00031",
+    "finished_lot_id": "FINLOT-2026-000197",
+    "delivered_qty": 49.75,
+    "delivery_date": "2026-05-12T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000424",
+    "shipment_id": "SHP-2026-000101",
+    "customer_id": "CUST-00017",
+    "finished_lot_id": "FINLOT-2026-000091",
+    "delivered_qty": 249.32,
+    "delivery_date": "2026-05-12T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000425",
+    "shipment_id": "SHP-2026-000102",
+    "customer_id": "CUST-00019",
+    "finished_lot_id": "FINLOT-2026-000110",
+    "delivered_qty": 120.5,
+    "delivery_date": "2026-05-22T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000426",
+    "shipment_id": "SHP-2026-000102",
+    "customer_id": "CUST-00009",
+    "finished_lot_id": "FINLOT-2026-000077",
+    "delivered_qty": 14.39,
+    "delivery_date": "2026-05-23T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000427",
+    "shipment_id": "SHP-2026-000102",
+    "customer_id": "CUST-00054",
+    "finished_lot_id": "FINLOT-2026-000037",
+    "delivered_qty": 38.03,
+    "delivery_date": "2026-05-22T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000428",
+    "shipment_id": "SHP-2026-000102",
+    "customer_id": "CUST-00027",
+    "finished_lot_id": "FINLOT-2026-000086",
+    "delivered_qty": 169.99,
+    "delivery_date": "2026-05-22T18:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000429",
+    "shipment_id": "SHP-2026-000103",
+    "customer_id": "CUST-00019",
+    "finished_lot_id": "FINLOT-2026-000061",
+    "delivered_qty": 35.53,
+    "delivery_date": "2026-05-23T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000430",
+    "shipment_id": "SHP-2026-000103",
+    "customer_id": "CUST-00014",
+    "finished_lot_id": "FINLOT-2026-000036",
+    "delivered_qty": 235.65,
+    "delivery_date": "2026-05-23T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000431",
+    "shipment_id": "SHP-2026-000103",
+    "customer_id": "CUST-00022",
+    "finished_lot_id": "FINLOT-2026-000020",
+    "delivered_qty": 12.92,
+    "delivery_date": "2026-05-20T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000432",
+    "shipment_id": "SHP-2026-000103",
+    "customer_id": "CUST-00049",
+    "finished_lot_id": "FINLOT-2026-000170",
+    "delivered_qty": 9.62,
+    "delivery_date": "2026-05-21T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000433",
+    "shipment_id": "SHP-2026-000104",
+    "customer_id": "CUST-00003",
+    "finished_lot_id": "FINLOT-2026-000153",
+    "delivered_qty": 63.35,
+    "delivery_date": "2026-05-25T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000434",
+    "shipment_id": "SHP-2026-000104",
+    "customer_id": "CUST-00061",
+    "finished_lot_id": "FINLOT-2026-000040",
+    "delivered_qty": 9.13,
+    "delivery_date": "2026-05-25T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000435",
+    "shipment_id": "SHP-2026-000104",
+    "customer_id": "CUST-00020",
+    "finished_lot_id": "FINLOT-2026-000016",
+    "delivered_qty": 8.57,
+    "delivery_date": "2026-05-26T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000436",
+    "shipment_id": "SHP-2026-000104",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000127",
+    "delivered_qty": 30.15,
+    "delivery_date": "2026-05-27T12:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000437",
+    "shipment_id": "SHP-2026-000105",
+    "customer_id": "CUST-00021",
+    "finished_lot_id": "FINLOT-2026-000177",
+    "delivered_qty": 20.93,
+    "delivery_date": "2026-06-03T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000438",
+    "shipment_id": "SHP-2026-000105",
+    "customer_id": "CUST-00026",
+    "finished_lot_id": "FINLOT-2026-000046",
+    "delivered_qty": 8.33,
+    "delivery_date": "2026-06-03T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000439",
+    "shipment_id": "SHP-2026-000105",
+    "customer_id": "CUST-00034",
+    "finished_lot_id": "FINLOT-2026-000156",
+    "delivered_qty": 158.67,
+    "delivery_date": "2026-06-03T22:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000440",
+    "shipment_id": "SHP-2026-000105",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000153",
+    "delivered_qty": 127.44,
+    "delivery_date": "2026-06-03T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000441",
+    "shipment_id": "SHP-2026-000106",
+    "customer_id": "CUST-00067",
+    "finished_lot_id": "FINLOT-2026-000171",
+    "delivered_qty": 26.47,
+    "delivery_date": "2026-05-22T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000442",
+    "shipment_id": "SHP-2026-000106",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000119",
+    "delivered_qty": 231.1,
+    "delivery_date": "2026-05-20T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000443",
+    "shipment_id": "SHP-2026-000106",
+    "customer_id": "CUST-00067",
+    "finished_lot_id": "FINLOT-2026-000089",
+    "delivered_qty": 24.17,
+    "delivery_date": "2026-05-20T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000444",
+    "shipment_id": "SHP-2026-000106",
+    "customer_id": "CUST-00044",
+    "finished_lot_id": "FINLOT-2026-000128",
+    "delivered_qty": 160.35,
+    "delivery_date": "2026-05-20T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000445",
+    "shipment_id": "SHP-2026-000107",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000110",
+    "delivered_qty": 198.53,
+    "delivery_date": "2026-05-12T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000446",
+    "shipment_id": "SHP-2026-000107",
+    "customer_id": "CUST-00013",
+    "finished_lot_id": "FINLOT-2026-000041",
+    "delivered_qty": 26.38,
+    "delivery_date": "2026-05-12T10:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000447",
+    "shipment_id": "SHP-2026-000107",
+    "customer_id": "CUST-00042",
+    "finished_lot_id": "FINLOT-2026-000067",
+    "delivered_qty": 78.83,
+    "delivery_date": "2026-05-11T12:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000448",
+    "shipment_id": "SHP-2026-000107",
+    "customer_id": "CUST-00022",
+    "finished_lot_id": "FINLOT-2026-000025",
+    "delivered_qty": 203.17,
+    "delivery_date": "2026-05-11T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000449",
+    "shipment_id": "SHP-2026-000108",
+    "customer_id": "CUST-00002",
+    "finished_lot_id": "FINLOT-2026-000093",
+    "delivered_qty": 151.17,
+    "delivery_date": "2026-05-13T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000450",
+    "shipment_id": "SHP-2026-000108",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000181",
+    "delivered_qty": 95.14,
+    "delivery_date": "2026-05-13T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000451",
+    "shipment_id": "SHP-2026-000108",
+    "customer_id": "CUST-00043",
+    "finished_lot_id": "FINLOT-2026-000063",
+    "delivered_qty": 168.74,
+    "delivery_date": "2026-05-12T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000452",
+    "shipment_id": "SHP-2026-000108",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000040",
+    "delivered_qty": 94.46,
+    "delivery_date": "2026-05-13T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000453",
+    "shipment_id": "SHP-2026-000109",
+    "customer_id": "CUST-00051",
+    "finished_lot_id": "FINLOT-2026-000180",
+    "delivered_qty": 11.95,
+    "delivery_date": "2026-05-27T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000454",
+    "shipment_id": "SHP-2026-000109",
+    "customer_id": "CUST-00070",
+    "finished_lot_id": "FINLOT-2026-000018",
+    "delivered_qty": 238.49,
+    "delivery_date": "2026-05-28T06:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000455",
+    "shipment_id": "SHP-2026-000109",
+    "customer_id": "CUST-00080",
+    "finished_lot_id": "FINLOT-2026-000151",
+    "delivered_qty": 92.56,
+    "delivery_date": "2026-05-27T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000456",
+    "shipment_id": "SHP-2026-000109",
+    "customer_id": "CUST-00036",
+    "finished_lot_id": "FINLOT-2026-000106",
+    "delivered_qty": 125.7,
+    "delivery_date": "2026-05-28T08:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000457",
+    "shipment_id": "SHP-2026-000110",
+    "customer_id": "CUST-00058",
+    "finished_lot_id": "FINLOT-2026-000170",
+    "delivered_qty": 228.48,
+    "delivery_date": "2026-05-23T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000458",
+    "shipment_id": "SHP-2026-000110",
+    "customer_id": "CUST-00058",
+    "finished_lot_id": "FINLOT-2026-000107",
+    "delivered_qty": 182.72,
+    "delivery_date": "2026-05-23T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000459",
+    "shipment_id": "SHP-2026-000110",
+    "customer_id": "CUST-00071",
+    "finished_lot_id": "FINLOT-2026-000016",
+    "delivered_qty": 8.12,
+    "delivery_date": "2026-05-25T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000460",
+    "shipment_id": "SHP-2026-000110",
+    "customer_id": "CUST-00065",
+    "finished_lot_id": "FINLOT-2026-000089",
+    "delivered_qty": 249.59,
+    "delivery_date": "2026-05-25T13:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000461",
+    "shipment_id": "SHP-2026-000111",
+    "customer_id": "CUST-00054",
+    "finished_lot_id": "FINLOT-2026-000172",
+    "delivered_qty": 170.38,
+    "delivery_date": "2026-06-04T16:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000462",
+    "shipment_id": "SHP-2026-000111",
+    "customer_id": "CUST-00004",
+    "finished_lot_id": "FINLOT-2026-000081",
+    "delivered_qty": 94.62,
+    "delivery_date": "2026-06-02T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000463",
+    "shipment_id": "SHP-2026-000111",
+    "customer_id": "CUST-00048",
+    "finished_lot_id": "FINLOT-2026-000104",
+    "delivered_qty": 239.04,
+    "delivery_date": "2026-06-04T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000464",
+    "shipment_id": "SHP-2026-000111",
+    "customer_id": "CUST-00030",
+    "finished_lot_id": "FINLOT-2026-000111",
+    "delivered_qty": 12.83,
+    "delivery_date": "2026-06-02T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000465",
+    "shipment_id": "SHP-2026-000112",
+    "customer_id": "CUST-00028",
+    "finished_lot_id": "FINLOT-2026-000101",
+    "delivered_qty": 153.61,
+    "delivery_date": "2026-05-10T23:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000466",
+    "shipment_id": "SHP-2026-000112",
+    "customer_id": "CUST-00061",
+    "finished_lot_id": "FINLOT-2026-000113",
+    "delivered_qty": 174.41,
+    "delivery_date": "2026-05-10T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000467",
+    "shipment_id": "SHP-2026-000112",
+    "customer_id": "CUST-00033",
+    "finished_lot_id": "FINLOT-2026-000147",
+    "delivered_qty": 65.48,
+    "delivery_date": "2026-05-10T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000468",
+    "shipment_id": "SHP-2026-000112",
+    "customer_id": "CUST-00064",
+    "finished_lot_id": "FINLOT-2026-000017",
+    "delivered_qty": 80.9,
+    "delivery_date": "2026-05-10T21:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000469",
+    "shipment_id": "SHP-2026-000113",
+    "customer_id": "CUST-00007",
+    "finished_lot_id": "FINLOT-2026-000152",
+    "delivered_qty": 137.94,
+    "delivery_date": "2026-06-05T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000470",
+    "shipment_id": "SHP-2026-000113",
+    "customer_id": "CUST-00080",
+    "finished_lot_id": "FINLOT-2026-000156",
+    "delivered_qty": 82.48,
+    "delivery_date": "2026-06-04T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000471",
+    "shipment_id": "SHP-2026-000113",
+    "customer_id": "CUST-00078",
+    "finished_lot_id": "FINLOT-2026-000175",
+    "delivered_qty": 7.91,
+    "delivery_date": "2026-06-04T00:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000472",
+    "shipment_id": "SHP-2026-000113",
+    "customer_id": "CUST-00054",
+    "finished_lot_id": "FINLOT-2026-000097",
+    "delivered_qty": 93.44,
+    "delivery_date": "2026-06-06T03:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000473",
+    "shipment_id": "SHP-2026-000114",
+    "customer_id": "CUST-00040",
+    "finished_lot_id": "FINLOT-2026-000114",
+    "delivered_qty": 214.35,
+    "delivery_date": "2026-05-09T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000474",
+    "shipment_id": "SHP-2026-000114",
+    "customer_id": "CUST-00036",
+    "finished_lot_id": "FINLOT-2026-000117",
+    "delivered_qty": 184.59,
+    "delivery_date": "2026-05-10T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000475",
+    "shipment_id": "SHP-2026-000114",
+    "customer_id": "CUST-00064",
+    "finished_lot_id": "FINLOT-2026-000093",
+    "delivered_qty": 189.79,
+    "delivery_date": "2026-05-07T19:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000476",
+    "shipment_id": "SHP-2026-000114",
+    "customer_id": "CUST-00020",
+    "finished_lot_id": "FINLOT-2026-000041",
+    "delivered_qty": 112.74,
+    "delivery_date": "2026-05-09T14:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000477",
+    "shipment_id": "SHP-2026-000115",
+    "customer_id": "CUST-00014",
+    "finished_lot_id": "FINLOT-2026-000016",
+    "delivered_qty": 6.35,
+    "delivery_date": "2026-05-17T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000478",
+    "shipment_id": "SHP-2026-000115",
+    "customer_id": "CUST-00075",
+    "finished_lot_id": "FINLOT-2026-000011",
+    "delivered_qty": 56.89,
+    "delivery_date": "2026-05-19T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000479",
+    "shipment_id": "SHP-2026-000115",
+    "customer_id": "CUST-00018",
+    "finished_lot_id": "FINLOT-2026-000062",
+    "delivered_qty": 47.32,
+    "delivery_date": "2026-05-18T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000480",
+    "shipment_id": "SHP-2026-000115",
+    "customer_id": "CUST-00007",
+    "finished_lot_id": "FINLOT-2026-000041",
+    "delivered_qty": 248.8,
+    "delivery_date": "2026-05-17T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000481",
+    "shipment_id": "SHP-2026-000116",
+    "customer_id": "CUST-00059",
+    "finished_lot_id": "FINLOT-2026-000022",
+    "delivered_qty": 85.58,
+    "delivery_date": "2026-05-26T18:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000482",
+    "shipment_id": "SHP-2026-000116",
+    "customer_id": "CUST-00068",
+    "finished_lot_id": "FINLOT-2026-000166",
+    "delivered_qty": 167.07,
+    "delivery_date": "2026-05-25T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000483",
+    "shipment_id": "SHP-2026-000116",
+    "customer_id": "CUST-00001",
+    "finished_lot_id": "FINLOT-2026-000095",
+    "delivered_qty": 49.24,
+    "delivery_date": "2026-05-25T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000484",
+    "shipment_id": "SHP-2026-000116",
+    "customer_id": "CUST-00012",
+    "finished_lot_id": "FINLOT-2026-000047",
+    "delivered_qty": 8.4,
+    "delivery_date": "2026-05-26T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000485",
+    "shipment_id": "SHP-2026-000117",
+    "customer_id": "CUST-00037",
+    "finished_lot_id": "FINLOT-2026-000151",
+    "delivered_qty": 231.53,
+    "delivery_date": "2026-05-08T22:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000486",
+    "shipment_id": "SHP-2026-000117",
+    "customer_id": "CUST-00009",
+    "finished_lot_id": "FINLOT-2026-000122",
+    "delivered_qty": 158.62,
+    "delivery_date": "2026-05-08T22:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000487",
+    "shipment_id": "SHP-2026-000117",
+    "customer_id": "CUST-00002",
+    "finished_lot_id": "FINLOT-2026-000014",
+    "delivered_qty": 86.44,
+    "delivery_date": "2026-05-08T20:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000488",
+    "shipment_id": "SHP-2026-000117",
+    "customer_id": "CUST-00011",
+    "finished_lot_id": "FINLOT-2026-000139",
+    "delivered_qty": 90.95,
+    "delivery_date": "2026-05-08T17:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000489",
+    "shipment_id": "SHP-2026-000118",
+    "customer_id": "CUST-00060",
+    "finished_lot_id": "FINLOT-2026-000134",
+    "delivered_qty": 112.57,
+    "delivery_date": "2026-05-30T07:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000490",
+    "shipment_id": "SHP-2026-000118",
+    "customer_id": "CUST-00079",
+    "finished_lot_id": "FINLOT-2026-000142",
+    "delivered_qty": 181.81,
+    "delivery_date": "2026-05-29T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000491",
+    "shipment_id": "SHP-2026-000118",
+    "customer_id": "CUST-00031",
+    "finished_lot_id": "FINLOT-2026-000004",
+    "delivered_qty": 18.09,
+    "delivery_date": "2026-05-29T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000492",
+    "shipment_id": "SHP-2026-000118",
+    "customer_id": "CUST-00079",
+    "finished_lot_id": "FINLOT-2026-000063",
+    "delivered_qty": 61.5,
+    "delivery_date": "2026-05-28T05:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000493",
+    "shipment_id": "SHP-2026-000119",
+    "customer_id": "CUST-00051",
+    "finished_lot_id": "FINLOT-2026-000170",
+    "delivered_qty": 236.4,
+    "delivery_date": "2026-05-24T06:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000494",
+    "shipment_id": "SHP-2026-000119",
+    "customer_id": "CUST-00032",
+    "finished_lot_id": "FINLOT-2026-000161",
+    "delivered_qty": 111.25,
+    "delivery_date": "2026-05-23T04:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000495",
+    "shipment_id": "SHP-2026-000119",
+    "customer_id": "CUST-00062",
+    "finished_lot_id": "FINLOT-2026-000187",
+    "delivered_qty": 168.36,
+    "delivery_date": "2026-05-24T09:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000496",
+    "shipment_id": "SHP-2026-000119",
+    "customer_id": "CUST-00008",
+    "finished_lot_id": "FINLOT-2026-000151",
+    "delivered_qty": 155.99,
+    "delivery_date": "2026-05-23T10:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000497",
+    "shipment_id": "SHP-2026-000120",
+    "customer_id": "CUST-00072",
+    "finished_lot_id": "FINLOT-2026-000185",
+    "delivered_qty": 66.17,
+    "delivery_date": "2026-05-20T05:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000498",
+    "shipment_id": "SHP-2026-000120",
+    "customer_id": "CUST-00042",
+    "finished_lot_id": "FINLOT-2026-000181",
+    "delivered_qty": 68.2,
+    "delivery_date": "2026-05-20T01:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  },
+  {
+    "delivery_id": "DEL-2026-000499",
+    "shipment_id": "SHP-2026-000120",
+    "customer_id": "CUST-00072",
+    "finished_lot_id": "FINLOT-2026-000027",
+    "delivered_qty": 22.26,
+    "delivery_date": "2026-05-20T01:00:00",
+    "customer_ack_status": "PENDING_INSPECTION",
+    "status": "RECALLED"
+  },
+  {
+    "delivery_id": "DEL-2026-000500",
+    "shipment_id": "SHP-2026-000120",
+    "customer_id": "CUST-00009",
+    "finished_lot_id": "FINLOT-2026-000149",
+    "delivered_qty": 48.04,
+    "delivery_date": "2026-05-20T02:00:00",
+    "customer_ack_status": "CONFIRMED",
+    "status": "RECEIVED"
+  }
+]

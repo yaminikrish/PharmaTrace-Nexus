@@ -1,0 +1,722 @@
+[
+  {
+    "customer_id": "CUST-00001",
+    "name": "Alliance Care Pharmacy #1",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00001.health.org",
+    "phone": "+1-800-743-6197",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00002",
+    "name": "OmniCare Medical Center #2",
+    "type": "PHARMACY_CHAIN",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00002.health.org",
+    "phone": "+1-800-160-9898",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00003",
+    "name": "Nordic Health Depot #3",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00003.health.org",
+    "phone": "+1-800-305-9658",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00004",
+    "name": "Apex Therapeutics Pharmacy #4",
+    "type": "CLINICAL_CENTER",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00004.health.org",
+    "phone": "+1-800-229-8880",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00005",
+    "name": "Alliance Care Pharmacy #5",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00005.health.org",
+    "phone": "+1-800-922-6303",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00006",
+    "name": "OmniCare Medical Center #6",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00006.health.org",
+    "phone": "+1-800-453-4801",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00007",
+    "name": "Mercy Health System #7",
+    "type": "PHARMACY_CHAIN",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00007.health.org",
+    "phone": "+1-800-663-4690",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00008",
+    "name": "Valley Childrens Hospital #8",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00008.health.org",
+    "phone": "+1-800-144-2433",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00009",
+    "name": "Valley Childrens Hospital #9",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00009.health.org",
+    "phone": "+1-800-715-9523",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00010",
+    "name": "Mercy Health System #10",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00010.health.org",
+    "phone": "+1-800-977-3356",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00011",
+    "name": "Metropolitan General Hospital #11",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00011.health.org",
+    "phone": "+1-800-951-3813",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00012",
+    "name": "CareFirst Distribution #12",
+    "type": "CLINICAL_CENTER",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00012.health.org",
+    "phone": "+1-800-598-3620",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00013",
+    "name": "National Health Trust #13",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00013.health.org",
+    "phone": "+1-800-910-5377",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00014",
+    "name": "St. Jude Clinical Alliance #14",
+    "type": "PHARMACY_CHAIN",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00014.health.org",
+    "phone": "+1-800-378-6812",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00015",
+    "name": "Metropolitan General Hospital #15",
+    "type": "PHARMACY_CHAIN",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00015.health.org",
+    "phone": "+1-800-602-5075",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00016",
+    "name": "Nordic Health Depot #16",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00016.health.org",
+    "phone": "+1-800-543-2717",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00017",
+    "name": "Ascension Regional Clinic #17",
+    "type": "CLINICAL_CENTER",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00017.health.org",
+    "phone": "+1-800-631-8679",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00018",
+    "name": "Ascension Regional Clinic #18",
+    "type": "HOSPITAL",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00018.health.org",
+    "phone": "+1-800-145-4276",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00019",
+    "name": "St. Jude Clinical Alliance #19",
+    "type": "HOSPITAL",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00019.health.org",
+    "phone": "+1-800-172-9188",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00020",
+    "name": "CareFirst Distribution #20",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00020.health.org",
+    "phone": "+1-800-888-9846",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00021",
+    "name": "CareFirst Distribution #21",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00021.health.org",
+    "phone": "+1-800-957-9594",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00022",
+    "name": "CareFirst Distribution #22",
+    "type": "CLINICAL_CENTER",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00022.health.org",
+    "phone": "+1-800-976-9057",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00023",
+    "name": "Alliance Care Pharmacy #23",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00023.health.org",
+    "phone": "+1-800-395-4556",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00024",
+    "name": "National Health Trust #24",
+    "type": "PHARMACY_CHAIN",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00024.health.org",
+    "phone": "+1-800-910-6119",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00025",
+    "name": "Alliance Care Pharmacy #25",
+    "type": "HOSPITAL",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00025.health.org",
+    "phone": "+1-800-681-8714",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00026",
+    "name": "OmniCare Medical Center #26",
+    "type": "HOSPITAL",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00026.health.org",
+    "phone": "+1-800-729-4396",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00027",
+    "name": "Mercy Health System #27",
+    "type": "HOSPITAL",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00027.health.org",
+    "phone": "+1-800-739-3405",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00028",
+    "name": "CareFirst Distribution #28",
+    "type": "HOSPITAL",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00028.health.org",
+    "phone": "+1-800-759-2086",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00029",
+    "name": "National Health Trust #29",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00029.health.org",
+    "phone": "+1-800-322-1994",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00030",
+    "name": "OmniCare Medical Center #30",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00030.health.org",
+    "phone": "+1-800-822-2711",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00031",
+    "name": "CareFirst Distribution #31",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00031.health.org",
+    "phone": "+1-800-687-4236",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00032",
+    "name": "National Health Trust #32",
+    "type": "HOSPITAL",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00032.health.org",
+    "phone": "+1-800-209-5335",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00033",
+    "name": "National Health Trust #33",
+    "type": "HOSPITAL",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00033.health.org",
+    "phone": "+1-800-138-5190",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00034",
+    "name": "Metropolitan General Hospital #34",
+    "type": "HOSPITAL",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00034.health.org",
+    "phone": "+1-800-230-5446",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00035",
+    "name": "CareFirst Distribution #35",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00035.health.org",
+    "phone": "+1-800-332-1351",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00036",
+    "name": "Apex Therapeutics Pharmacy #36",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00036.health.org",
+    "phone": "+1-800-375-5287",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00037",
+    "name": "Alliance Care Pharmacy #37",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00037.health.org",
+    "phone": "+1-800-909-8443",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00038",
+    "name": "Ascension Regional Clinic #38",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00038.health.org",
+    "phone": "+1-800-355-3888",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00039",
+    "name": "National Health Trust #39",
+    "type": "HOSPITAL",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00039.health.org",
+    "phone": "+1-800-398-7295",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00040",
+    "name": "Ascension Regional Clinic #40",
+    "type": "PHARMACY_CHAIN",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00040.health.org",
+    "phone": "+1-800-837-1447",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00041",
+    "name": "Metropolitan General Hospital #41",
+    "type": "CLINICAL_CENTER",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00041.health.org",
+    "phone": "+1-800-345-4959",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00042",
+    "name": "CareFirst Distribution #42",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00042.health.org",
+    "phone": "+1-800-285-4131",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00043",
+    "name": "National Health Trust #43",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00043.health.org",
+    "phone": "+1-800-275-9088",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00044",
+    "name": "Apex Therapeutics Pharmacy #44",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00044.health.org",
+    "phone": "+1-800-692-7659",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00045",
+    "name": "Alliance Care Pharmacy #45",
+    "type": "HOSPITAL",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00045.health.org",
+    "phone": "+1-800-502-1031",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00046",
+    "name": "Ascension Regional Clinic #46",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00046.health.org",
+    "phone": "+1-800-157-9723",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00047",
+    "name": "St. Jude Clinical Alliance #47",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00047.health.org",
+    "phone": "+1-800-118-2437",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00048",
+    "name": "Metropolitan General Hospital #48",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00048.health.org",
+    "phone": "+1-800-136-2423",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00049",
+    "name": "Mercy Health System #49",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00049.health.org",
+    "phone": "+1-800-511-1972",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00050",
+    "name": "National Health Trust #50",
+    "type": "HOSPITAL",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00050.health.org",
+    "phone": "+1-800-893-6579",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00051",
+    "name": "Metropolitan General Hospital #51",
+    "type": "HOSPITAL",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00051.health.org",
+    "phone": "+1-800-947-2027",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00052",
+    "name": "Alliance Care Pharmacy #52",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00052.health.org",
+    "phone": "+1-800-134-7684",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00053",
+    "name": "Alliance Care Pharmacy #53",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00053.health.org",
+    "phone": "+1-800-335-8421",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00054",
+    "name": "Ascension Regional Clinic #54",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00054.health.org",
+    "phone": "+1-800-246-1402",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00055",
+    "name": "Ascension Regional Clinic #55",
+    "type": "HOSPITAL",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00055.health.org",
+    "phone": "+1-800-839-3844",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00056",
+    "name": "Mercy Health System #56",
+    "type": "HOSPITAL",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00056.health.org",
+    "phone": "+1-800-351-7147",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00057",
+    "name": "Alliance Care Pharmacy #57",
+    "type": "PHARMACY_CHAIN",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00057.health.org",
+    "phone": "+1-800-104-1785",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00058",
+    "name": "National Health Trust #58",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00058.health.org",
+    "phone": "+1-800-942-9334",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00059",
+    "name": "Mercy Health System #59",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00059.health.org",
+    "phone": "+1-800-291-3206",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00060",
+    "name": "Apex Therapeutics Pharmacy #60",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00060.health.org",
+    "phone": "+1-800-821-1366",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00061",
+    "name": "Mercy Health System #61",
+    "type": "PHARMACY_CHAIN",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00061.health.org",
+    "phone": "+1-800-142-2075",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00062",
+    "name": "Metropolitan General Hospital #62",
+    "type": "PHARMACY_CHAIN",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00062.health.org",
+    "phone": "+1-800-823-3854",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00063",
+    "name": "St. Jude Clinical Alliance #63",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00063.health.org",
+    "phone": "+1-800-540-4743",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00064",
+    "name": "Metropolitan General Hospital #64",
+    "type": "CLINICAL_CENTER",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00064.health.org",
+    "phone": "+1-800-317-3446",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00065",
+    "name": "St. Jude Clinical Alliance #65",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00065.health.org",
+    "phone": "+1-800-591-3389",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00066",
+    "name": "Ascension Regional Clinic #66",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00066.health.org",
+    "phone": "+1-800-769-7540",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00067",
+    "name": "Apex Therapeutics Pharmacy #67",
+    "type": "CLINICAL_CENTER",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00067.health.org",
+    "phone": "+1-800-179-1346",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00068",
+    "name": "Valley Childrens Hospital #68",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00068.health.org",
+    "phone": "+1-800-554-6150",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00069",
+    "name": "Alliance Care Pharmacy #69",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00069.health.org",
+    "phone": "+1-800-204-1044",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00070",
+    "name": "St. Jude Clinical Alliance #70",
+    "type": "CLINICAL_CENTER",
+    "region": "APAC",
+    "contact_email": "pharmacy@cust-00070.health.org",
+    "phone": "+1-800-608-2051",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00071",
+    "name": "Nordic Health Depot #71",
+    "type": "REGIONAL_DISTRIBUTOR",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00071.health.org",
+    "phone": "+1-800-494-9311",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00072",
+    "name": "Nordic Health Depot #72",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_WEST",
+    "contact_email": "pharmacy@cust-00072.health.org",
+    "phone": "+1-800-198-8843",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00073",
+    "name": "Metropolitan General Hospital #73",
+    "type": "PHARMACY_CHAIN",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00073.health.org",
+    "phone": "+1-800-868-1892",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00074",
+    "name": "National Health Trust #74",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00074.health.org",
+    "phone": "+1-800-705-8126",
+    "compliance_tier": "STANDARD"
+  },
+  {
+    "customer_id": "CUST-00075",
+    "name": "St. Jude Clinical Alliance #75",
+    "type": "CLINICAL_CENTER",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00075.health.org",
+    "phone": "+1-800-463-7955",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00076",
+    "name": "National Health Trust #76",
+    "type": "PHARMACY_CHAIN",
+    "region": "NA_CENTRAL",
+    "contact_email": "pharmacy@cust-00076.health.org",
+    "phone": "+1-800-858-8876",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00077",
+    "name": "Mercy Health System #77",
+    "type": "PHARMACY_CHAIN",
+    "region": "EU_WEST",
+    "contact_email": "pharmacy@cust-00077.health.org",
+    "phone": "+1-800-463-5161",
+    "compliance_tier": "SILVER"
+  },
+  {
+    "customer_id": "CUST-00078",
+    "name": "Ascension Regional Clinic #78",
+    "type": "CLINICAL_CENTER",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00078.health.org",
+    "phone": "+1-800-250-8835",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00079",
+    "name": "National Health Trust #79",
+    "type": "PHARMACY_CHAIN",
+    "region": "EU_CENTRAL",
+    "contact_email": "pharmacy@cust-00079.health.org",
+    "phone": "+1-800-600-8416",
+    "compliance_tier": "GOLD"
+  },
+  {
+    "customer_id": "CUST-00080",
+    "name": "CareFirst Distribution #80",
+    "type": "CLINICAL_CENTER",
+    "region": "NA_EAST",
+    "contact_email": "pharmacy@cust-00080.health.org",
+    "phone": "+1-800-810-8126",
+    "compliance_tier": "SILVER"
+  }
+]

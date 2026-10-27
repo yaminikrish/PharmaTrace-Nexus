@@ -1,0 +1,42 @@
+[
+  {
+    "warehouse_id": "WH-0001",
+    "name": "North Central Logistics Hub",
+    "location": "Boston, MA",
+    "country": "USA",
+    "facility_type": "DISTRIBUTION_CENTER",
+    "status": "ACTIVE"
+  },
+  {
+    "warehouse_id": "WH-0002",
+    "name": "Mid-Atlantic Distribution Center",
+    "location": "Philadelphia, PA",
+    "country": "USA",
+    "facility_type": "DISTRIBUTION_CENTER",
+    "status": "ACTIVE"
+  },
+  {
+    "warehouse_id": "WH-0003",
+    "name": "Western Regional Cold-Chain Depot",
+    "location": "Reno, NV",
+    "country": "USA",
+    "facility_type": "DISTRIBUTION_CENTER",
+    "status": "ACTIVE"
+  },
+  {
+    "warehouse_id": "WH-0004",
+    "name": "Great Lakes Manufacturing Depot",
+    "location": "Chicago, IL",
+    "country": "USA",
+    "facility_type": "CENTRAL_DEPOT",
+    "status": "ACTIVE"
+  },
+  {
+    "warehouse_id": "WH-0005",
+    "name": "European Central Logistics Terminal",
+    "location": "Basel",
+    "country": "CHE",
+    "facility_type": "DISTRIBUTION_CENTER",
+    "status": "ACTIVE"
+  }
+]

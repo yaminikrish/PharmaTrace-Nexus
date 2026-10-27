@@ -1,0 +1,42 @@
+[
+  {
+    "issue_type": "MISSING_INPUT_LOT",
+    "entity_type": "ProductionOrderLotConsumption",
+    "entity_id": "CON-2026-999999",
+    "parent_id": "WO-2026-000001",
+    "violating_value": "RAWLOT-SUP-99999-2026-999999",
+    "expected_condition": "Referenced material_lot_id must exist in MaterialLot master table",
+    "severity": "CRITICAL",
+    "description": "Work order WO-2026-000001 references ghost input raw lot RAWLOT-SUP-99999-2026-999999 not present in MaterialLot table."
+  },
+  {
+    "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
+    "entity_type": "Delivery",
+    "entity_id": "DEL-2026-007301",
+    "parent_id": "FINLOT-2026-000002",
+    "violating_value": "2005.71",
+    "expected_condition": "Delivered quantity must be <= produced quantity (1337.14)",
+    "severity": "HIGH",
+    "description": "Delivery DEL-2026-007301 delivered quantity (2005.71) exceeds total manufactured lot quantity (1337.14)."
+  },
+  {
+    "issue_type": "RECALL_MISSED_CUSTOMER",
+    "entity_type": "RecallCase",
+    "entity_id": "REC-2026-000002",
+    "parent_id": "DEL-2026-013808",
+    "violating_value": "CUST-01114",
+    "expected_condition": "Customer CUST-01114 received delivery DEL-2026-013808 of recalled lot FINLOT-2026-000309 but received no notification dispatch action",
+    "severity": "CRITICAL",
+    "description": "Recall case REC-2026-000002 failed to notify customer CUST-01114 on delivery DEL-2026-013808."
+  },
+  {
+    "issue_type": "RECALLED_INVENTORY_AVAILABLE",
+    "entity_type": "FinishedLot",
+    "entity_id": "FINLOT-2026-000003",
+    "parent_id": "REC-2026-BREACH-01",
+    "violating_value": "status=AVAILABLE, warehouse_qty=500.0, quarantine_qty=0.0",
+    "expected_condition": "Recalled finished lot inventory must have status=RECALLED/QUARANTINED and warehouse_qty quarantined",
+    "severity": "CRITICAL",
+    "description": "Finished lot FINLOT-2026-000003 under active Class I recall REC-2026-BREACH-01 remains listed as AVAILABLE for sale with 500 units unquarantined."
+  }
+]

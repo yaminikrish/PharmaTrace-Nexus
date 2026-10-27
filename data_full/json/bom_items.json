@@ -1,0 +1,890 @@
+[
+  {
+    "bom_item_id": "BOMI-2026-000001",
+    "bom_id": "BOM-2026-0001",
+    "raw_product_id": "PRD-RAW-0015",
+    "quantity_per_unit": 2.229
+  },
+  {
+    "bom_item_id": "BOMI-2026-000002",
+    "bom_id": "BOM-2026-0001",
+    "raw_product_id": "PRD-RAW-0074",
+    "quantity_per_unit": 1.988
+  },
+  {
+    "bom_item_id": "BOMI-2026-000003",
+    "bom_id": "BOM-2026-0002",
+    "raw_product_id": "PRD-RAW-0003",
+    "quantity_per_unit": 1.592
+  },
+  {
+    "bom_item_id": "BOMI-2026-000004",
+    "bom_id": "BOM-2026-0002",
+    "raw_product_id": "PRD-RAW-0091",
+    "quantity_per_unit": 1.904
+  },
+  {
+    "bom_item_id": "BOMI-2026-000005",
+    "bom_id": "BOM-2026-0003",
+    "raw_product_id": "PRD-RAW-0076",
+    "quantity_per_unit": 1.404
+  },
+  {
+    "bom_item_id": "BOMI-2026-000006",
+    "bom_id": "BOM-2026-0003",
+    "raw_product_id": "PRD-RAW-0078",
+    "quantity_per_unit": 1.007
+  },
+  {
+    "bom_item_id": "BOMI-2026-000007",
+    "bom_id": "BOM-2026-0004",
+    "raw_product_id": "PRD-RAW-0044",
+    "quantity_per_unit": 0.469
+  },
+  {
+    "bom_item_id": "BOMI-2026-000008",
+    "bom_id": "BOM-2026-0004",
+    "raw_product_id": "PRD-RAW-0070",
+    "quantity_per_unit": 0.471
+  },
+  {
+    "bom_item_id": "BOMI-2026-000009",
+    "bom_id": "BOM-2026-0004",
+    "raw_product_id": "PRD-RAW-0080",
+    "quantity_per_unit": 0.265
+  },
+  {
+    "bom_item_id": "BOMI-2026-000010",
+    "bom_id": "BOM-2026-0004",
+    "raw_product_id": "PRD-RAW-0024",
+    "quantity_per_unit": 0.91
+  },
+  {
+    "bom_item_id": "BOMI-2026-000011",
+    "bom_id": "BOM-2026-0005",
+    "raw_product_id": "PRD-RAW-0047",
+    "quantity_per_unit": 2.279
+  },
+  {
+    "bom_item_id": "BOMI-2026-000012",
+    "bom_id": "BOM-2026-0005",
+    "raw_product_id": "PRD-RAW-0096",
+    "quantity_per_unit": 0.138
+  },
+  {
+    "bom_item_id": "BOMI-2026-000013",
+    "bom_id": "BOM-2026-0005",
+    "raw_product_id": "PRD-RAW-0093",
+    "quantity_per_unit": 0.291
+  },
+  {
+    "bom_item_id": "BOMI-2026-000014",
+    "bom_id": "BOM-2026-0006",
+    "raw_product_id": "PRD-RAW-0027",
+    "quantity_per_unit": 0.33
+  },
+  {
+    "bom_item_id": "BOMI-2026-000015",
+    "bom_id": "BOM-2026-0006",
+    "raw_product_id": "PRD-RAW-0001",
+    "quantity_per_unit": 1.696
+  },
+  {
+    "bom_item_id": "BOMI-2026-000016",
+    "bom_id": "BOM-2026-0007",
+    "raw_product_id": "PRD-RAW-0002",
+    "quantity_per_unit": 1.337
+  },
+  {
+    "bom_item_id": "BOMI-2026-000017",
+    "bom_id": "BOM-2026-0007",
+    "raw_product_id": "PRD-RAW-0018",
+    "quantity_per_unit": 1.001
+  },
+  {
+    "bom_item_id": "BOMI-2026-000018",
+    "bom_id": "BOM-2026-0007",
+    "raw_product_id": "PRD-RAW-0011",
+    "quantity_per_unit": 1.284
+  },
+  {
+    "bom_item_id": "BOMI-2026-000019",
+    "bom_id": "BOM-2026-0007",
+    "raw_product_id": "PRD-RAW-0084",
+    "quantity_per_unit": 0.429
+  },
+  {
+    "bom_item_id": "BOMI-2026-000020",
+    "bom_id": "BOM-2026-0008",
+    "raw_product_id": "PRD-RAW-0006",
+    "quantity_per_unit": 0.95
+  },
+  {
+    "bom_item_id": "BOMI-2026-000021",
+    "bom_id": "BOM-2026-0008",
+    "raw_product_id": "PRD-RAW-0047",
+    "quantity_per_unit": 1.731
+  },
+  {
+    "bom_item_id": "BOMI-2026-000022",
+    "bom_id": "BOM-2026-0008",
+    "raw_product_id": "PRD-RAW-0094",
+    "quantity_per_unit": 0.613
+  },
+  {
+    "bom_item_id": "BOMI-2026-000023",
+    "bom_id": "BOM-2026-0009",
+    "raw_product_id": "PRD-RAW-0054",
+    "quantity_per_unit": 1.935
+  },
+  {
+    "bom_item_id": "BOMI-2026-000024",
+    "bom_id": "BOM-2026-0009",
+    "raw_product_id": "PRD-RAW-0035",
+    "quantity_per_unit": 2.154
+  },
+  {
+    "bom_item_id": "BOMI-2026-000025",
+    "bom_id": "BOM-2026-0009",
+    "raw_product_id": "PRD-RAW-0032",
+    "quantity_per_unit": 1.867
+  },
+  {
+    "bom_item_id": "BOMI-2026-000026",
+    "bom_id": "BOM-2026-0010",
+    "raw_product_id": "PRD-RAW-0054",
+    "quantity_per_unit": 0.379
+  },
+  {
+    "bom_item_id": "BOMI-2026-000027",
+    "bom_id": "BOM-2026-0010",
+    "raw_product_id": "PRD-RAW-0007",
+    "quantity_per_unit": 0.146
+  },
+  {
+    "bom_item_id": "BOMI-2026-000028",
+    "bom_id": "BOM-2026-0010",
+    "raw_product_id": "PRD-RAW-0039",
+    "quantity_per_unit": 0.148
+  },
+  {
+    "bom_item_id": "BOMI-2026-000029",
+    "bom_id": "BOM-2026-0011",
+    "raw_product_id": "PRD-RAW-0011",
+    "quantity_per_unit": 1.876
+  },
+  {
+    "bom_item_id": "BOMI-2026-000030",
+    "bom_id": "BOM-2026-0011",
+    "raw_product_id": "PRD-RAW-0092",
+    "quantity_per_unit": 0.678
+  },
+  {
+    "bom_item_id": "BOMI-2026-000031",
+    "bom_id": "BOM-2026-0011",
+    "raw_product_id": "PRD-RAW-0036",
+    "quantity_per_unit": 0.302
+  },
+  {
+    "bom_item_id": "BOMI-2026-000032",
+    "bom_id": "BOM-2026-0012",
+    "raw_product_id": "PRD-RAW-0070",
+    "quantity_per_unit": 1.739
+  },
+  {
+    "bom_item_id": "BOMI-2026-000033",
+    "bom_id": "BOM-2026-0012",
+    "raw_product_id": "PRD-RAW-0022",
+    "quantity_per_unit": 2.024
+  },
+  {
+    "bom_item_id": "BOMI-2026-000034",
+    "bom_id": "BOM-2026-0012",
+    "raw_product_id": "PRD-RAW-0037",
+    "quantity_per_unit": 1.125
+  },
+  {
+    "bom_item_id": "BOMI-2026-000035",
+    "bom_id": "BOM-2026-0012",
+    "raw_product_id": "PRD-RAW-0061",
+    "quantity_per_unit": 1.746
+  },
+  {
+    "bom_item_id": "BOMI-2026-000036",
+    "bom_id": "BOM-2026-0013",
+    "raw_product_id": "PRD-RAW-0019",
+    "quantity_per_unit": 1.751
+  },
+  {
+    "bom_item_id": "BOMI-2026-000037",
+    "bom_id": "BOM-2026-0013",
+    "raw_product_id": "PRD-RAW-0073",
+    "quantity_per_unit": 2.087
+  },
+  {
+    "bom_item_id": "BOMI-2026-000038",
+    "bom_id": "BOM-2026-0014",
+    "raw_product_id": "PRD-RAW-0092",
+    "quantity_per_unit": 0.74
+  },
+  {
+    "bom_item_id": "BOMI-2026-000039",
+    "bom_id": "BOM-2026-0014",
+    "raw_product_id": "PRD-RAW-0031",
+    "quantity_per_unit": 2.461
+  },
+  {
+    "bom_item_id": "BOMI-2026-000040",
+    "bom_id": "BOM-2026-0014",
+    "raw_product_id": "PRD-RAW-0049",
+    "quantity_per_unit": 1.183
+  },
+  {
+    "bom_item_id": "BOMI-2026-000041",
+    "bom_id": "BOM-2026-0014",
+    "raw_product_id": "PRD-RAW-0069",
+    "quantity_per_unit": 1.174
+  },
+  {
+    "bom_item_id": "BOMI-2026-000042",
+    "bom_id": "BOM-2026-0015",
+    "raw_product_id": "PRD-RAW-0054",
+    "quantity_per_unit": 1.616
+  },
+  {
+    "bom_item_id": "BOMI-2026-000043",
+    "bom_id": "BOM-2026-0015",
+    "raw_product_id": "PRD-RAW-0095",
+    "quantity_per_unit": 1.4
+  },
+  {
+    "bom_item_id": "BOMI-2026-000044",
+    "bom_id": "BOM-2026-0016",
+    "raw_product_id": "PRD-RAW-0092",
+    "quantity_per_unit": 1.896
+  },
+  {
+    "bom_item_id": "BOMI-2026-000045",
+    "bom_id": "BOM-2026-0016",
+    "raw_product_id": "PRD-RAW-0055",
+    "quantity_per_unit": 0.352
+  },
+  {
+    "bom_item_id": "BOMI-2026-000046",
+    "bom_id": "BOM-2026-0016",
+    "raw_product_id": "PRD-RAW-0033",
+    "quantity_per_unit": 2.031
+  },
+  {
+    "bom_item_id": "BOMI-2026-000047",
+    "bom_id": "BOM-2026-0016",
+    "raw_product_id": "PRD-RAW-0096",
+    "quantity_per_unit": 0.949
+  },
+  {
+    "bom_item_id": "BOMI-2026-000048",
+    "bom_id": "BOM-2026-0017",
+    "raw_product_id": "PRD-RAW-0071",
+    "quantity_per_unit": 0.623
+  },
+  {
+    "bom_item_id": "BOMI-2026-000049",
+    "bom_id": "BOM-2026-0017",
+    "raw_product_id": "PRD-RAW-0041",
+    "quantity_per_unit": 2.086
+  },
+  {
+    "bom_item_id": "BOMI-2026-000050",
+    "bom_id": "BOM-2026-0018",
+    "raw_product_id": "PRD-RAW-0086",
+    "quantity_per_unit": 0.605
+  },
+  {
+    "bom_item_id": "BOMI-2026-000051",
+    "bom_id": "BOM-2026-0018",
+    "raw_product_id": "PRD-RAW-0031",
+    "quantity_per_unit": 1.613
+  },
+  {
+    "bom_item_id": "BOMI-2026-000052",
+    "bom_id": "BOM-2026-0018",
+    "raw_product_id": "PRD-RAW-0064",
+    "quantity_per_unit": 1.41
+  },
+  {
+    "bom_item_id": "BOMI-2026-000053",
+    "bom_id": "BOM-2026-0019",
+    "raw_product_id": "PRD-RAW-0079",
+    "quantity_per_unit": 1.99
+  },
+  {
+    "bom_item_id": "BOMI-2026-000054",
+    "bom_id": "BOM-2026-0019",
+    "raw_product_id": "PRD-RAW-0019",
+    "quantity_per_unit": 1.599
+  },
+  {
+    "bom_item_id": "BOMI-2026-000055",
+    "bom_id": "BOM-2026-0019",
+    "raw_product_id": "PRD-RAW-0066",
+    "quantity_per_unit": 1.979
+  },
+  {
+    "bom_item_id": "BOMI-2026-000056",
+    "bom_id": "BOM-2026-0019",
+    "raw_product_id": "PRD-RAW-0080",
+    "quantity_per_unit": 0.157
+  },
+  {
+    "bom_item_id": "BOMI-2026-000057",
+    "bom_id": "BOM-2026-0020",
+    "raw_product_id": "PRD-RAW-0002",
+    "quantity_per_unit": 0.45
+  },
+  {
+    "bom_item_id": "BOMI-2026-000058",
+    "bom_id": "BOM-2026-0020",
+    "raw_product_id": "PRD-RAW-0021",
+    "quantity_per_unit": 1.153
+  },
+  {
+    "bom_item_id": "BOMI-2026-000059",
+    "bom_id": "BOM-2026-0020",
+    "raw_product_id": "PRD-RAW-0041",
+    "quantity_per_unit": 0.856
+  },
+  {
+    "bom_item_id": "BOMI-2026-000060",
+    "bom_id": "BOM-2026-0021",
+    "raw_product_id": "PRD-RAW-0039",
+    "quantity_per_unit": 1.492
+  },
+  {
+    "bom_item_id": "BOMI-2026-000061",
+    "bom_id": "BOM-2026-0021",
+    "raw_product_id": "PRD-RAW-0019",
+    "quantity_per_unit": 2.305
+  },
+  {
+    "bom_item_id": "BOMI-2026-000062",
+    "bom_id": "BOM-2026-0022",
+    "raw_product_id": "PRD-RAW-0023",
+    "quantity_per_unit": 0.189
+  },
+  {
+    "bom_item_id": "BOMI-2026-000063",
+    "bom_id": "BOM-2026-0022",
+    "raw_product_id": "PRD-RAW-0020",
+    "quantity_per_unit": 1.099
+  },
+  {
+    "bom_item_id": "BOMI-2026-000064",
+    "bom_id": "BOM-2026-0023",
+    "raw_product_id": "PRD-RAW-0024",
+    "quantity_per_unit": 1.438
+  },
+  {
+    "bom_item_id": "BOMI-2026-000065",
+    "bom_id": "BOM-2026-0023",
+    "raw_product_id": "PRD-RAW-0016",
+    "quantity_per_unit": 0.326
+  },
+  {
+    "bom_item_id": "BOMI-2026-000066",
+    "bom_id": "BOM-2026-0024",
+    "raw_product_id": "PRD-RAW-0016",
+    "quantity_per_unit": 2.34
+  },
+  {
+    "bom_item_id": "BOMI-2026-000067",
+    "bom_id": "BOM-2026-0024",
+    "raw_product_id": "PRD-RAW-0075",
+    "quantity_per_unit": 1.803
+  },
+  {
+    "bom_item_id": "BOMI-2026-000068",
+    "bom_id": "BOM-2026-0025",
+    "raw_product_id": "PRD-RAW-0015",
+    "quantity_per_unit": 2.452
+  },
+  {
+    "bom_item_id": "BOMI-2026-000069",
+    "bom_id": "BOM-2026-0025",
+    "raw_product_id": "PRD-RAW-0014",
+    "quantity_per_unit": 1.394
+  },
+  {
+    "bom_item_id": "BOMI-2026-000070",
+    "bom_id": "BOM-2026-0026",
+    "raw_product_id": "PRD-RAW-0061",
+    "quantity_per_unit": 2.038
+  },
+  {
+    "bom_item_id": "BOMI-2026-000071",
+    "bom_id": "BOM-2026-0026",
+    "raw_product_id": "PRD-RAW-0053",
+    "quantity_per_unit": 0.559
+  },
+  {
+    "bom_item_id": "BOMI-2026-000072",
+    "bom_id": "BOM-2026-0026",
+    "raw_product_id": "PRD-RAW-0010",
+    "quantity_per_unit": 2.073
+  },
+  {
+    "bom_item_id": "BOMI-2026-000073",
+    "bom_id": "BOM-2026-0026",
+    "raw_product_id": "PRD-RAW-0093",
+    "quantity_per_unit": 1.562
+  },
+  {
+    "bom_item_id": "BOMI-2026-000074",
+    "bom_id": "BOM-2026-0027",
+    "raw_product_id": "PRD-RAW-0081",
+    "quantity_per_unit": 1.88
+  },
+  {
+    "bom_item_id": "BOMI-2026-000075",
+    "bom_id": "BOM-2026-0027",
+    "raw_product_id": "PRD-RAW-0064",
+    "quantity_per_unit": 1.696
+  },
+  {
+    "bom_item_id": "BOMI-2026-000076",
+    "bom_id": "BOM-2026-0027",
+    "raw_product_id": "PRD-RAW-0042",
+    "quantity_per_unit": 0.21
+  },
+  {
+    "bom_item_id": "BOMI-2026-000077",
+    "bom_id": "BOM-2026-0028",
+    "raw_product_id": "PRD-RAW-0024",
+    "quantity_per_unit": 2.094
+  },
+  {
+    "bom_item_id": "BOMI-2026-000078",
+    "bom_id": "BOM-2026-0028",
+    "raw_product_id": "PRD-RAW-0071",
+    "quantity_per_unit": 0.377
+  },
+  {
+    "bom_item_id": "BOMI-2026-000079",
+    "bom_id": "BOM-2026-0028",
+    "raw_product_id": "PRD-RAW-0052",
+    "quantity_per_unit": 2.237
+  },
+  {
+    "bom_item_id": "BOMI-2026-000080",
+    "bom_id": "BOM-2026-0028",
+    "raw_product_id": "PRD-RAW-0036",
+    "quantity_per_unit": 0.295
+  },
+  {
+    "bom_item_id": "BOMI-2026-000081",
+    "bom_id": "BOM-2026-0029",
+    "raw_product_id": "PRD-RAW-0057",
+    "quantity_per_unit": 1.385
+  },
+  {
+    "bom_item_id": "BOMI-2026-000082",
+    "bom_id": "BOM-2026-0029",
+    "raw_product_id": "PRD-RAW-0064",
+    "quantity_per_unit": 0.712
+  },
+  {
+    "bom_item_id": "BOMI-2026-000083",
+    "bom_id": "BOM-2026-0029",
+    "raw_product_id": "PRD-RAW-0058",
+    "quantity_per_unit": 0.879
+  },
+  {
+    "bom_item_id": "BOMI-2026-000084",
+    "bom_id": "BOM-2026-0030",
+    "raw_product_id": "PRD-RAW-0073",
+    "quantity_per_unit": 0.257
+  },
+  {
+    "bom_item_id": "BOMI-2026-000085",
+    "bom_id": "BOM-2026-0030",
+    "raw_product_id": "PRD-RAW-0031",
+    "quantity_per_unit": 0.607
+  },
+  {
+    "bom_item_id": "BOMI-2026-000086",
+    "bom_id": "BOM-2026-0030",
+    "raw_product_id": "PRD-RAW-0024",
+    "quantity_per_unit": 1.493
+  },
+  {
+    "bom_item_id": "BOMI-2026-000087",
+    "bom_id": "BOM-2026-0030",
+    "raw_product_id": "PRD-RAW-0002",
+    "quantity_per_unit": 0.949
+  },
+  {
+    "bom_item_id": "BOMI-2026-000088",
+    "bom_id": "BOM-2026-0031",
+    "raw_product_id": "PRD-RAW-0043",
+    "quantity_per_unit": 1.732
+  },
+  {
+    "bom_item_id": "BOMI-2026-000089",
+    "bom_id": "BOM-2026-0031",
+    "raw_product_id": "PRD-RAW-0016",
+    "quantity_per_unit": 0.945
+  },
+  {
+    "bom_item_id": "BOMI-2026-000090",
+    "bom_id": "BOM-2026-0031",
+    "raw_product_id": "PRD-RAW-0097",
+    "quantity_per_unit": 0.356
+  },
+  {
+    "bom_item_id": "BOMI-2026-000091",
+    "bom_id": "BOM-2026-0031",
+    "raw_product_id": "PRD-RAW-0010",
+    "quantity_per_unit": 2.32
+  },
+  {
+    "bom_item_id": "BOMI-2026-000092",
+    "bom_id": "BOM-2026-0032",
+    "raw_product_id": "PRD-RAW-0027",
+    "quantity_per_unit": 0.166
+  },
+  {
+    "bom_item_id": "BOMI-2026-000093",
+    "bom_id": "BOM-2026-0032",
+    "raw_product_id": "PRD-RAW-0051",
+    "quantity_per_unit": 1.25
+  },
+  {
+    "bom_item_id": "BOMI-2026-000094",
+    "bom_id": "BOM-2026-0033",
+    "raw_product_id": "PRD-RAW-0008",
+    "quantity_per_unit": 0.13
+  },
+  {
+    "bom_item_id": "BOMI-2026-000095",
+    "bom_id": "BOM-2026-0033",
+    "raw_product_id": "PRD-RAW-0071",
+    "quantity_per_unit": 0.536
+  },
+  {
+    "bom_item_id": "BOMI-2026-000096",
+    "bom_id": "BOM-2026-0033",
+    "raw_product_id": "PRD-RAW-0013",
+    "quantity_per_unit": 1.263
+  },
+  {
+    "bom_item_id": "BOMI-2026-000097",
+    "bom_id": "BOM-2026-0034",
+    "raw_product_id": "PRD-RAW-0095",
+    "quantity_per_unit": 2.208
+  },
+  {
+    "bom_item_id": "BOMI-2026-000098",
+    "bom_id": "BOM-2026-0034",
+    "raw_product_id": "PRD-RAW-0036",
+    "quantity_per_unit": 1.755
+  },
+  {
+    "bom_item_id": "BOMI-2026-000099",
+    "bom_id": "BOM-2026-0034",
+    "raw_product_id": "PRD-RAW-0016",
+    "quantity_per_unit": 1.945
+  },
+  {
+    "bom_item_id": "BOMI-2026-000100",
+    "bom_id": "BOM-2026-0035",
+    "raw_product_id": "PRD-RAW-0073",
+    "quantity_per_unit": 1.995
+  },
+  {
+    "bom_item_id": "BOMI-2026-000101",
+    "bom_id": "BOM-2026-0035",
+    "raw_product_id": "PRD-RAW-0062",
+    "quantity_per_unit": 2.039
+  },
+  {
+    "bom_item_id": "BOMI-2026-000102",
+    "bom_id": "BOM-2026-0035",
+    "raw_product_id": "PRD-RAW-0068",
+    "quantity_per_unit": 1.768
+  },
+  {
+    "bom_item_id": "BOMI-2026-000103",
+    "bom_id": "BOM-2026-0035",
+    "raw_product_id": "PRD-RAW-0037",
+    "quantity_per_unit": 2.36
+  },
+  {
+    "bom_item_id": "BOMI-2026-000104",
+    "bom_id": "BOM-2026-0036",
+    "raw_product_id": "PRD-RAW-0058",
+    "quantity_per_unit": 1.438
+  },
+  {
+    "bom_item_id": "BOMI-2026-000105",
+    "bom_id": "BOM-2026-0036",
+    "raw_product_id": "PRD-RAW-0050",
+    "quantity_per_unit": 1.443
+  },
+  {
+    "bom_item_id": "BOMI-2026-000106",
+    "bom_id": "BOM-2026-0037",
+    "raw_product_id": "PRD-RAW-0100",
+    "quantity_per_unit": 2.421
+  },
+  {
+    "bom_item_id": "BOMI-2026-000107",
+    "bom_id": "BOM-2026-0037",
+    "raw_product_id": "PRD-RAW-0083",
+    "quantity_per_unit": 1.218
+  },
+  {
+    "bom_item_id": "BOMI-2026-000108",
+    "bom_id": "BOM-2026-0037",
+    "raw_product_id": "PRD-RAW-0073",
+    "quantity_per_unit": 1.797
+  },
+  {
+    "bom_item_id": "BOMI-2026-000109",
+    "bom_id": "BOM-2026-0037",
+    "raw_product_id": "PRD-RAW-0057",
+    "quantity_per_unit": 0.945
+  },
+  {
+    "bom_item_id": "BOMI-2026-000110",
+    "bom_id": "BOM-2026-0038",
+    "raw_product_id": "PRD-RAW-0058",
+    "quantity_per_unit": 1.898
+  },
+  {
+    "bom_item_id": "BOMI-2026-000111",
+    "bom_id": "BOM-2026-0038",
+    "raw_product_id": "PRD-RAW-0074",
+    "quantity_per_unit": 2.247
+  },
+  {
+    "bom_item_id": "BOMI-2026-000112",
+    "bom_id": "BOM-2026-0038",
+    "raw_product_id": "PRD-RAW-0073",
+    "quantity_per_unit": 0.364
+  },
+  {
+    "bom_item_id": "BOMI-2026-000113",
+    "bom_id": "BOM-2026-0038",
+    "raw_product_id": "PRD-RAW-0023",
+    "quantity_per_unit": 1.4
+  },
+  {
+    "bom_item_id": "BOMI-2026-000114",
+    "bom_id": "BOM-2026-0039",
+    "raw_product_id": "PRD-RAW-0046",
+    "quantity_per_unit": 2.004
+  },
+  {
+    "bom_item_id": "BOMI-2026-000115",
+    "bom_id": "BOM-2026-0039",
+    "raw_product_id": "PRD-RAW-0032",
+    "quantity_per_unit": 1.455
+  },
+  {
+    "bom_item_id": "BOMI-2026-000116",
+    "bom_id": "BOM-2026-0040",
+    "raw_product_id": "PRD-RAW-0033",
+    "quantity_per_unit": 0.246
+  },
+  {
+    "bom_item_id": "BOMI-2026-000117",
+    "bom_id": "BOM-2026-0040",
+    "raw_product_id": "PRD-RAW-0083",
+    "quantity_per_unit": 1.368
+  },
+  {
+    "bom_item_id": "BOMI-2026-000118",
+    "bom_id": "BOM-2026-0041",
+    "raw_product_id": "PRD-RAW-0053",
+    "quantity_per_unit": 2.405
+  },
+  {
+    "bom_item_id": "BOMI-2026-000119",
+    "bom_id": "BOM-2026-0041",
+    "raw_product_id": "PRD-RAW-0007",
+    "quantity_per_unit": 2.19
+  },
+  {
+    "bom_item_id": "BOMI-2026-000120",
+    "bom_id": "BOM-2026-0042",
+    "raw_product_id": "PRD-RAW-0009",
+    "quantity_per_unit": 1.071
+  },
+  {
+    "bom_item_id": "BOMI-2026-000121",
+    "bom_id": "BOM-2026-0042",
+    "raw_product_id": "PRD-RAW-0026",
+    "quantity_per_unit": 1.6
+  },
+  {
+    "bom_item_id": "BOMI-2026-000122",
+    "bom_id": "BOM-2026-0042",
+    "raw_product_id": "PRD-RAW-0100",
+    "quantity_per_unit": 0.581
+  },
+  {
+    "bom_item_id": "BOMI-2026-000123",
+    "bom_id": "BOM-2026-0043",
+    "raw_product_id": "PRD-RAW-0005",
+    "quantity_per_unit": 2.317
+  },
+  {
+    "bom_item_id": "BOMI-2026-000124",
+    "bom_id": "BOM-2026-0043",
+    "raw_product_id": "PRD-RAW-0021",
+    "quantity_per_unit": 1.201
+  },
+  {
+    "bom_item_id": "BOMI-2026-000125",
+    "bom_id": "BOM-2026-0043",
+    "raw_product_id": "PRD-RAW-0008",
+    "quantity_per_unit": 1.809
+  },
+  {
+    "bom_item_id": "BOMI-2026-000126",
+    "bom_id": "BOM-2026-0043",
+    "raw_product_id": "PRD-RAW-0032",
+    "quantity_per_unit": 0.126
+  },
+  {
+    "bom_item_id": "BOMI-2026-000127",
+    "bom_id": "BOM-2026-0044",
+    "raw_product_id": "PRD-RAW-0046",
+    "quantity_per_unit": 2.369
+  },
+  {
+    "bom_item_id": "BOMI-2026-000128",
+    "bom_id": "BOM-2026-0044",
+    "raw_product_id": "PRD-RAW-0024",
+    "quantity_per_unit": 1.915
+  },
+  {
+    "bom_item_id": "BOMI-2026-000129",
+    "bom_id": "BOM-2026-0044",
+    "raw_product_id": "PRD-RAW-0055",
+    "quantity_per_unit": 0.724
+  },
+  {
+    "bom_item_id": "BOMI-2026-000130",
+    "bom_id": "BOM-2026-0044",
+    "raw_product_id": "PRD-RAW-0095",
+    "quantity_per_unit": 2.099
+  },
+  {
+    "bom_item_id": "BOMI-2026-000131",
+    "bom_id": "BOM-2026-0045",
+    "raw_product_id": "PRD-RAW-0091",
+    "quantity_per_unit": 1.957
+  },
+  {
+    "bom_item_id": "BOMI-2026-000132",
+    "bom_id": "BOM-2026-0045",
+    "raw_product_id": "PRD-RAW-0017",
+    "quantity_per_unit": 1.84
+  },
+  {
+    "bom_item_id": "BOMI-2026-000133",
+    "bom_id": "BOM-2026-0045",
+    "raw_product_id": "PRD-RAW-0081",
+    "quantity_per_unit": 0.706
+  },
+  {
+    "bom_item_id": "BOMI-2026-000134",
+    "bom_id": "BOM-2026-0046",
+    "raw_product_id": "PRD-RAW-0061",
+    "quantity_per_unit": 1.228
+  },
+  {
+    "bom_item_id": "BOMI-2026-000135",
+    "bom_id": "BOM-2026-0046",
+    "raw_product_id": "PRD-RAW-0075",
+    "quantity_per_unit": 2.24
+  },
+  {
+    "bom_item_id": "BOMI-2026-000136",
+    "bom_id": "BOM-2026-0047",
+    "raw_product_id": "PRD-RAW-0005",
+    "quantity_per_unit": 0.199
+  },
+  {
+    "bom_item_id": "BOMI-2026-000137",
+    "bom_id": "BOM-2026-0047",
+    "raw_product_id": "PRD-RAW-0080",
+    "quantity_per_unit": 2.483
+  },
+  {
+    "bom_item_id": "BOMI-2026-000138",
+    "bom_id": "BOM-2026-0047",
+    "raw_product_id": "PRD-RAW-0041",
+    "quantity_per_unit": 0.898
+  },
+  {
+    "bom_item_id": "BOMI-2026-000139",
+    "bom_id": "BOM-2026-0047",
+    "raw_product_id": "PRD-RAW-0003",
+    "quantity_per_unit": 2.066
+  },
+  {
+    "bom_item_id": "BOMI-2026-000140",
+    "bom_id": "BOM-2026-0048",
+    "raw_product_id": "PRD-RAW-0060",
+    "quantity_per_unit": 2.279
+  },
+  {
+    "bom_item_id": "BOMI-2026-000141",
+    "bom_id": "BOM-2026-0048",
+    "raw_product_id": "PRD-RAW-0075",
+    "quantity_per_unit": 0.611
+  },
+  {
+    "bom_item_id": "BOMI-2026-000142",
+    "bom_id": "BOM-2026-0048",
+    "raw_product_id": "PRD-RAW-0046",
+    "quantity_per_unit": 1.557
+  },
+  {
+    "bom_item_id": "BOMI-2026-000143",
+    "bom_id": "BOM-2026-0049",
+    "raw_product_id": "PRD-RAW-0067",
+    "quantity_per_unit": 1.04
+  },
+  {
+    "bom_item_id": "BOMI-2026-000144",
+    "bom_id": "BOM-2026-0049",
+    "raw_product_id": "PRD-RAW-0059",
+    "quantity_per_unit": 0.475
+  },
+  {
+    "bom_item_id": "BOMI-2026-000145",
+    "bom_id": "BOM-2026-0049",
+    "raw_product_id": "PRD-RAW-0068",
+    "quantity_per_unit": 0.191
+  },
+  {
+    "bom_item_id": "BOMI-2026-000146",
+    "bom_id": "BOM-2026-0050",
+    "raw_product_id": "PRD-RAW-0015",
+    "quantity_per_unit": 2.414
+  },
+  {
+    "bom_item_id": "BOMI-2026-000147",
+    "bom_id": "BOM-2026-0050",
+    "raw_product_id": "PRD-RAW-0017",
+    "quantity_per_unit": 0.215
+  },
+  {
+    "bom_item_id": "BOMI-2026-000148",
+    "bom_id": "BOM-2026-0050",
+    "raw_product_id": "PRD-RAW-0010",
+    "quantity_per_unit": 1.082
+  }
+]

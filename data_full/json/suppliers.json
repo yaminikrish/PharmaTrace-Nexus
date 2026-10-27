@@ -1,0 +1,4502 @@
+[
+  {
+    "supplier_id": "SUP-00001",
+    "name": "Continental Reagents 1",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@continentalreagents1.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00002",
+    "name": "Kyoto Solvents 2",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@kyotosolvents2.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00003",
+    "name": "BioPharma Synthetics 3",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@biopharmasynthetics3.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00004",
+    "name": "Nova Biochemical 4",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@novabiochemical4.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00005",
+    "name": "Alps Purifications 5",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@alpspurifications5.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-31T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00006",
+    "name": "Alps Purifications 6",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@alpspurifications6.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00007",
+    "name": "Sterling Fine Chem 7",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@sterlingfinechem7.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00008",
+    "name": "Pacific BioAg 8",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@pacificbioag8.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00009",
+    "name": "Nordic Chemical Labs 9",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@nordicchemicallabs9.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00010",
+    "name": "Vanguard BioSciences 10",
+    "tier": "TIER_3",
+    "country": "USA",
+    "contact_email": "compliance@vanguardbiosciences10.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00011",
+    "name": "Starlight Actives 11",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@starlightactives11.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00012",
+    "name": "Nordic Chemical Labs 12",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@nordicchemicallabs12.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00013",
+    "name": "Continental Reagents 13",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@continentalreagents13.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00014",
+    "name": "BioPharma Synthetics 14",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@biopharmasynthetics14.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00015",
+    "name": "Nova Biochemical 15",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@novabiochemical15.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00016",
+    "name": "Helvetia Pharma 16",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@helvetiapharma16.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00017",
+    "name": "Nova Biochemical 17",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@novabiochemical17.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00018",
+    "name": "BioPharma Synthetics 18",
+    "tier": "TIER_3",
+    "country": "USA",
+    "contact_email": "compliance@biopharmasynthetics18.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00019",
+    "name": "Nova Biochemical 19",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical19.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00020",
+    "name": "Vanguard BioSciences 20",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@vanguardbiosciences20.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00021",
+    "name": "Continental Reagents 21",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@continentalreagents21.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00022",
+    "name": "Sterling Fine Chem 22",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@sterlingfinechem22.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00023",
+    "name": "Pacific BioAg 23",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@pacificbioag23.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00024",
+    "name": "Starlight Actives 24",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@starlightactives24.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00025",
+    "name": "Apex Polymers 25",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@apexpolymers25.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00026",
+    "name": "Apex Polymers 26",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@apexpolymers26.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00027",
+    "name": "Helvetia Pharma 27",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@helvetiapharma27.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00028",
+    "name": "Nova Biochemical 28",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@novabiochemical28.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00029",
+    "name": "Continental Reagents 29",
+    "tier": "TIER_3",
+    "country": "DEU",
+    "contact_email": "compliance@continentalreagents29.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00030",
+    "name": "Kyoto Solvents 30",
+    "tier": "TIER_3",
+    "country": "DNK",
+    "contact_email": "compliance@kyotosolvents30.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00031",
+    "name": "Pacific BioAg 31",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@pacificbioag31.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00032",
+    "name": "BioPharma Synthetics 32",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@biopharmasynthetics32.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-12-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00033",
+    "name": "BioPharma Synthetics 33",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@biopharmasynthetics33.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00034",
+    "name": "Sterling Fine Chem 34",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@sterlingfinechem34.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00035",
+    "name": "Sterling Fine Chem 35",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@sterlingfinechem35.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-03-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00036",
+    "name": "Kyoto Solvents 36",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@kyotosolvents36.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-05-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00037",
+    "name": "Vanguard BioSciences 37",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@vanguardbiosciences37.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-07-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00038",
+    "name": "Alps Purifications 38",
+    "tier": "TIER_3",
+    "country": "USA",
+    "contact_email": "compliance@alpspurifications38.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00039",
+    "name": "Continental Reagents 39",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@continentalreagents39.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00040",
+    "name": "BioPharma Synthetics 40",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@biopharmasynthetics40.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00041",
+    "name": "Vanguard BioSciences 41",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@vanguardbiosciences41.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00042",
+    "name": "Pacific BioAg 42",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@pacificbioag42.com",
+    "status": "SUSPENDED",
+    "created_at": "2024-05-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00043",
+    "name": "Pacific BioAg 43",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@pacificbioag43.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00044",
+    "name": "Nova Biochemical 44",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@novabiochemical44.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-03-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00045",
+    "name": "Nordic Chemical Labs 45",
+    "tier": "TIER_3",
+    "country": "IRL",
+    "contact_email": "compliance@nordicchemicallabs45.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00046",
+    "name": "Nova Biochemical 46",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical46.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00047",
+    "name": "Apex Polymers 47",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@apexpolymers47.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00048",
+    "name": "Helvetia Pharma 48",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@helvetiapharma48.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-04-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00049",
+    "name": "Pacific BioAg 49",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@pacificbioag49.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00050",
+    "name": "Starlight Actives 50",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@starlightactives50.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00051",
+    "name": "Vanguard BioSciences 51",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@vanguardbiosciences51.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00052",
+    "name": "Kyoto Solvents 52",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@kyotosolvents52.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00053",
+    "name": "Kyoto Solvents 53",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@kyotosolvents53.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00054",
+    "name": "Starlight Actives 54",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@starlightactives54.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00055",
+    "name": "Alps Purifications 55",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@alpspurifications55.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00056",
+    "name": "Nordic Chemical Labs 56",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@nordicchemicallabs56.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00057",
+    "name": "BioPharma Synthetics 57",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@biopharmasynthetics57.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00058",
+    "name": "Helvetia Pharma 58",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@helvetiapharma58.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-09-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00059",
+    "name": "BioPharma Synthetics 59",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@biopharmasynthetics59.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00060",
+    "name": "Apex Polymers 60",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@apexpolymers60.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00061",
+    "name": "Helvetia Pharma 61",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@helvetiapharma61.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-12-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00062",
+    "name": "Pacific BioAg 62",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@pacificbioag62.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00063",
+    "name": "Nordic Chemical Labs 63",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@nordicchemicallabs63.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00064",
+    "name": "Helvetia Pharma 64",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@helvetiapharma64.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00065",
+    "name": "Starlight Actives 65",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@starlightactives65.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-03-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00066",
+    "name": "Starlight Actives 66",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@starlightactives66.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00067",
+    "name": "Kyoto Solvents 67",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@kyotosolvents67.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00068",
+    "name": "Alps Purifications 68",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@alpspurifications68.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-08-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00069",
+    "name": "Pacific BioAg 69",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@pacificbioag69.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00070",
+    "name": "Nova Biochemical 70",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@novabiochemical70.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-06-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00071",
+    "name": "Kyoto Solvents 71",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@kyotosolvents71.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00072",
+    "name": "Continental Reagents 72",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@continentalreagents72.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00073",
+    "name": "Vanguard BioSciences 73",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@vanguardbiosciences73.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00074",
+    "name": "Helvetia Pharma 74",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@helvetiapharma74.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00075",
+    "name": "Continental Reagents 75",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@continentalreagents75.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00076",
+    "name": "Sterling Fine Chem 76",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@sterlingfinechem76.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00077",
+    "name": "Apex Polymers 77",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@apexpolymers77.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00078",
+    "name": "BioPharma Synthetics 78",
+    "tier": "TIER_3",
+    "country": "GBR",
+    "contact_email": "compliance@biopharmasynthetics78.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00079",
+    "name": "BioPharma Synthetics 79",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@biopharmasynthetics79.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00080",
+    "name": "Nordic Chemical Labs 80",
+    "tier": "TIER_3",
+    "country": "DEU",
+    "contact_email": "compliance@nordicchemicallabs80.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00081",
+    "name": "Apex Polymers 81",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@apexpolymers81.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00082",
+    "name": "Nordic Chemical Labs 82",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@nordicchemicallabs82.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00083",
+    "name": "BioPharma Synthetics 83",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@biopharmasynthetics83.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00084",
+    "name": "Apex Polymers 84",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@apexpolymers84.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00085",
+    "name": "Sterling Fine Chem 85",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@sterlingfinechem85.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-26T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00086",
+    "name": "Alps Purifications 86",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@alpspurifications86.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00087",
+    "name": "Alps Purifications 87",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@alpspurifications87.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00088",
+    "name": "Nova Biochemical 88",
+    "tier": "TIER_3",
+    "country": "GBR",
+    "contact_email": "compliance@novabiochemical88.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00089",
+    "name": "Sterling Fine Chem 89",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@sterlingfinechem89.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00090",
+    "name": "Starlight Actives 90",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@starlightactives90.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00091",
+    "name": "Vanguard BioSciences 91",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@vanguardbiosciences91.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00092",
+    "name": "Nova Biochemical 92",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@novabiochemical92.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00093",
+    "name": "Helvetia Pharma 93",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@helvetiapharma93.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-07-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00094",
+    "name": "Sterling Fine Chem 94",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@sterlingfinechem94.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00095",
+    "name": "Continental Reagents 95",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@continentalreagents95.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-11-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00096",
+    "name": "Alps Purifications 96",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@alpspurifications96.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00097",
+    "name": "BioPharma Synthetics 97",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@biopharmasynthetics97.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00098",
+    "name": "Pacific BioAg 98",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@pacificbioag98.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00099",
+    "name": "Alps Purifications 99",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@alpspurifications99.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00100",
+    "name": "Helvetia Pharma 100",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@helvetiapharma100.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00101",
+    "name": "Helvetia Pharma 101",
+    "tier": "TIER_3",
+    "country": "CAN",
+    "contact_email": "compliance@helvetiapharma101.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00102",
+    "name": "Vanguard BioSciences 102",
+    "tier": "TIER_3",
+    "country": "DEU",
+    "contact_email": "compliance@vanguardbiosciences102.com",
+    "status": "SUSPENDED",
+    "created_at": "2025-06-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00103",
+    "name": "Nova Biochemical 103",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@novabiochemical103.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00104",
+    "name": "Nova Biochemical 104",
+    "tier": "TIER_3",
+    "country": "DNK",
+    "contact_email": "compliance@novabiochemical104.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-26T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00105",
+    "name": "Vanguard BioSciences 105",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@vanguardbiosciences105.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00106",
+    "name": "Kyoto Solvents 106",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@kyotosolvents106.com",
+    "status": "CONDITIONAL",
+    "created_at": "2023-11-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00107",
+    "name": "Helvetia Pharma 107",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@helvetiapharma107.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00108",
+    "name": "Pacific BioAg 108",
+    "tier": "TIER_3",
+    "country": "IRL",
+    "contact_email": "compliance@pacificbioag108.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00109",
+    "name": "Kyoto Solvents 109",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@kyotosolvents109.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-12-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00110",
+    "name": "Continental Reagents 110",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@continentalreagents110.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00111",
+    "name": "Helvetia Pharma 111",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@helvetiapharma111.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00112",
+    "name": "Starlight Actives 112",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@starlightactives112.com",
+    "status": "CONDITIONAL",
+    "created_at": "2023-12-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00113",
+    "name": "Pacific BioAg 113",
+    "tier": "TIER_3",
+    "country": "GBR",
+    "contact_email": "compliance@pacificbioag113.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-03-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00114",
+    "name": "Alps Purifications 114",
+    "tier": "TIER_3",
+    "country": "IRL",
+    "contact_email": "compliance@alpspurifications114.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00115",
+    "name": "Continental Reagents 115",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@continentalreagents115.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00116",
+    "name": "Apex Polymers 116",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@apexpolymers116.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00117",
+    "name": "Continental Reagents 117",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@continentalreagents117.com",
+    "status": "CONDITIONAL",
+    "created_at": "2023-11-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00118",
+    "name": "Sterling Fine Chem 118",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@sterlingfinechem118.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-02-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00119",
+    "name": "Nordic Chemical Labs 119",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@nordicchemicallabs119.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00120",
+    "name": "Vanguard BioSciences 120",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@vanguardbiosciences120.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00121",
+    "name": "Nova Biochemical 121",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical121.com",
+    "status": "SUSPENDED",
+    "created_at": "2025-04-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00122",
+    "name": "BioPharma Synthetics 122",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@biopharmasynthetics122.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00123",
+    "name": "Helvetia Pharma 123",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@helvetiapharma123.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00124",
+    "name": "Starlight Actives 124",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@starlightactives124.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00125",
+    "name": "Nova Biochemical 125",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@novabiochemical125.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00126",
+    "name": "Continental Reagents 126",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@continentalreagents126.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00127",
+    "name": "Nordic Chemical Labs 127",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@nordicchemicallabs127.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00128",
+    "name": "Kyoto Solvents 128",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@kyotosolvents128.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-26T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00129",
+    "name": "BioPharma Synthetics 129",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@biopharmasynthetics129.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00130",
+    "name": "Alps Purifications 130",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@alpspurifications130.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00131",
+    "name": "Sterling Fine Chem 131",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@sterlingfinechem131.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-02-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00132",
+    "name": "Helvetia Pharma 132",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@helvetiapharma132.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00133",
+    "name": "Helvetia Pharma 133",
+    "tier": "TIER_3",
+    "country": "CHE",
+    "contact_email": "compliance@helvetiapharma133.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00134",
+    "name": "Kyoto Solvents 134",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@kyotosolvents134.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00135",
+    "name": "Starlight Actives 135",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@starlightactives135.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00136",
+    "name": "Kyoto Solvents 136",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@kyotosolvents136.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00137",
+    "name": "Sterling Fine Chem 137",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@sterlingfinechem137.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00138",
+    "name": "Kyoto Solvents 138",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@kyotosolvents138.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00139",
+    "name": "Apex Polymers 139",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@apexpolymers139.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00140",
+    "name": "BioPharma Synthetics 140",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@biopharmasynthetics140.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-03-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00141",
+    "name": "Pacific BioAg 141",
+    "tier": "TIER_3",
+    "country": "JPN",
+    "contact_email": "compliance@pacificbioag141.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00142",
+    "name": "Sterling Fine Chem 142",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@sterlingfinechem142.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00143",
+    "name": "BioPharma Synthetics 143",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@biopharmasynthetics143.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00144",
+    "name": "Continental Reagents 144",
+    "tier": "TIER_3",
+    "country": "CHE",
+    "contact_email": "compliance@continentalreagents144.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00145",
+    "name": "Helvetia Pharma 145",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@helvetiapharma145.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00146",
+    "name": "Alps Purifications 146",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@alpspurifications146.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-04-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00147",
+    "name": "Continental Reagents 147",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@continentalreagents147.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-06-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00148",
+    "name": "Sterling Fine Chem 148",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@sterlingfinechem148.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00149",
+    "name": "Helvetia Pharma 149",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@helvetiapharma149.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00150",
+    "name": "Alps Purifications 150",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@alpspurifications150.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00151",
+    "name": "Kyoto Solvents 151",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@kyotosolvents151.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00152",
+    "name": "Starlight Actives 152",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@starlightactives152.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-03-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00153",
+    "name": "Alps Purifications 153",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@alpspurifications153.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00154",
+    "name": "Continental Reagents 154",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@continentalreagents154.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00155",
+    "name": "BioPharma Synthetics 155",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@biopharmasynthetics155.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00156",
+    "name": "Pacific BioAg 156",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@pacificbioag156.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-09-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00157",
+    "name": "Apex Polymers 157",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@apexpolymers157.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00158",
+    "name": "Nova Biochemical 158",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@novabiochemical158.com",
+    "status": "SUSPENDED",
+    "created_at": "2025-05-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00159",
+    "name": "Nordic Chemical Labs 159",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@nordicchemicallabs159.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00160",
+    "name": "Nordic Chemical Labs 160",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@nordicchemicallabs160.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00161",
+    "name": "Vanguard BioSciences 161",
+    "tier": "TIER_3",
+    "country": "USA",
+    "contact_email": "compliance@vanguardbiosciences161.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00162",
+    "name": "Nova Biochemical 162",
+    "tier": "TIER_3",
+    "country": "JPN",
+    "contact_email": "compliance@novabiochemical162.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00163",
+    "name": "Apex Polymers 163",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@apexpolymers163.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00164",
+    "name": "Apex Polymers 164",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@apexpolymers164.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00165",
+    "name": "Nova Biochemical 165",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@novabiochemical165.com",
+    "status": "SUSPENDED",
+    "created_at": "2025-06-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00166",
+    "name": "Pacific BioAg 166",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@pacificbioag166.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00167",
+    "name": "Continental Reagents 167",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@continentalreagents167.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00168",
+    "name": "Vanguard BioSciences 168",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@vanguardbiosciences168.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-05-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00169",
+    "name": "Continental Reagents 169",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@continentalreagents169.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00170",
+    "name": "Pacific BioAg 170",
+    "tier": "TIER_3",
+    "country": "CAN",
+    "contact_email": "compliance@pacificbioag170.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00171",
+    "name": "Apex Polymers 171",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@apexpolymers171.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00172",
+    "name": "BioPharma Synthetics 172",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@biopharmasynthetics172.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00173",
+    "name": "Alps Purifications 173",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@alpspurifications173.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00174",
+    "name": "Alps Purifications 174",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@alpspurifications174.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-05-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00175",
+    "name": "Starlight Actives 175",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@starlightactives175.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00176",
+    "name": "Nova Biochemical 176",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@novabiochemical176.com",
+    "status": "SUSPENDED",
+    "created_at": "2024-03-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00177",
+    "name": "Nordic Chemical Labs 177",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@nordicchemicallabs177.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00178",
+    "name": "Nova Biochemical 178",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@novabiochemical178.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00179",
+    "name": "Nordic Chemical Labs 179",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@nordicchemicallabs179.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00180",
+    "name": "Sterling Fine Chem 180",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@sterlingfinechem180.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00181",
+    "name": "Nova Biochemical 181",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical181.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00182",
+    "name": "Sterling Fine Chem 182",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@sterlingfinechem182.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00183",
+    "name": "BioPharma Synthetics 183",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@biopharmasynthetics183.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00184",
+    "name": "Sterling Fine Chem 184",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@sterlingfinechem184.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00185",
+    "name": "Apex Polymers 185",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@apexpolymers185.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00186",
+    "name": "Pacific BioAg 186",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@pacificbioag186.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00187",
+    "name": "Nordic Chemical Labs 187",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@nordicchemicallabs187.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00188",
+    "name": "Starlight Actives 188",
+    "tier": "TIER_3",
+    "country": "DNK",
+    "contact_email": "compliance@starlightactives188.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00189",
+    "name": "Vanguard BioSciences 189",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@vanguardbiosciences189.com",
+    "status": "SUSPENDED",
+    "created_at": "2024-10-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00190",
+    "name": "Pacific BioAg 190",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@pacificbioag190.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00191",
+    "name": "Nordic Chemical Labs 191",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@nordicchemicallabs191.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00192",
+    "name": "Apex Polymers 192",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@apexpolymers192.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00193",
+    "name": "Helvetia Pharma 193",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@helvetiapharma193.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00194",
+    "name": "Alps Purifications 194",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@alpspurifications194.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00195",
+    "name": "Vanguard BioSciences 195",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@vanguardbiosciences195.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00196",
+    "name": "Vanguard BioSciences 196",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@vanguardbiosciences196.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00197",
+    "name": "Kyoto Solvents 197",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@kyotosolvents197.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-02-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00198",
+    "name": "Nova Biochemical 198",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@novabiochemical198.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00199",
+    "name": "BioPharma Synthetics 199",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@biopharmasynthetics199.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-10-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00200",
+    "name": "Continental Reagents 200",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@continentalreagents200.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00201",
+    "name": "Nordic Chemical Labs 201",
+    "tier": "TIER_3",
+    "country": "DEU",
+    "contact_email": "compliance@nordicchemicallabs201.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00202",
+    "name": "Continental Reagents 202",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@continentalreagents202.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00203",
+    "name": "Vanguard BioSciences 203",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@vanguardbiosciences203.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00204",
+    "name": "Pacific BioAg 204",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@pacificbioag204.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-01-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00205",
+    "name": "Sterling Fine Chem 205",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@sterlingfinechem205.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-06-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00206",
+    "name": "BioPharma Synthetics 206",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@biopharmasynthetics206.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00207",
+    "name": "Continental Reagents 207",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@continentalreagents207.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-10-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00208",
+    "name": "Continental Reagents 208",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@continentalreagents208.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00209",
+    "name": "Vanguard BioSciences 209",
+    "tier": "TIER_3",
+    "country": "DEU",
+    "contact_email": "compliance@vanguardbiosciences209.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00210",
+    "name": "Nova Biochemical 210",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical210.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00211",
+    "name": "Helvetia Pharma 211",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@helvetiapharma211.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-12-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00212",
+    "name": "Kyoto Solvents 212",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@kyotosolvents212.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00213",
+    "name": "Nova Biochemical 213",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical213.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00214",
+    "name": "Helvetia Pharma 214",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@helvetiapharma214.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00215",
+    "name": "Sterling Fine Chem 215",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@sterlingfinechem215.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00216",
+    "name": "Kyoto Solvents 216",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@kyotosolvents216.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00217",
+    "name": "Apex Polymers 217",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@apexpolymers217.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00218",
+    "name": "Kyoto Solvents 218",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@kyotosolvents218.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-26T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00219",
+    "name": "BioPharma Synthetics 219",
+    "tier": "TIER_3",
+    "country": "DNK",
+    "contact_email": "compliance@biopharmasynthetics219.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-01-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00220",
+    "name": "Starlight Actives 220",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@starlightactives220.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00221",
+    "name": "BioPharma Synthetics 221",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@biopharmasynthetics221.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00222",
+    "name": "Pacific BioAg 222",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@pacificbioag222.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00223",
+    "name": "Alps Purifications 223",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@alpspurifications223.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00224",
+    "name": "Vanguard BioSciences 224",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@vanguardbiosciences224.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00225",
+    "name": "Sterling Fine Chem 225",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@sterlingfinechem225.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00226",
+    "name": "Nordic Chemical Labs 226",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@nordicchemicallabs226.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00227",
+    "name": "Sterling Fine Chem 227",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@sterlingfinechem227.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00228",
+    "name": "Starlight Actives 228",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@starlightactives228.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00229",
+    "name": "Starlight Actives 229",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@starlightactives229.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00230",
+    "name": "Apex Polymers 230",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@apexpolymers230.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00231",
+    "name": "Apex Polymers 231",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@apexpolymers231.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00232",
+    "name": "Nova Biochemical 232",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@novabiochemical232.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00233",
+    "name": "Pacific BioAg 233",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@pacificbioag233.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00234",
+    "name": "Sterling Fine Chem 234",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@sterlingfinechem234.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00235",
+    "name": "BioPharma Synthetics 235",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@biopharmasynthetics235.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00236",
+    "name": "Vanguard BioSciences 236",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@vanguardbiosciences236.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00237",
+    "name": "Kyoto Solvents 237",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@kyotosolvents237.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-31T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00238",
+    "name": "Vanguard BioSciences 238",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@vanguardbiosciences238.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00239",
+    "name": "BioPharma Synthetics 239",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@biopharmasynthetics239.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00240",
+    "name": "Apex Polymers 240",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@apexpolymers240.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00241",
+    "name": "BioPharma Synthetics 241",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@biopharmasynthetics241.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00242",
+    "name": "Continental Reagents 242",
+    "tier": "TIER_3",
+    "country": "CHE",
+    "contact_email": "compliance@continentalreagents242.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00243",
+    "name": "Kyoto Solvents 243",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@kyotosolvents243.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00244",
+    "name": "Apex Polymers 244",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@apexpolymers244.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00245",
+    "name": "BioPharma Synthetics 245",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@biopharmasynthetics245.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-05-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00246",
+    "name": "Pacific BioAg 246",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@pacificbioag246.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00247",
+    "name": "Pacific BioAg 247",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@pacificbioag247.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-04-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00248",
+    "name": "Nordic Chemical Labs 248",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@nordicchemicallabs248.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-10-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00249",
+    "name": "Sterling Fine Chem 249",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@sterlingfinechem249.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00250",
+    "name": "Starlight Actives 250",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@starlightactives250.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00251",
+    "name": "Nordic Chemical Labs 251",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@nordicchemicallabs251.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-05-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00252",
+    "name": "Nova Biochemical 252",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@novabiochemical252.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00253",
+    "name": "Continental Reagents 253",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@continentalreagents253.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00254",
+    "name": "Pacific BioAg 254",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@pacificbioag254.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00255",
+    "name": "Sterling Fine Chem 255",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@sterlingfinechem255.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00256",
+    "name": "Nordic Chemical Labs 256",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@nordicchemicallabs256.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00257",
+    "name": "Alps Purifications 257",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@alpspurifications257.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00258",
+    "name": "Starlight Actives 258",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@starlightactives258.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00259",
+    "name": "Vanguard BioSciences 259",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@vanguardbiosciences259.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00260",
+    "name": "Pacific BioAg 260",
+    "tier": "TIER_3",
+    "country": "GBR",
+    "contact_email": "compliance@pacificbioag260.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-02-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00261",
+    "name": "Continental Reagents 261",
+    "tier": "TIER_3",
+    "country": "GBR",
+    "contact_email": "compliance@continentalreagents261.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00262",
+    "name": "Helvetia Pharma 262",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@helvetiapharma262.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00263",
+    "name": "Alps Purifications 263",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@alpspurifications263.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00264",
+    "name": "Nordic Chemical Labs 264",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@nordicchemicallabs264.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00265",
+    "name": "Helvetia Pharma 265",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@helvetiapharma265.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00266",
+    "name": "Helvetia Pharma 266",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@helvetiapharma266.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00267",
+    "name": "Apex Polymers 267",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@apexpolymers267.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00268",
+    "name": "Vanguard BioSciences 268",
+    "tier": "TIER_3",
+    "country": "USA",
+    "contact_email": "compliance@vanguardbiosciences268.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00269",
+    "name": "Nova Biochemical 269",
+    "tier": "TIER_3",
+    "country": "DNK",
+    "contact_email": "compliance@novabiochemical269.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00270",
+    "name": "Sterling Fine Chem 270",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@sterlingfinechem270.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00271",
+    "name": "Alps Purifications 271",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@alpspurifications271.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00272",
+    "name": "Starlight Actives 272",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@starlightactives272.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00273",
+    "name": "Starlight Actives 273",
+    "tier": "TIER_3",
+    "country": "JPN",
+    "contact_email": "compliance@starlightactives273.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00274",
+    "name": "Continental Reagents 274",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@continentalreagents274.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00275",
+    "name": "Nordic Chemical Labs 275",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@nordicchemicallabs275.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00276",
+    "name": "Helvetia Pharma 276",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@helvetiapharma276.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00277",
+    "name": "Alps Purifications 277",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@alpspurifications277.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00278",
+    "name": "Vanguard BioSciences 278",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@vanguardbiosciences278.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00279",
+    "name": "Pacific BioAg 279",
+    "tier": "TIER_3",
+    "country": "USA",
+    "contact_email": "compliance@pacificbioag279.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00280",
+    "name": "Nordic Chemical Labs 280",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@nordicchemicallabs280.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00281",
+    "name": "Starlight Actives 281",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@starlightactives281.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00282",
+    "name": "Sterling Fine Chem 282",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@sterlingfinechem282.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00283",
+    "name": "Nordic Chemical Labs 283",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@nordicchemicallabs283.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00284",
+    "name": "Helvetia Pharma 284",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@helvetiapharma284.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00285",
+    "name": "Apex Polymers 285",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@apexpolymers285.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-09-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00286",
+    "name": "Vanguard BioSciences 286",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@vanguardbiosciences286.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00287",
+    "name": "Continental Reagents 287",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@continentalreagents287.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00288",
+    "name": "BioPharma Synthetics 288",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@biopharmasynthetics288.com",
+    "status": "SUSPENDED",
+    "created_at": "2025-05-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00289",
+    "name": "Nova Biochemical 289",
+    "tier": "TIER_3",
+    "country": "DNK",
+    "contact_email": "compliance@novabiochemical289.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00290",
+    "name": "Nova Biochemical 290",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@novabiochemical290.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00291",
+    "name": "Pacific BioAg 291",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@pacificbioag291.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00292",
+    "name": "Apex Polymers 292",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@apexpolymers292.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00293",
+    "name": "Helvetia Pharma 293",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@helvetiapharma293.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00294",
+    "name": "Continental Reagents 294",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@continentalreagents294.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00295",
+    "name": "Continental Reagents 295",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@continentalreagents295.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-12-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00296",
+    "name": "Kyoto Solvents 296",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@kyotosolvents296.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00297",
+    "name": "Nordic Chemical Labs 297",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@nordicchemicallabs297.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00298",
+    "name": "Pacific BioAg 298",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@pacificbioag298.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00299",
+    "name": "Vanguard BioSciences 299",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@vanguardbiosciences299.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00300",
+    "name": "Vanguard BioSciences 300",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@vanguardbiosciences300.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00301",
+    "name": "Nova Biochemical 301",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@novabiochemical301.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00302",
+    "name": "Helvetia Pharma 302",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@helvetiapharma302.com",
+    "status": "SUSPENDED",
+    "created_at": "2024-04-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00303",
+    "name": "Sterling Fine Chem 303",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@sterlingfinechem303.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00304",
+    "name": "Pacific BioAg 304",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@pacificbioag304.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00305",
+    "name": "Apex Polymers 305",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@apexpolymers305.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00306",
+    "name": "Vanguard BioSciences 306",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@vanguardbiosciences306.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-31T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00307",
+    "name": "BioPharma Synthetics 307",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@biopharmasynthetics307.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00308",
+    "name": "Alps Purifications 308",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@alpspurifications308.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00309",
+    "name": "Nova Biochemical 309",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@novabiochemical309.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00310",
+    "name": "Helvetia Pharma 310",
+    "tier": "TIER_3",
+    "country": "CAN",
+    "contact_email": "compliance@helvetiapharma310.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00311",
+    "name": "Helvetia Pharma 311",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@helvetiapharma311.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00312",
+    "name": "Starlight Actives 312",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@starlightactives312.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00313",
+    "name": "Sterling Fine Chem 313",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@sterlingfinechem313.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00314",
+    "name": "Apex Polymers 314",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@apexpolymers314.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00315",
+    "name": "Pacific BioAg 315",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@pacificbioag315.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00316",
+    "name": "BioPharma Synthetics 316",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@biopharmasynthetics316.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00317",
+    "name": "Kyoto Solvents 317",
+    "tier": "TIER_3",
+    "country": "CAN",
+    "contact_email": "compliance@kyotosolvents317.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00318",
+    "name": "Vanguard BioSciences 318",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@vanguardbiosciences318.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00319",
+    "name": "Sterling Fine Chem 319",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@sterlingfinechem319.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00320",
+    "name": "Starlight Actives 320",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@starlightactives320.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00321",
+    "name": "Apex Polymers 321",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@apexpolymers321.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00322",
+    "name": "Vanguard BioSciences 322",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@vanguardbiosciences322.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00323",
+    "name": "BioPharma Synthetics 323",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@biopharmasynthetics323.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00324",
+    "name": "Kyoto Solvents 324",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@kyotosolvents324.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00325",
+    "name": "Nordic Chemical Labs 325",
+    "tier": "TIER_3",
+    "country": "GBR",
+    "contact_email": "compliance@nordicchemicallabs325.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00326",
+    "name": "Starlight Actives 326",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@starlightactives326.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00327",
+    "name": "Sterling Fine Chem 327",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@sterlingfinechem327.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00328",
+    "name": "Pacific BioAg 328",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@pacificbioag328.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00329",
+    "name": "Helvetia Pharma 329",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@helvetiapharma329.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00330",
+    "name": "Nordic Chemical Labs 330",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@nordicchemicallabs330.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00331",
+    "name": "Nova Biochemical 331",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@novabiochemical331.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00332",
+    "name": "Pacific BioAg 332",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@pacificbioag332.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00333",
+    "name": "Kyoto Solvents 333",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@kyotosolvents333.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-03-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00334",
+    "name": "Alps Purifications 334",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@alpspurifications334.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00335",
+    "name": "Apex Polymers 335",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@apexpolymers335.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00336",
+    "name": "Kyoto Solvents 336",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@kyotosolvents336.com",
+    "status": "SUSPENDED",
+    "created_at": "2024-03-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00337",
+    "name": "Sterling Fine Chem 337",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@sterlingfinechem337.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00338",
+    "name": "Continental Reagents 338",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@continentalreagents338.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-02-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00339",
+    "name": "Sterling Fine Chem 339",
+    "tier": "TIER_3",
+    "country": "USA",
+    "contact_email": "compliance@sterlingfinechem339.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00340",
+    "name": "Pacific BioAg 340",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@pacificbioag340.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00341",
+    "name": "Helvetia Pharma 341",
+    "tier": "TIER_3",
+    "country": "IRL",
+    "contact_email": "compliance@helvetiapharma341.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00342",
+    "name": "Apex Polymers 342",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@apexpolymers342.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-07-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00343",
+    "name": "Nordic Chemical Labs 343",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@nordicchemicallabs343.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00344",
+    "name": "Nova Biochemical 344",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical344.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00345",
+    "name": "Nordic Chemical Labs 345",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@nordicchemicallabs345.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00346",
+    "name": "Vanguard BioSciences 346",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@vanguardbiosciences346.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00347",
+    "name": "Nova Biochemical 347",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@novabiochemical347.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00348",
+    "name": "Nova Biochemical 348",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@novabiochemical348.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00349",
+    "name": "Vanguard BioSciences 349",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@vanguardbiosciences349.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-10-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00350",
+    "name": "Kyoto Solvents 350",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@kyotosolvents350.com",
+    "status": "CONDITIONAL",
+    "created_at": "2023-12-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00351",
+    "name": "Starlight Actives 351",
+    "tier": "TIER_3",
+    "country": "JPN",
+    "contact_email": "compliance@starlightactives351.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00352",
+    "name": "Alps Purifications 352",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@alpspurifications352.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00353",
+    "name": "Starlight Actives 353",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@starlightactives353.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00354",
+    "name": "Starlight Actives 354",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@starlightactives354.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00355",
+    "name": "Helvetia Pharma 355",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@helvetiapharma355.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00356",
+    "name": "Helvetia Pharma 356",
+    "tier": "TIER_3",
+    "country": "CHE",
+    "contact_email": "compliance@helvetiapharma356.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00357",
+    "name": "Vanguard BioSciences 357",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@vanguardbiosciences357.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-31T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00358",
+    "name": "Helvetia Pharma 358",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@helvetiapharma358.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00359",
+    "name": "BioPharma Synthetics 359",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@biopharmasynthetics359.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00360",
+    "name": "Vanguard BioSciences 360",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@vanguardbiosciences360.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00361",
+    "name": "Vanguard BioSciences 361",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@vanguardbiosciences361.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-26T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00362",
+    "name": "Kyoto Solvents 362",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@kyotosolvents362.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-09-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00363",
+    "name": "Sterling Fine Chem 363",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@sterlingfinechem363.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00364",
+    "name": "Helvetia Pharma 364",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@helvetiapharma364.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00365",
+    "name": "BioPharma Synthetics 365",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@biopharmasynthetics365.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00366",
+    "name": "Kyoto Solvents 366",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@kyotosolvents366.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00367",
+    "name": "Starlight Actives 367",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@starlightactives367.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00368",
+    "name": "BioPharma Synthetics 368",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@biopharmasynthetics368.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00369",
+    "name": "Apex Polymers 369",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@apexpolymers369.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-10-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00370",
+    "name": "Apex Polymers 370",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@apexpolymers370.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00371",
+    "name": "Nova Biochemical 371",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@novabiochemical371.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00372",
+    "name": "Helvetia Pharma 372",
+    "tier": "TIER_3",
+    "country": "DNK",
+    "contact_email": "compliance@helvetiapharma372.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00373",
+    "name": "Helvetia Pharma 373",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@helvetiapharma373.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00374",
+    "name": "Pacific BioAg 374",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@pacificbioag374.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00375",
+    "name": "Alps Purifications 375",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@alpspurifications375.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-26T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00376",
+    "name": "BioPharma Synthetics 376",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@biopharmasynthetics376.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-31T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00377",
+    "name": "Sterling Fine Chem 377",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@sterlingfinechem377.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00378",
+    "name": "Continental Reagents 378",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@continentalreagents378.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-09-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00379",
+    "name": "Helvetia Pharma 379",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@helvetiapharma379.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00380",
+    "name": "Apex Polymers 380",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@apexpolymers380.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00381",
+    "name": "Sterling Fine Chem 381",
+    "tier": "TIER_3",
+    "country": "IRL",
+    "contact_email": "compliance@sterlingfinechem381.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00382",
+    "name": "Vanguard BioSciences 382",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@vanguardbiosciences382.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00383",
+    "name": "Nova Biochemical 383",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@novabiochemical383.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00384",
+    "name": "Nova Biochemical 384",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical384.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00385",
+    "name": "Kyoto Solvents 385",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@kyotosolvents385.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00386",
+    "name": "Vanguard BioSciences 386",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@vanguardbiosciences386.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00387",
+    "name": "Continental Reagents 387",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@continentalreagents387.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-03-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00388",
+    "name": "Alps Purifications 388",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@alpspurifications388.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-06-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00389",
+    "name": "Helvetia Pharma 389",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@helvetiapharma389.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00390",
+    "name": "Apex Polymers 390",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@apexpolymers390.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00391",
+    "name": "Alps Purifications 391",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@alpspurifications391.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00392",
+    "name": "Sterling Fine Chem 392",
+    "tier": "TIER_3",
+    "country": "USA",
+    "contact_email": "compliance@sterlingfinechem392.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00393",
+    "name": "BioPharma Synthetics 393",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@biopharmasynthetics393.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00394",
+    "name": "Helvetia Pharma 394",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@helvetiapharma394.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-10-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00395",
+    "name": "BioPharma Synthetics 395",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@biopharmasynthetics395.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00396",
+    "name": "Pacific BioAg 396",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@pacificbioag396.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00397",
+    "name": "Vanguard BioSciences 397",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@vanguardbiosciences397.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00398",
+    "name": "Nordic Chemical Labs 398",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@nordicchemicallabs398.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00399",
+    "name": "Apex Polymers 399",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@apexpolymers399.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00400",
+    "name": "Pacific BioAg 400",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@pacificbioag400.com",
+    "status": "SUSPENDED",
+    "created_at": "2025-01-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00401",
+    "name": "Apex Polymers 401",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@apexpolymers401.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00402",
+    "name": "Nordic Chemical Labs 402",
+    "tier": "TIER_3",
+    "country": "JPN",
+    "contact_email": "compliance@nordicchemicallabs402.com",
+    "status": "CONDITIONAL",
+    "created_at": "2023-12-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00403",
+    "name": "Pacific BioAg 403",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@pacificbioag403.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00404",
+    "name": "Pacific BioAg 404",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@pacificbioag404.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-01-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00405",
+    "name": "BioPharma Synthetics 405",
+    "tier": "TIER_3",
+    "country": "CAN",
+    "contact_email": "compliance@biopharmasynthetics405.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-14T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00406",
+    "name": "Vanguard BioSciences 406",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@vanguardbiosciences406.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00407",
+    "name": "Pacific BioAg 407",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@pacificbioag407.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00408",
+    "name": "Vanguard BioSciences 408",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@vanguardbiosciences408.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-03-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00409",
+    "name": "Sterling Fine Chem 409",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@sterlingfinechem409.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-06T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00410",
+    "name": "Vanguard BioSciences 410",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@vanguardbiosciences410.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00411",
+    "name": "Starlight Actives 411",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@starlightactives411.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-11-29T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00412",
+    "name": "Nordic Chemical Labs 412",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@nordicchemicallabs412.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-11-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00413",
+    "name": "Sterling Fine Chem 413",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@sterlingfinechem413.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00414",
+    "name": "Apex Polymers 414",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@apexpolymers414.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-01-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00415",
+    "name": "Nova Biochemical 415",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical415.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00416",
+    "name": "Helvetia Pharma 416",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@helvetiapharma416.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00417",
+    "name": "Helvetia Pharma 417",
+    "tier": "TIER_3",
+    "country": "GBR",
+    "contact_email": "compliance@helvetiapharma417.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00418",
+    "name": "Nordic Chemical Labs 418",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@nordicchemicallabs418.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00419",
+    "name": "Sterling Fine Chem 419",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@sterlingfinechem419.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00420",
+    "name": "Nova Biochemical 420",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@novabiochemical420.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00421",
+    "name": "Starlight Actives 421",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@starlightactives421.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00422",
+    "name": "Starlight Actives 422",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@starlightactives422.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00423",
+    "name": "BioPharma Synthetics 423",
+    "tier": "TIER_2",
+    "country": "GBR",
+    "contact_email": "compliance@biopharmasynthetics423.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-15T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00424",
+    "name": "Pacific BioAg 424",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@pacificbioag424.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00425",
+    "name": "BioPharma Synthetics 425",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@biopharmasynthetics425.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00426",
+    "name": "Continental Reagents 426",
+    "tier": "TIER_3",
+    "country": "IRL",
+    "contact_email": "compliance@continentalreagents426.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00427",
+    "name": "Continental Reagents 427",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@continentalreagents427.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-12T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00428",
+    "name": "BioPharma Synthetics 428",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@biopharmasynthetics428.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00429",
+    "name": "Pacific BioAg 429",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@pacificbioag429.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00430",
+    "name": "Nordic Chemical Labs 430",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@nordicchemicallabs430.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00431",
+    "name": "Helvetia Pharma 431",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@helvetiapharma431.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00432",
+    "name": "BioPharma Synthetics 432",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@biopharmasynthetics432.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00433",
+    "name": "Nordic Chemical Labs 433",
+    "tier": "TIER_3",
+    "country": "CAN",
+    "contact_email": "compliance@nordicchemicallabs433.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00434",
+    "name": "BioPharma Synthetics 434",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@biopharmasynthetics434.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00435",
+    "name": "Nordic Chemical Labs 435",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@nordicchemicallabs435.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00436",
+    "name": "Nordic Chemical Labs 436",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@nordicchemicallabs436.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00437",
+    "name": "Vanguard BioSciences 437",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@vanguardbiosciences437.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-26T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00438",
+    "name": "Alps Purifications 438",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@alpspurifications438.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00439",
+    "name": "Vanguard BioSciences 439",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@vanguardbiosciences439.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-02-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00440",
+    "name": "Sterling Fine Chem 440",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@sterlingfinechem440.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-27T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00441",
+    "name": "Sterling Fine Chem 441",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@sterlingfinechem441.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00442",
+    "name": "BioPharma Synthetics 442",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@biopharmasynthetics442.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-02-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00443",
+    "name": "Pacific BioAg 443",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@pacificbioag443.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00444",
+    "name": "Nova Biochemical 444",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@novabiochemical444.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00445",
+    "name": "Sterling Fine Chem 445",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@sterlingfinechem445.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00446",
+    "name": "Pacific BioAg 446",
+    "tier": "TIER_3",
+    "country": "CHE",
+    "contact_email": "compliance@pacificbioag446.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00447",
+    "name": "Nova Biochemical 447",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@novabiochemical447.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00448",
+    "name": "Apex Polymers 448",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@apexpolymers448.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00449",
+    "name": "Pacific BioAg 449",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@pacificbioag449.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-05-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00450",
+    "name": "Starlight Actives 450",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@starlightactives450.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-04-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00451",
+    "name": "Alps Purifications 451",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@alpspurifications451.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00452",
+    "name": "Apex Polymers 452",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@apexpolymers452.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-06-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00453",
+    "name": "Alps Purifications 453",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@alpspurifications453.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00454",
+    "name": "Nova Biochemical 454",
+    "tier": "TIER_2",
+    "country": "JPN",
+    "contact_email": "compliance@novabiochemical454.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00455",
+    "name": "Nordic Chemical Labs 455",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@nordicchemicallabs455.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-02-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00456",
+    "name": "Pacific BioAg 456",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@pacificbioag456.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00457",
+    "name": "Pacific BioAg 457",
+    "tier": "TIER_3",
+    "country": "CAN",
+    "contact_email": "compliance@pacificbioag457.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-06-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00458",
+    "name": "Continental Reagents 458",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@continentalreagents458.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00459",
+    "name": "Nordic Chemical Labs 459",
+    "tier": "TIER_2",
+    "country": "CHE",
+    "contact_email": "compliance@nordicchemicallabs459.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-07T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00460",
+    "name": "Kyoto Solvents 460",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@kyotosolvents460.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-03-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00461",
+    "name": "Apex Polymers 461",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@apexpolymers461.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00462",
+    "name": "Starlight Actives 462",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@starlightactives462.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00463",
+    "name": "Pacific BioAg 463",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@pacificbioag463.com",
+    "status": "SUSPENDED",
+    "created_at": "2023-12-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00464",
+    "name": "Continental Reagents 464",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@continentalreagents464.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-01T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00465",
+    "name": "BioPharma Synthetics 465",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@biopharmasynthetics465.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00466",
+    "name": "Helvetia Pharma 466",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@helvetiapharma466.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00467",
+    "name": "BioPharma Synthetics 467",
+    "tier": "TIER_1",
+    "country": "GBR",
+    "contact_email": "compliance@biopharmasynthetics467.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-06-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00468",
+    "name": "Kyoto Solvents 468",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@kyotosolvents468.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-02-18T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00469",
+    "name": "Sterling Fine Chem 469",
+    "tier": "TIER_1",
+    "country": "CAN",
+    "contact_email": "compliance@sterlingfinechem469.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-11-28T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00470",
+    "name": "Kyoto Solvents 470",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@kyotosolvents470.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00471",
+    "name": "Nova Biochemical 471",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@novabiochemical471.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00472",
+    "name": "Vanguard BioSciences 472",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@vanguardbiosciences472.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-03T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00473",
+    "name": "Sterling Fine Chem 473",
+    "tier": "TIER_1",
+    "country": "USA",
+    "contact_email": "compliance@sterlingfinechem473.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00474",
+    "name": "Alps Purifications 474",
+    "tier": "TIER_2",
+    "country": "SGP",
+    "contact_email": "compliance@alpspurifications474.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-06-13T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00475",
+    "name": "Alps Purifications 475",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@alpspurifications475.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-24T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00476",
+    "name": "Continental Reagents 476",
+    "tier": "TIER_3",
+    "country": "CAN",
+    "contact_email": "compliance@continentalreagents476.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-03-25T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00477",
+    "name": "Vanguard BioSciences 477",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@vanguardbiosciences477.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-01-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00478",
+    "name": "Pacific BioAg 478",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@pacificbioag478.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00479",
+    "name": "Sterling Fine Chem 479",
+    "tier": "TIER_2",
+    "country": "DNK",
+    "contact_email": "compliance@sterlingfinechem479.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-07-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00480",
+    "name": "Continental Reagents 480",
+    "tier": "TIER_3",
+    "country": "JPN",
+    "contact_email": "compliance@continentalreagents480.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00481",
+    "name": "Apex Polymers 481",
+    "tier": "TIER_1",
+    "country": "DEU",
+    "contact_email": "compliance@apexpolymers481.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-11T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00482",
+    "name": "Alps Purifications 482",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@alpspurifications482.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-12-10T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00483",
+    "name": "Vanguard BioSciences 483",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@vanguardbiosciences483.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-03-08T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00484",
+    "name": "Continental Reagents 484",
+    "tier": "TIER_1",
+    "country": "JPN",
+    "contact_email": "compliance@continentalreagents484.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-01-30T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00485",
+    "name": "Kyoto Solvents 485",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@kyotosolvents485.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-04-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00486",
+    "name": "Starlight Actives 486",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@starlightactives486.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-05-22T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00487",
+    "name": "Nova Biochemical 487",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@novabiochemical487.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-08-17T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00488",
+    "name": "Kyoto Solvents 488",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@kyotosolvents488.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-11-02T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00489",
+    "name": "Helvetia Pharma 489",
+    "tier": "TIER_1",
+    "country": "FRA",
+    "contact_email": "compliance@helvetiapharma489.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-12-05T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00490",
+    "name": "Apex Polymers 490",
+    "tier": "TIER_2",
+    "country": "DEU",
+    "contact_email": "compliance@apexpolymers490.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-04-04T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00491",
+    "name": "Pacific BioAg 491",
+    "tier": "TIER_2",
+    "country": "USA",
+    "contact_email": "compliance@pacificbioag491.com",
+    "status": "CONDITIONAL",
+    "created_at": "2023-11-23T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00492",
+    "name": "Helvetia Pharma 492",
+    "tier": "TIER_2",
+    "country": "FRA",
+    "contact_email": "compliance@helvetiapharma492.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-26T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00493",
+    "name": "Vanguard BioSciences 493",
+    "tier": "TIER_1",
+    "country": "CHE",
+    "contact_email": "compliance@vanguardbiosciences493.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00494",
+    "name": "Vanguard BioSciences 494",
+    "tier": "TIER_1",
+    "country": "DNK",
+    "contact_email": "compliance@vanguardbiosciences494.com",
+    "status": "CONDITIONAL",
+    "created_at": "2025-04-09T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00495",
+    "name": "Sterling Fine Chem 495",
+    "tier": "TIER_2",
+    "country": "CAN",
+    "contact_email": "compliance@sterlingfinechem495.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-11-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00496",
+    "name": "BioPharma Synthetics 496",
+    "tier": "TIER_2",
+    "country": "IRL",
+    "contact_email": "compliance@biopharmasynthetics496.com",
+    "status": "CONDITIONAL",
+    "created_at": "2024-03-21T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00497",
+    "name": "Vanguard BioSciences 497",
+    "tier": "TIER_1",
+    "country": "IRL",
+    "contact_email": "compliance@vanguardbiosciences497.com",
+    "status": "QUALIFIED",
+    "created_at": "2025-02-19T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00498",
+    "name": "Helvetia Pharma 498",
+    "tier": "TIER_3",
+    "country": "FRA",
+    "contact_email": "compliance@helvetiapharma498.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-01-16T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00499",
+    "name": "Pacific BioAg 499",
+    "tier": "TIER_1",
+    "country": "SGP",
+    "contact_email": "compliance@pacificbioag499.com",
+    "status": "QUALIFIED",
+    "created_at": "2024-10-20T08:00:00"
+  },
+  {
+    "supplier_id": "SUP-00500",
+    "name": "Starlight Actives 500",
+    "tier": "TIER_3",
+    "country": "SGP",
+    "contact_email": "compliance@starlightactives500.com",
+    "status": "QUALIFIED",
+    "created_at": "2023-12-29T08:00:00"
+  }
+]

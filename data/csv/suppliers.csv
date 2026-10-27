@@ -1,0 +1,51 @@
+supplier_id,name,tier,country,contact_email,status,created_at
+SUP-00001,Continental Reagents 1,TIER_1,DEU,compliance@continentalreagents1.com,QUALIFIED,2025-05-06T08:00:00
+SUP-00002,Kyoto Solvents 2,TIER_1,SGP,compliance@kyotosolvents2.com,QUALIFIED,2025-02-10T08:00:00
+SUP-00003,BioPharma Synthetics 3,TIER_1,DNK,compliance@biopharmasynthetics3.com,QUALIFIED,2025-03-07T08:00:00
+SUP-00004,Nova Biochemical 4,TIER_1,CHE,compliance@novabiochemical4.com,QUALIFIED,2024-11-15T08:00:00
+SUP-00005,Alps Purifications 5,TIER_1,FRA,compliance@alpspurifications5.com,QUALIFIED,2025-01-31T08:00:00
+SUP-00006,Alps Purifications 6,TIER_1,DEU,compliance@alpspurifications6.com,QUALIFIED,2025-01-25T08:00:00
+SUP-00007,Sterling Fine Chem 7,TIER_1,JPN,compliance@sterlingfinechem7.com,QUALIFIED,2024-01-16T08:00:00
+SUP-00008,Pacific BioAg 8,TIER_1,CAN,compliance@pacificbioag8.com,QUALIFIED,2024-04-24T08:00:00
+SUP-00009,Nordic Chemical Labs 9,TIER_1,USA,compliance@nordicchemicallabs9.com,QUALIFIED,2025-02-15T08:00:00
+SUP-00010,Vanguard BioSciences 10,TIER_3,USA,compliance@vanguardbiosciences10.com,QUALIFIED,2025-04-12T08:00:00
+SUP-00011,Starlight Actives 11,TIER_1,USA,compliance@starlightactives11.com,QUALIFIED,2025-03-13T08:00:00
+SUP-00012,Nordic Chemical Labs 12,TIER_1,IRL,compliance@nordicchemicallabs12.com,QUALIFIED,2024-02-19T08:00:00
+SUP-00013,Continental Reagents 13,TIER_1,USA,compliance@continentalreagents13.com,QUALIFIED,2024-06-15T08:00:00
+SUP-00014,BioPharma Synthetics 14,TIER_2,CAN,compliance@biopharmasynthetics14.com,QUALIFIED,2025-06-19T08:00:00
+SUP-00015,Nova Biochemical 15,TIER_1,USA,compliance@novabiochemical15.com,QUALIFIED,2025-01-10T08:00:00
+SUP-00016,Helvetia Pharma 16,TIER_3,SGP,compliance@helvetiapharma16.com,QUALIFIED,2024-06-11T08:00:00
+SUP-00017,Nova Biochemical 17,TIER_1,USA,compliance@novabiochemical17.com,QUALIFIED,2025-02-22T08:00:00
+SUP-00018,BioPharma Synthetics 18,TIER_3,USA,compliance@biopharmasynthetics18.com,QUALIFIED,2025-05-10T08:00:00
+SUP-00019,Nova Biochemical 19,TIER_2,SGP,compliance@novabiochemical19.com,QUALIFIED,2024-09-10T08:00:00
+SUP-00020,Vanguard BioSciences 20,TIER_1,JPN,compliance@vanguardbiosciences20.com,QUALIFIED,2024-08-05T08:00:00
+SUP-00021,Continental Reagents 21,TIER_3,SGP,compliance@continentalreagents21.com,QUALIFIED,2024-01-01T08:00:00
+SUP-00022,Sterling Fine Chem 22,TIER_1,GBR,compliance@sterlingfinechem22.com,QUALIFIED,2024-08-05T08:00:00
+SUP-00023,Pacific BioAg 23,TIER_3,SGP,compliance@pacificbioag23.com,QUALIFIED,2023-11-19T08:00:00
+SUP-00024,Starlight Actives 24,TIER_2,FRA,compliance@starlightactives24.com,QUALIFIED,2024-12-24T08:00:00
+SUP-00025,Apex Polymers 25,TIER_2,GBR,compliance@apexpolymers25.com,QUALIFIED,2024-03-19T08:00:00
+SUP-00026,Apex Polymers 26,TIER_2,IRL,compliance@apexpolymers26.com,QUALIFIED,2023-11-06T08:00:00
+SUP-00027,Helvetia Pharma 27,TIER_2,SGP,compliance@helvetiapharma27.com,QUALIFIED,2024-11-01T08:00:00
+SUP-00028,Nova Biochemical 28,TIER_1,IRL,compliance@novabiochemical28.com,QUALIFIED,2024-04-08T08:00:00
+SUP-00029,Continental Reagents 29,TIER_3,DEU,compliance@continentalreagents29.com,QUALIFIED,2024-02-18T08:00:00
+SUP-00030,Kyoto Solvents 30,TIER_3,DNK,compliance@kyotosolvents30.com,QUALIFIED,2024-04-09T08:00:00
+SUP-00031,Pacific BioAg 31,TIER_2,CAN,compliance@pacificbioag31.com,QUALIFIED,2024-07-15T08:00:00
+SUP-00032,BioPharma Synthetics 32,TIER_1,DNK,compliance@biopharmasynthetics32.com,CONDITIONAL,2024-12-06T08:00:00
+SUP-00033,BioPharma Synthetics 33,TIER_2,CAN,compliance@biopharmasynthetics33.com,QUALIFIED,2023-12-28T08:00:00
+SUP-00034,Sterling Fine Chem 34,TIER_1,DEU,compliance@sterlingfinechem34.com,QUALIFIED,2024-11-12T08:00:00
+SUP-00035,Sterling Fine Chem 35,TIER_2,CHE,compliance@sterlingfinechem35.com,CONDITIONAL,2025-03-16T08:00:00
+SUP-00036,Kyoto Solvents 36,TIER_1,DEU,compliance@kyotosolvents36.com,CONDITIONAL,2024-05-08T08:00:00
+SUP-00037,Vanguard BioSciences 37,TIER_1,CAN,compliance@vanguardbiosciences37.com,CONDITIONAL,2024-07-19T08:00:00
+SUP-00038,Alps Purifications 38,TIER_3,USA,compliance@alpspurifications38.com,QUALIFIED,2025-03-18T08:00:00
+SUP-00039,Continental Reagents 39,TIER_2,IRL,compliance@continentalreagents39.com,QUALIFIED,2025-02-15T08:00:00
+SUP-00040,BioPharma Synthetics 40,TIER_1,IRL,compliance@biopharmasynthetics40.com,QUALIFIED,2024-02-21T08:00:00
+SUP-00041,Vanguard BioSciences 41,TIER_1,DNK,compliance@vanguardbiosciences41.com,QUALIFIED,2024-11-07T08:00:00
+SUP-00042,Pacific BioAg 42,TIER_1,JPN,compliance@pacificbioag42.com,SUSPENDED,2024-05-22T08:00:00
+SUP-00043,Pacific BioAg 43,TIER_2,CAN,compliance@pacificbioag43.com,QUALIFIED,2024-01-22T08:00:00
+SUP-00044,Nova Biochemical 44,TIER_2,DEU,compliance@novabiochemical44.com,CONDITIONAL,2025-03-23T08:00:00
+SUP-00045,Nordic Chemical Labs 45,TIER_3,IRL,compliance@nordicchemicallabs45.com,QUALIFIED,2025-05-15T08:00:00
+SUP-00046,Nova Biochemical 46,TIER_2,SGP,compliance@novabiochemical46.com,QUALIFIED,2024-08-09T08:00:00
+SUP-00047,Apex Polymers 47,TIER_2,DEU,compliance@apexpolymers47.com,QUALIFIED,2024-01-10T08:00:00
+SUP-00048,Helvetia Pharma 48,TIER_2,USA,compliance@helvetiapharma48.com,CONDITIONAL,2025-04-29T08:00:00
+SUP-00049,Pacific BioAg 49,TIER_2,DEU,compliance@pacificbioag49.com,QUALIFIED,2024-09-06T08:00:00
+SUP-00050,Starlight Actives 50,TIER_1,DEU,compliance@starlightactives50.com,QUALIFIED,2025-01-17T08:00:00

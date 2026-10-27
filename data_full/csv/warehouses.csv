@@ -1,0 +1,6 @@
+warehouse_id,name,location,country,facility_type,status
+WH-0001,North Central Logistics Hub,"Boston, MA",USA,DISTRIBUTION_CENTER,ACTIVE
+WH-0002,Mid-Atlantic Distribution Center,"Philadelphia, PA",USA,DISTRIBUTION_CENTER,ACTIVE
+WH-0003,Western Regional Cold-Chain Depot,"Reno, NV",USA,DISTRIBUTION_CENTER,ACTIVE
+WH-0004,Great Lakes Manufacturing Depot,"Chicago, IL",USA,CENTRAL_DEPOT,ACTIVE
+WH-0005,European Central Logistics Terminal,Basel,CHE,DISTRIBUTION_CENTER,ACTIVE

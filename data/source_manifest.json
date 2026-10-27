@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-10-27T11:55:53.033185Z",
+  "seed": 20261022,
+  "scale": "starter",
+  "tables": {
+    "suppliers": {
+      "row_count": 50,
+      "csv_sha256": "f9742629196928c44a4ad21846e6a9b6713129c504a22c9e9b035796737447c0",
+      "primary_key": "supplier_id"
+    },
+    "products": {
+      "row_count": 35,
+      "csv_sha256": "991cb8f51cacd2dfe8c5721f50a2ce57ef6b46da1ccf7715797e1e4af60e0cc8",
+      "primary_key": "product_id"
+    },
+    "boms": {
+      "row_count": 15,
+      "csv_sha256": "858731475947130e5c09f9c2513dc1d7c4b9bb9f1350958ded36d652ee3accc8",
+      "primary_key": "bom_id"
+    },
+    "bom_items": {
+      "row_count": 44,
+      "csv_sha256": "6e29c09fd92f85d5b6d2f783ef242f505eb8d96aeadb57e0a31f5ed315d3512e",
+      "primary_key": "bom_item_id"
+    },
+    "warehouses": {
+      "row_count": 5,
+      "csv_sha256": "31e01644c2e3cf3cfd4f96af33988f698761cf78503739dba2a1820e74ae0399",
+      "primary_key": "warehouse_id"
+    },
+    "material_lots": {
+      "row_count": 300,
+      "csv_sha256": "224a931fb07669178eef1e40d1a096ea8368e73842fa5157f90cc3e00d23858d",
+      "primary_key": "material_lot_id"
+    },
+    "production_orders": {
+      "row_count": 150,
+      "csv_sha256": "a7b6008309acc07556587d8abfc4af9e43e20cafd295b00c5ee2708b93fb8a76",
+      "primary_key": "production_order_id"
+    },
+    "production_order_lot_consumptions": {
+      "row_count": 450,
+      "csv_sha256": "f75eb9392b4aefbab553a40b3b3d5f41e840e5eb20608c8f6f6933b4c1bbc3bb",
+      "primary_key": "consumption_id"
+    },
+    "finished_lots": {
+      "row_count": 200,
+      "csv_sha256": "b338a135e5c6b008e229ca236cc9ff5738079d061872e8b87d2c5f316bec373b",
+      "primary_key": "finished_lot_id"
+    },
+    "customers": {
+      "row_count": 80,
+      "csv_sha256": "9bd7184c3e0e7ebb3b7b19772ac3b889d3aeff054f32269f6e89c5e52b0da64a",
+      "primary_key": "customer_id"
+    },
+    "shipments": {
+      "row_count": 120,
+      "csv_sha256": "dc938440f4709817839758088c3931c3e575c65b10458edaeacf7a1efee3a98a",
+      "primary_key": "shipment_id"
+    },
+    "deliveries": {
+      "row_count": 500,
+      "csv_sha256": "17f67b575abda57829f3f9cc4bcc9cb811a19d8762ef2ca3e2c1defe8b29866b",
+      "primary_key": "delivery_id"
+    },
+    "recall_cases": {
+      "row_count": 9,
+      "csv_sha256": "a565db10d7a6012a69e806539deac046a155f0cb381f4742bb958dd326671d73",
+      "primary_key": "recall_case_id"
+    },
+    "recall_actions": {
+      "row_count": 88,
+      "csv_sha256": "af5bddd4bfa96c0f4e682299b0ad54046ffc569f662490a90a96c777a4268fe0",
+      "primary_key": "action_id"
+    },
+    "inventory_movements": {
+      "row_count": 771,
+      "csv_sha256": "90b7d7b1e69ea264632817ac12862ffe682c7c92ac75184616971c6388ae23eb",
+      "primary_key": "movement_id"
+    }
+  },
+  "sqlite_sha256": "05147ed70fbd91ed39450b9d50dab3ffe55f5541554b7f83476dd548af2648dc"
+}
