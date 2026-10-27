@@ -1,0 +1,16 @@
+# PharmaTrace Nexus - Multi-Tier Lot Traceability & Recall Simulation Suite
+#
+# Runtime Requirements:
+# PharmaTrace Nexus is engineered with zero external runtime dependencies,
+# operating entirely on the Python Standard Library (Python >= 3.10)
+# including sqlite3, http.server, dataclasses, hashlib, and unittest.
+
+# Build & Packaging
+setuptools>=61.0
+wheel
+
+# Development, Quality Assurance & Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+flake8>=6.0.0
+mypy>=1.0.0

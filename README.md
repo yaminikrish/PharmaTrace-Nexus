@@ -284,6 +284,7 @@ c:\Users\ASSIMILATE\Desktop\task\
 │   └── app.js                         # DAG visualizer, timeline stepper, and actor portals
 ├── main.py                            # Root CLI entrypoint
 ├── server.py                          # Backwards-compatible server launcher
+├── requirements.txt                     # Build and development dependencies
 ├── pyproject.toml                     # Enterprise package & build configuration
 └── README.md                          # Comprehensive system documentation
 ```
