@@ -250,7 +250,7 @@ python -m unittest discover tests
 The codebase is structured according to **Clean Architecture / Domain-Driven Design (DDD)** principles:
 
 ```
-c:\Users\ASSIMILATE\Desktop\task\
+
 ├── pharmatrace/                        # Core Enterprise Python Package
 │   ├── config.py                      # Strongly-typed configuration, settings & logging
 │   ├── core/                          # Domain Layer (Zero external framework dependencies)
